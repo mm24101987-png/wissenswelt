@@ -1,0 +1,602 @@
+[
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "In Call of Duty: Modern Warfare 2, wie viele aufeinanderfolgende Kills benötigt es, um den \"taktischen Nuke\" zu verdienen;Killstreak?",
+    "correct_answer": "25",
+    "incorrect_answers": [
+      "20",
+      "30",
+      "35"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wer ist der Anführer von Team Valor in Pok & Eacute; Mon Go?",
+    "correct_answer": "Candela",
+    "incorrect_answers": [
+      "Weide",
+      "Blanche",
+      "Funke"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Fahrzeuge",
+    "question": "Jaguar Cars war zuvor im Besitz von welchem ​​Autohersteller?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Chrysler",
+      "General Motors",
+      "Fiat"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie heißt das erste Studioalbum von Pink Floyd?",
+    "correct_answer": "Der Pfeifer an den Toren des Morgengrauens",
+    "incorrect_answers": [
+      "Ummagumma",
+      "Mehr",
+      "Atom Heart Mutter"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Wer war der erste Präsident, der in den unabhängigen Vereinigten Staaten geboren wurde?",
+    "correct_answer": "Martin van Buren",
+    "incorrect_answers": [
+      "John Adams",
+      "George Washington",
+      "James Monroe"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Wie heißt der wissenschaftliche Name von Yoshi in der Serie Super Mario Bros.?",
+    "correct_answer": "T. Yoshisaur Munchakoopas",
+    "incorrect_answers": [
+      "Yoshi",
+      "T. Yoshisotop Munchakoopas",
+      "Yossy"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Was ist die Heimatwelt der Eliten von Halo?",
+    "correct_answer": "Sanghelios",
+    "incorrect_answers": [
+      "Te",
+      "Doisac",
+      "Eayn"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Allgemeinwissen",
+    "question": "Die Fields -Medaille, eine der gefragtesten Auszeichnungen in der Mathematik, wird alle Jahre verliehen?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "3",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft",
+    "question": "Welches davon ist der Name für das von der National Security Agency 1993 eingeführte fehlgeschlagene Treuhandel?",
+    "correct_answer": "Clipper -Chip",
+    "incorrect_answers": [
+      "Enigma -Maschine",
+      "Skipjack",
+      "Nautilus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft",
+    "question": "Wie viele Werte kann ein einzelnes Byte darstellen?",
+    "correct_answer": "256",
+    "incorrect_answers": [
+      "8",
+      "1",
+      "1024"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welche der folgenden Klangkräfte stammte im Spiel nicht aus einem früheren Spiel?",
+    "correct_answer": "Unendlich",
+    "incorrect_answers": [
+      "Metal Sonic",
+      "Zavoc",
+      "Chaos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geschichte",
+    "question": "Was hat die Abkürzung?Im Jahr 1912 für die RMS -Titanic stehen?",
+    "correct_answer": "Royal Mail Ship",
+    "incorrect_answers": [
+      "Royal Majesty Service",
+      "Regelmäßiger maritimer Zeitplan",
+      "Regulierter Strudelsensor"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Der Hauptprotagonist des vierten Teils von Jojos bizarrem Abenteuer ist welche der folgenden?",
+    "correct_answer": "Josuke Higashikata",
+    "incorrect_answers": [
+      "Yoshikage Kira",
+      "Koichi Hirose",
+      "Joey Jojo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welchen Namen hat \"Mario\", von \"Super Mario Brothers\", ursprünglich?",
+    "correct_answer": "Ossan",
+    "incorrect_answers": [
+      "Jumpman",
+      "Mr. Video",
+      "Mario"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft",
+    "question": "Was ist die Quadratwurzel von 49?",
+    "correct_answer": "7",
+    "incorrect_answers": [
+      "4",
+      "12",
+      "9"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Welches Animationsstudio animiert \"Hidamari Sketch\"?",
+    "correct_answer": "Welle",
+    "incorrect_answers": [
+      "Auslösen",
+      "Kyoto -Animation",
+      "Produktion I.G"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Prominente",
+    "question": "Wenn er noch am Leben wäre, würde Elvis Presley in welchem ​​Jahr seinen 100. Geburtstag feiern?",
+    "correct_answer": "2035",
+    "incorrect_answers": [
+      "2030",
+      "2040",
+      "2045"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft",
+    "question": "Welche der folgenden Sprachen wird als Skriptsprache in der Unity 3D Game Engine verwendet?",
+    "correct_answer": "C#",
+    "incorrect_answers": [
+      "Java",
+      "C ++",
+      "Ziel-C"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Wenn jemand feige ist, wird gesagt, dass er welchen Farbbauch hat?",
+    "correct_answer": "Gelb",
+    "incorrect_answers": [
+      "Grün",
+      "Rot",
+      "Blau"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "In der \"toaru majutsu no index & quot;Anime, Touma Kamijou ist ein Esper Level 0, der die Fähigkeit hat, was zu tun?",
+    "correct_answer": "Bezeilen Sie alle Esper- oder magischen Kräfte",
+    "incorrect_answers": [
+      "Teleport",
+      "Telepathische Kommunikation machen",
+      "Elektrizität aus seinem eigenen Körper schaffen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft",
+    "question": "Welche Menge an Bits ist üblicherweise einem Byte?",
+    "correct_answer": "8",
+    "incorrect_answers": [
+      "1",
+      "2",
+      "64"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Grant Gustin spielt welchen Superhelden in der gleichnamigen CW -Show?",
+    "correct_answer": "Der Blitz",
+    "incorrect_answers": [
+      "Der Pfeil",
+      "Schwarzer Kanarienvogel",
+      "Draufgänger"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Allgemeinwissen",
+    "question": "Wie lange müssen Sie laut Fair Works Australia arbeiten, um einen langen Service zu erhalten?",
+    "correct_answer": "7 Jahre",
+    "incorrect_answers": [
+      "2 Jahre",
+      "8 Jahre",
+      "6 Monate"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Wie hieß Jonny in den Abenteuern von Jonny Quest?",
+    "correct_answer": "Bandit",
+    "incorrect_answers": [
+      "Glücklich",
+      "Felsig",
+      "Max"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Mythologie",
+    "question": "Wer hat nach dem ägyptischen Mythos von Osiris Osiris ermordet?",
+    "correct_answer": "Satz",
+    "incorrect_answers": [
+      "Horus",
+      "Ra",
+      "Anhur"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Welche der folgenden Aussagen ist kein echtes Element?",
+    "correct_answer": "Vitrainium",
+    "incorrect_answers": [
+      "Praseodym",
+      "Hsium",
+      "Lutetium"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Wie viele Provinzen sind in den Niederlanden?",
+    "correct_answer": "12",
+    "incorrect_answers": [
+      "14",
+      "10",
+      "13"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Im Indie -Bauernspiel \"Stredew Valley\", das NPC den \"prismatischen Shard\" hasst;Artikel als Geschenk erhalten?",
+    "correct_answer": "Haley",
+    "incorrect_answers": [
+      "Abigail",
+      "Elliott",
+      "Lewis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Was ist der richtige Weg, um die Hauptstadt Ungarns zu buchstabieren?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": [
+      "Budapest",
+      "Budapest",
+      "Budapest"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Sport",
+    "question": "Was ist das älteste Team in der NFL?",
+    "correct_answer": "Arizona Cardinals",
+    "incorrect_answers": [
+      "Chicago Bears",
+      "Green Bay Packers",
+      "New York Giants"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wendy O. Koopa erschien in den Super Mario DiC -Cartoons, aber was war sie bekannt?",
+    "correct_answer": "Kootie Pie",
+    "incorrect_answers": [
+      "Süße Kuchen",
+      "Wendy Pie",
+      "Honigkuchen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Der dreißigjährige Krieg endete mit welchem ​​Vertrag?",
+    "correct_answer": "Frieden der Westfalia",
+    "incorrect_answers": [
+      "Vertrag von Versailles",
+      "Vertrag von Paris",
+      "Frieden von Prag"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geschichte",
+    "question": "Wie viele bemannte Mondlandungen gab es?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "1",
+      "3",
+      "7"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welche davon ist keine Welt im Anime \"Buddyfight\"?",
+    "correct_answer": "Alte Drachenwelt",
+    "incorrect_answers": [
+      "Drachenwelt",
+      "Star Dragon World",
+      "Dunkelheit Dragon World"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Prominente",
+    "question": "Neil Hamburger wird von welchem ​​Komiker gespielt?",
+    "correct_answer": "Gregg Turkington",
+    "incorrect_answers": [
+      "Nathan Fielder",
+      "Tim Heidecker",
+      "Toddglas"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "In der \"The Hobbit\", wer tötet Smaug?",
+    "correct_answer": "Barde",
+    "incorrect_answers": [
+      "Bilbo Baggins",
+      "Gandalf der Grau",
+      "Frodo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wer schrieb die Batman -Comic -Serie \"The Killing Witz\"?",
+    "correct_answer": "Alan Moore",
+    "incorrect_answers": [
+      "Bill Finger",
+      "Frank Miller",
+      "Jerry Siegel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Der erste Auftritt von Waluigi war in welchem ​​Spiel?",
+    "correct_answer": "Mario Tennis 64 (N64)",
+    "incorrect_answers": [
+      "Wario Land: Super Mario Land 3",
+      "Mario Party (N64)",
+      "Super Smash Bros. Ultimate"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Wie heißt die Schule im Anime und Manga \"Gosick\"?",
+    "correct_answer": "St. Marguerite",
+    "incorrect_answers": [
+      "St. Augustinus",
+      "St. Mary",
+      "St. Bernadette"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geschichte",
+    "question": "Das ontologische Argument für den Beweis der Existenz Gottes wird zuerst wem zugeschrieben?",
+    "correct_answer": "Anselm von Canterbury",
+    "incorrect_answers": [
+      "Ren & eacute;Descartes",
+      "Immanuel Kant",
+      "Aristoteles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "An welchem ​​Tag begann der Versuch des Versuchs, 1991 in der Sowjetunion begonnen zu haben?",
+    "correct_answer": "19. August",
+    "incorrect_answers": [
+      "21. August",
+      "26. Dezember",
+      "24. Dezember"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Welche dieser Gründerväter der Vereinigten Staaten von Amerika wurde später Präsident?",
+    "correct_answer": "James Monroe",
+    "incorrect_answers": [
+      "Alexander Hamilton",
+      "Samuel Adams",
+      "Roger Sherman"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welches Land ist im Ace Combat 5: The Unsung War?",
+    "correct_answer": "Osea",
+    "incorrect_answers": [
+      "Aurelia",
+      "Australien",
+      "Japan"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Fahrzeuge",
+    "question": "Wann wurde Tesla gegründet?",
+    "correct_answer": "2003",
+    "incorrect_answers": [
+      "2008",
+      "2005",
+      "2007"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In welchem ​​Homestuck -Update wurde das Spiel veröffentlicht?",
+    "correct_answer": "25. Oktober 2014",
+    "incorrect_answers": [
+      "13. April 2009",
+      "8. April 2012",
+      "28. August 2003"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wer wurde in dem Song \"Words\" vorgestellt?von Finte?",
+    "correct_answer": "Laura Brehm",
+    "incorrect_answers": [
+      "Anna Yvette",
+      "Danyka Nadeau",
+      "Veela"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "In der Halbwertsreihe ist Gordon Freemans Signaturwaffe a:",
+    "correct_answer": "Brecheisen",
+    "incorrect_answers": [
+      "Vorschlaghammer",
+      "Faserdraht",
+      "Katana"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Wann wurde die PlayStation 3 veröffentlicht?",
+    "correct_answer": "11. November 2006",
+    "incorrect_answers": [
+      "8. Januar 2007",
+      "25. Dezember 2007",
+      "16. Juli 2006"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Sport",
+    "question": "Welches Team hat die meisten Stanley Cups in der NHL gewonnen?",
+    "correct_answer": "Montreal Canadiens",
+    "incorrect_answers": [
+      "Chicago Blackhawks",
+      "Toronto Maple Leafs",
+      "Detroit Red Wings"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Allgemeinwissen",
+    "question": "Was macht die \"g & quot;Mean in \"g-Man\"?",
+    "correct_answer": "Regierung",
+    "incorrect_answers": [
+      "Gehen",
+      "Geist",
+      "Geronimo"
+    ]
+  }
+]
