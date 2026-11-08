@@ -1,0 +1,1154 @@
+[
+  {
+    "id": 1,
+    "category": "Geschichte",
+    "topic": "Antike",
+    "lesson": "Die römische Republik bestand vor dem Kaiserreich. Julius Caesar wurde 44 v. Chr. ermordet; Augustus gilt als erster römischer Kaiser.",
+    "question": "Wer gilt als erster römischer Kaiser?",
+    "options": [
+      "Augustus",
+      "Julius Caesar",
+      "Nero",
+      "Trajan"
+    ],
+    "answer": 0,
+    "explanation": "Augustus begründete 27 v. Chr. das Prinzipat.",
+    "title": "Wer gilt als erster römischer Kaiser?"
+  },
+  {
+    "id": 2,
+    "category": "Geschichte",
+    "topic": "Mittelalter",
+    "lesson": "Johannes Gutenberg entwickelte im 15. Jahrhundert den Buchdruck mit beweglichen Metalllettern in Europa entscheidend weiter.",
+    "question": "Womit ist Johannes Gutenberg besonders verbunden?",
+    "options": [
+      "Buchdruck",
+      "Dampfmaschine",
+      "Telefon",
+      "Fotografie"
+    ],
+    "answer": 0,
+    "explanation": "Sein Druckverfahren erleichterte die Verbreitung von Büchern.",
+    "title": "Womit ist Johannes Gutenberg besonders verbunden?"
+  },
+  {
+    "id": 3,
+    "category": "Geschichte",
+    "topic": "Neuzeit",
+    "lesson": "Die Französische Revolution begann 1789. Der Sturm auf die Bastille wurde zu ihrem Symbol.",
+    "question": "Wann begann die Französische Revolution?",
+    "options": [
+      "1789",
+      "1815",
+      "1848",
+      "1914"
+    ],
+    "answer": 0,
+    "explanation": "1789 gilt als Beginn der Revolution.",
+    "title": "Wann begann die Französische Revolution?"
+  },
+  {
+    "id": 4,
+    "category": "Geschichte",
+    "topic": "Weltkriege",
+    "lesson": "Der Erste Weltkrieg begann 1914 und endete 1918. Das Attentat von Sarajevo löste eine internationale Krise aus.",
+    "question": "In welchem Jahr begann der Erste Weltkrieg?",
+    "options": [
+      "1914",
+      "1905",
+      "1918",
+      "1939"
+    ],
+    "answer": 0,
+    "explanation": "1914 begann der Krieg.",
+    "title": "In welchem Jahr begann der Erste Weltkrieg?"
+  },
+  {
+    "id": 5,
+    "category": "Geschichte",
+    "topic": "Zeitgeschichte",
+    "lesson": "Die Berliner Mauer wurde 1961 errichtet und am 9. November 1989 geöffnet.",
+    "question": "Wann wurde die Berliner Mauer geöffnet?",
+    "options": [
+      "1989",
+      "1979",
+      "1991",
+      "1961"
+    ],
+    "answer": 0,
+    "explanation": "Die Grenzöffnung erfolgte am 9. November 1989.",
+    "title": "Wann wurde die Berliner Mauer geöffnet?"
+  },
+  {
+    "id": 6,
+    "category": "Geschichte",
+    "topic": "Europa",
+    "lesson": "Der Dreißigjährige Krieg dauerte von 1618 bis 1648. Der Westfälische Friede beendete ihn.",
+    "question": "Welcher Friede beendete den Dreißigjährigen Krieg?",
+    "options": [
+      "Westfälischer Friede",
+      "Versailler Vertrag",
+      "Wiener Kongress",
+      "Friede von Utrecht"
+    ],
+    "answer": 0,
+    "explanation": "Der Westfälische Friede wurde 1648 geschlossen.",
+    "title": "Welcher Friede beendete den Dreißigjährigen Krieg?"
+  },
+  {
+    "id": 7,
+    "category": "Geografie",
+    "topic": "Kontinente",
+    "lesson": "Die Erde besitzt sieben Kontinente nach verbreiteter Zählweise. Afrika wird vom Äquator durchquert.",
+    "question": "Welcher Kontinent wird vom Äquator durchquert?",
+    "options": [
+      "Afrika",
+      "Europa",
+      "Antarktika",
+      "Australien"
+    ],
+    "answer": 0,
+    "explanation": "Der Äquator verläuft durch mehrere afrikanische Staaten.",
+    "title": "Welcher Kontinent wird vom Äquator durchquert?"
+  },
+  {
+    "id": 8,
+    "category": "Geografie",
+    "topic": "Hauptstädte",
+    "lesson": "Kanada hat Ottawa als Hauptstadt. Toronto ist die bevölkerungsreichste Stadt Kanadas.",
+    "question": "Was ist Kanadas Hauptstadt?",
+    "options": [
+      "Ottawa",
+      "Toronto",
+      "Vancouver",
+      "Montreal"
+    ],
+    "answer": 0,
+    "explanation": "Ottawa ist der Sitz der Bundesregierung.",
+    "title": "Was ist Kanadas Hauptstadt?"
+  },
+  {
+    "id": 9,
+    "category": "Geografie",
+    "topic": "Ozeane",
+    "lesson": "Der Pazifische Ozean ist der flächenmäßig größte Ozean der Erde.",
+    "question": "Welcher Ozean ist der größte?",
+    "options": [
+      "Pazifik",
+      "Atlantik",
+      "Indischer Ozean",
+      "Arktischer Ozean"
+    ],
+    "answer": 0,
+    "explanation": "Der Pazifik erstreckt sich zwischen Asien, Australien und Amerika.",
+    "title": "Welcher Ozean ist der größte?"
+  },
+  {
+    "id": 10,
+    "category": "Geografie",
+    "topic": "Flüsse",
+    "lesson": "Die Donau entspringt im Schwarzwald und mündet ins Schwarze Meer.",
+    "question": "In welches Meer mündet die Donau?",
+    "options": [
+      "Schwarzes Meer",
+      "Nordsee",
+      "Ostsee",
+      "Adria"
+    ],
+    "answer": 0,
+    "explanation": "Das Donaudelta liegt am Schwarzen Meer.",
+    "title": "In welches Meer mündet die Donau?"
+  },
+  {
+    "id": 11,
+    "category": "Geografie",
+    "topic": "Gebirge",
+    "lesson": "Der Mount Everest ist der höchste Berg über dem Meeresspiegel und liegt im Himalaya.",
+    "question": "In welchem Gebirge liegt der Mount Everest?",
+    "options": [
+      "Himalaya",
+      "Anden",
+      "Alpen",
+      "Kaukasus"
+    ],
+    "answer": 0,
+    "explanation": "Der Everest befindet sich an der Grenze zwischen Nepal und China.",
+    "title": "In welchem Gebirge liegt der Mount Everest?"
+  },
+  {
+    "id": 12,
+    "category": "Geografie",
+    "topic": "Seen",
+    "lesson": "Der Baikalsee in Sibirien ist der tiefste See der Erde und enthält sehr viel Süßwasser.",
+    "question": "Welcher See ist der tiefste der Erde?",
+    "options": [
+      "Baikalsee",
+      "Victoriasee",
+      "Bodensee",
+      "Genfersee"
+    ],
+    "answer": 0,
+    "explanation": "Der Baikalsee erreicht über 1600 Meter Tiefe.",
+    "title": "Welcher See ist der tiefste der Erde?"
+  },
+  {
+    "id": 13,
+    "category": "Österreich",
+    "topic": "Bundesländer",
+    "lesson": "Österreich ist eine Bundesrepublik mit neun Bundesländern. Wien ist zugleich Stadt und Bundesland.",
+    "question": "Wie viele Bundesländer hat Österreich?",
+    "options": [
+      "9",
+      "7",
+      "8",
+      "10"
+    ],
+    "answer": 0,
+    "explanation": "Es gibt neun österreichische Bundesländer.",
+    "title": "Wie viele Bundesländer hat Österreich?"
+  },
+  {
+    "id": 14,
+    "category": "Österreich",
+    "topic": "EU",
+    "lesson": "Österreich trat am 1. Jänner 1995 der Europäischen Union bei, gemeinsam mit Finnland und Schweden.",
+    "question": "Wann trat Österreich der EU bei?",
+    "options": [
+      "1995",
+      "1986",
+      "2002",
+      "2007"
+    ],
+    "answer": 0,
+    "explanation": "Der Beitritt erfolgte 1995.",
+    "title": "Wann trat Österreich der EU bei?"
+  },
+  {
+    "id": 15,
+    "category": "Österreich",
+    "topic": "Neutralität",
+    "lesson": "Das österreichische Neutralitätsgesetz wurde am 26. Oktober 1955 beschlossen. Daran erinnert der Nationalfeiertag.",
+    "question": "An welchem Datum ist Österreichs Nationalfeiertag?",
+    "options": [
+      "26. Oktober",
+      "1. Mai",
+      "15. August",
+      "12. November"
+    ],
+    "answer": 0,
+    "explanation": "Der 26. Oktober erinnert an die Neutralitätserklärung.",
+    "title": "An welchem Datum ist Österreichs Nationalfeiertag?"
+  },
+  {
+    "id": 16,
+    "category": "Österreich",
+    "topic": "Geografie",
+    "lesson": "Die Donau fließt durch Linz und Wien. Linz ist die Landeshauptstadt Oberösterreichs.",
+    "question": "Was ist die Landeshauptstadt Oberösterreichs?",
+    "options": [
+      "Linz",
+      "Wels",
+      "Steyr",
+      "Braunau"
+    ],
+    "answer": 0,
+    "explanation": "Linz ist Sitz der oberösterreichischen Landesregierung.",
+    "title": "Was ist die Landeshauptstadt Oberösterreichs?"
+  },
+  {
+    "id": 17,
+    "category": "Österreich",
+    "topic": "Politik",
+    "lesson": "Der Nationalrat ist eine Kammer des österreichischen Parlaments und wird grundsätzlich für fünf Jahre gewählt.",
+    "question": "Wie lange dauert eine reguläre Nationalratsperiode?",
+    "options": [
+      "5 Jahre",
+      "3 Jahre",
+      "4 Jahre",
+      "6 Jahre"
+    ],
+    "answer": 0,
+    "explanation": "Die Gesetzgebungsperiode dauert grundsätzlich fünf Jahre.",
+    "title": "Wie lange dauert eine reguläre Nationalratsperiode?"
+  },
+  {
+    "id": 18,
+    "category": "Österreich",
+    "topic": "Geschichte",
+    "lesson": "Der Staatsvertrag von 1955 stellte Österreichs volle Souveränität wieder her und beendete die Besatzungszeit.",
+    "question": "In welchem Jahr wurde der österreichische Staatsvertrag unterzeichnet?",
+    "options": [
+      "1955",
+      "1945",
+      "1965",
+      "1989"
+    ],
+    "answer": 0,
+    "explanation": "Der Staatsvertrag wurde am 15. Mai 1955 unterzeichnet.",
+    "title": "In welchem Jahr wurde der österreichische Staatsvertrag unterzeichnet?"
+  },
+  {
+    "id": 19,
+    "category": "Naturwissenschaft",
+    "topic": "Chemie",
+    "lesson": "Das chemische Symbol für Gold lautet Au und leitet sich vom lateinischen Aurum ab.",
+    "question": "Welches Symbol steht für Gold?",
+    "options": [
+      "Au",
+      "Ag",
+      "Fe",
+      "Cu"
+    ],
+    "answer": 0,
+    "explanation": "Au stammt von Aurum.",
+    "title": "Welches Symbol steht für Gold?"
+  },
+  {
+    "id": 20,
+    "category": "Naturwissenschaft",
+    "topic": "Physik",
+    "lesson": "Elektrische Stromstärke wird in Ampere gemessen. Spannung wird in Volt gemessen.",
+    "question": "Welche Einheit misst elektrische Stromstärke?",
+    "options": [
+      "Ampere",
+      "Volt",
+      "Ohm",
+      "Watt"
+    ],
+    "answer": 0,
+    "explanation": "Ampere ist die SI-Einheit der Stromstärke.",
+    "title": "Welche Einheit misst elektrische Stromstärke?"
+  },
+  {
+    "id": 21,
+    "category": "Naturwissenschaft",
+    "topic": "Biologie",
+    "lesson": "Pflanzen nutzen bei der Fotosynthese Lichtenergie, Wasser und Kohlenstoffdioxid, um energiereiche Stoffe aufzubauen.",
+    "question": "Welches Gas nehmen Pflanzen bei der Fotosynthese auf?",
+    "options": [
+      "Kohlenstoffdioxid",
+      "Sauerstoff",
+      "Helium",
+      "Stickstoff"
+    ],
+    "answer": 0,
+    "explanation": "Kohlenstoffdioxid ist ein Ausgangsstoff der Fotosynthese.",
+    "title": "Welches Gas nehmen Pflanzen bei der Fotosynthese auf?"
+  },
+  {
+    "id": 22,
+    "category": "Naturwissenschaft",
+    "topic": "Astronomie",
+    "lesson": "Die Erde umkreist die Sonne ungefähr einmal pro Jahr. Der Mond umkreist die Erde.",
+    "question": "Welcher Himmelskörper wird von der Erde umkreist?",
+    "options": [
+      "Sonne",
+      "Mars",
+      "Jupiter",
+      "Polarstern"
+    ],
+    "answer": 0,
+    "explanation": "Die Erde bewegt sich auf ihrer Bahn um die Sonne.",
+    "title": "Welcher Himmelskörper wird von der Erde umkreist?"
+  },
+  {
+    "id": 23,
+    "category": "Naturwissenschaft",
+    "topic": "Atomphysik",
+    "lesson": "Ein Atomkern enthält Protonen und meist Neutronen. Elektronen befinden sich in der Atomhülle.",
+    "question": "Welches Teilchen trägt eine negative elektrische Ladung?",
+    "options": [
+      "Elektron",
+      "Proton",
+      "Neutron",
+      "Alpha-Teilchen"
+    ],
+    "answer": 0,
+    "explanation": "Elektronen sind negativ geladen.",
+    "title": "Welches Teilchen trägt eine negative elektrische Ladung?"
+  },
+  {
+    "id": 24,
+    "category": "Naturwissenschaft",
+    "topic": "Geologie",
+    "lesson": "Die äußere feste Erdhülle ist in tektonische Platten gegliedert. An ihren Grenzen treten häufig Erdbeben auf.",
+    "question": "Wo treten viele Erdbeben auf?",
+    "options": [
+      "An Plattengrenzen",
+      "Nur an Flussmündungen",
+      "Nur in Wüsten",
+      "Nur an Polen"
+    ],
+    "answer": 0,
+    "explanation": "Bewegungen tektonischer Platten erzeugen Spannungen.",
+    "title": "Wo treten viele Erdbeben auf?"
+  },
+  {
+    "id": 25,
+    "category": "Technik",
+    "topic": "Computer",
+    "lesson": "Die CPU ist die zentrale Verarbeitungseinheit eines Computers. RAM dient als flüchtiger Arbeitsspeicher.",
+    "question": "Wofür steht CPU?",
+    "options": [
+      "Central Processing Unit",
+      "Computer Power Utility",
+      "Central Program Upload",
+      "Control Peripheral Unit"
+    ],
+    "answer": 0,
+    "explanation": "CPU bedeutet zentrale Verarbeitungseinheit.",
+    "title": "Wofür steht CPU?"
+  },
+  {
+    "id": 26,
+    "category": "Technik",
+    "topic": "Internet",
+    "lesson": "Das Domain Name System übersetzt Domainnamen in IP-Adressen und weitere DNS-Einträge.",
+    "question": "Was ist eine wichtige Aufgabe von DNS?",
+    "options": [
+      "Domainnamen auflösen",
+      "Akkus laden",
+      "Dateien komprimieren",
+      "Bildschirme kalibrieren"
+    ],
+    "answer": 0,
+    "explanation": "DNS ermöglicht die Zuordnung von Namen zu Netzwerkinformationen.",
+    "title": "Was ist eine wichtige Aufgabe von DNS?"
+  },
+  {
+    "id": 27,
+    "category": "Technik",
+    "topic": "Energie",
+    "lesson": "Photovoltaikmodule erzeugen Gleichstrom. Ein Wechselrichter wandelt ihn für übliche Wechselstromnetze um.",
+    "question": "Was macht ein Wechselrichter?",
+    "options": [
+      "Gleichstrom zu Wechselstrom",
+      "Strom dauerhaft speichern",
+      "Wasser erwärmen",
+      "Strom in Licht umwandeln"
+    ],
+    "answer": 0,
+    "explanation": "Ein Wechselrichter erzeugt Wechselstrom aus Gleichstrom.",
+    "title": "Was macht ein Wechselrichter?"
+  },
+  {
+    "id": 28,
+    "category": "Technik",
+    "topic": "Einheiten",
+    "lesson": "Ein Kilobyte wird im dezimalen SI-Gebrauch als 1000 Byte definiert; ein Kibibyte sind 1024 Byte.",
+    "question": "Wie viele Byte hat ein Kibibyte?",
+    "options": [
+      "1024",
+      "1000",
+      "512",
+      "2048"
+    ],
+    "answer": 0,
+    "explanation": "Kibi bezeichnet die binäre Vorsilbe für 1024.",
+    "title": "Wie viele Byte hat ein Kibibyte?"
+  },
+  {
+    "id": 29,
+    "category": "Technik",
+    "topic": "Kommunikation",
+    "lesson": "Bluetooth ist ein Funkstandard für kurze Distanzen, etwa zwischen Kopfhörern und Smartphones.",
+    "question": "Wofür wird Bluetooth typischerweise genutzt?",
+    "options": [
+      "Funkverbindung auf kurze Distanz",
+      "Satellitennavigation",
+      "Papierdruck",
+      "Stromerzeugung"
+    ],
+    "answer": 0,
+    "explanation": "Bluetooth verbindet Geräte drahtlos über kurze Strecken.",
+    "title": "Wofür wird Bluetooth typischerweise genutzt?"
+  },
+  {
+    "id": 30,
+    "category": "Technik",
+    "topic": "Mobilfunk",
+    "lesson": "5G bezeichnet die fünfte Mobilfunkgeneration und ist Nachfolger von 4G/LTE.",
+    "question": "Wofür steht die Zahl 5 in 5G?",
+    "options": [
+      "Fünfte Generation",
+      "Fünf Gigabyte",
+      "Fünf Frequenzen",
+      "Fünf Satelliten"
+    ],
+    "answer": 0,
+    "explanation": "5G ist die fünfte Generation des Mobilfunks.",
+    "title": "Wofür steht die Zahl 5 in 5G?"
+  },
+  {
+    "id": 31,
+    "category": "Körper & Medizin",
+    "topic": "Kreislauf",
+    "lesson": "Das Herz pumpt Blut durch Lungen- und Körperkreislauf. Arterien führen Blut vom Herzen weg.",
+    "question": "Welches Organ pumpt Blut durch den Körper?",
+    "options": [
+      "Herz",
+      "Leber",
+      "Niere",
+      "Milz"
+    ],
+    "answer": 0,
+    "explanation": "Das Herz ist die Pumpe des Kreislaufs.",
+    "title": "Welches Organ pumpt Blut durch den Körper?"
+  },
+  {
+    "id": 32,
+    "category": "Körper & Medizin",
+    "topic": "Blut",
+    "lesson": "Erythrozyten enthalten Hämoglobin und transportieren den größten Teil des Sauerstoffs im Blut.",
+    "question": "Welche Zellen transportieren den Großteil des Sauerstoffs?",
+    "options": [
+      "Erythrozyten",
+      "Thrombozyten",
+      "Lymphozyten",
+      "Monozyten"
+    ],
+    "answer": 0,
+    "explanation": "Rote Blutkörperchen enthalten Hämoglobin.",
+    "title": "Welche Zellen transportieren den Großteil des Sauerstoffs?"
+  },
+  {
+    "id": 33,
+    "category": "Körper & Medizin",
+    "topic": "Verdauung",
+    "lesson": "Der Dünndarm ist der wichtigste Ort für die Aufnahme vieler Nährstoffe aus der Nahrung.",
+    "question": "Wo werden die meisten Nährstoffe aufgenommen?",
+    "options": [
+      "Dünndarm",
+      "Speiseröhre",
+      "Dickdarm",
+      "Mundhöhle"
+    ],
+    "answer": 0,
+    "explanation": "Die große Oberfläche des Dünndarms unterstützt die Aufnahme.",
+    "title": "Wo werden die meisten Nährstoffe aufgenommen?"
+  },
+  {
+    "id": 34,
+    "category": "Körper & Medizin",
+    "topic": "Knochen",
+    "lesson": "Ein erwachsener Mensch besitzt typischerweise 206 Knochen. Bei Kindern können es mehr sein.",
+    "question": "Wie viele Knochen hat ein erwachsener Mensch typischerweise?",
+    "options": [
+      "206",
+      "186",
+      "226",
+      "256"
+    ],
+    "answer": 0,
+    "explanation": "Viele Knochen wachsen im Lauf der Entwicklung zusammen.",
+    "title": "Wie viele Knochen hat ein erwachsener Mensch typischerweise?"
+  },
+  {
+    "id": 35,
+    "category": "Körper & Medizin",
+    "topic": "Hormone",
+    "lesson": "Insulin wird in der Bauchspeicheldrüse gebildet und hilft, den Blutzuckerspiegel zu senken.",
+    "question": "Welches Hormon senkt normalerweise den Blutzucker?",
+    "options": [
+      "Insulin",
+      "Glukagon",
+      "Adrenalin",
+      "Cortisol"
+    ],
+    "answer": 0,
+    "explanation": "Insulin fördert die Aufnahme und Speicherung von Glukose.",
+    "title": "Welches Hormon senkt normalerweise den Blutzucker?"
+  },
+  {
+    "id": 36,
+    "category": "Körper & Medizin",
+    "topic": "Atmung",
+    "lesson": "In den Lungenbläschen findet der Gasaustausch zwischen Atemluft und Blut statt.",
+    "question": "Wo findet der Gasaustausch hauptsächlich statt?",
+    "options": [
+      "Lungenbläschen",
+      "Luftröhre",
+      "Kehlkopf",
+      "Nasenhöhle"
+    ],
+    "answer": 0,
+    "explanation": "Alveolen haben dünne Wände für den Gasaustausch.",
+    "title": "Wo findet der Gasaustausch hauptsächlich statt?"
+  },
+  {
+    "id": 37,
+    "category": "Politik & Wirtschaft",
+    "topic": "Wirtschaft",
+    "lesson": "Inflation bezeichnet einen anhaltenden Anstieg des allgemeinen Preisniveaus. Dadurch sinkt die Kaufkraft des Geldes.",
+    "question": "Was bedeutet Inflation?",
+    "options": [
+      "Steigendes allgemeines Preisniveau",
+      "Sinkende Bevölkerungszahl",
+      "Wachsende Waldfläche",
+      "Steigende Arbeitszeit"
+    ],
+    "answer": 0,
+    "explanation": "Bei Inflation verliert Geld an Kaufkraft.",
+    "title": "Was bedeutet Inflation?"
+  },
+  {
+    "id": 38,
+    "category": "Politik & Wirtschaft",
+    "topic": "Europa",
+    "lesson": "Die Europäische Zentralbank ist für die Geldpolitik im Euroraum verantwortlich.",
+    "question": "Welche Institution bestimmt die Leitzinsen im Euroraum?",
+    "options": [
+      "Europäische Zentralbank",
+      "Europäischer Gerichtshof",
+      "Europarat",
+      "Europäisches Parlament"
+    ],
+    "answer": 0,
+    "explanation": "Der EZB-Rat trifft geldpolitische Entscheidungen.",
+    "title": "Welche Institution bestimmt die Leitzinsen im Euroraum?"
+  },
+  {
+    "id": 39,
+    "category": "Politik & Wirtschaft",
+    "topic": "Demokratie",
+    "lesson": "Die Gewaltenteilung unterscheidet Gesetzgebung, vollziehende Gewalt und Rechtsprechung.",
+    "question": "Welche Staatsgewalt spricht Recht?",
+    "options": [
+      "Judikative",
+      "Legislative",
+      "Exekutive",
+      "Verwaltungsspitze"
+    ],
+    "answer": 0,
+    "explanation": "Judikative bezeichnet die rechtsprechende Gewalt.",
+    "title": "Welche Staatsgewalt spricht Recht?"
+  },
+  {
+    "id": 40,
+    "category": "Politik & Wirtschaft",
+    "topic": "Steuern",
+    "lesson": "Die Umsatzsteuer wird beim Verkauf vieler Waren und Dienstleistungen erhoben. Unternehmen führen sie grundsätzlich ans Finanzamt ab.",
+    "question": "Worauf wird Umsatzsteuer typischerweise erhoben?",
+    "options": [
+      "Waren und Dienstleistungen",
+      "Nur Grundstücksgrenzen",
+      "Nur Wahlstimmen",
+      "Nur Wetterdaten"
+    ],
+    "answer": 0,
+    "explanation": "Die Umsatzsteuer knüpft an steuerbare Umsätze an.",
+    "title": "Worauf wird Umsatzsteuer typischerweise erhoben?"
+  },
+  {
+    "id": 41,
+    "category": "Politik & Wirtschaft",
+    "topic": "Handel",
+    "lesson": "Import bedeutet die Einfuhr von Waren oder Dienstleistungen aus dem Ausland. Export bedeutet Ausfuhr.",
+    "question": "Was bezeichnet Import?",
+    "options": [
+      "Einfuhr aus dem Ausland",
+      "Ausfuhr ins Ausland",
+      "Inlandsproduktion",
+      "Preisnachlass"
+    ],
+    "answer": 0,
+    "explanation": "Import ist die Einfuhr.",
+    "title": "Was bezeichnet Import?"
+  },
+  {
+    "id": 42,
+    "category": "Politik & Wirtschaft",
+    "topic": "Statistik",
+    "lesson": "Der Gini-Koeffizient misst die Ungleichverteilung, etwa von Einkommen. Ein höherer Wert bedeutet mehr Ungleichheit.",
+    "question": "Was misst der Gini-Koeffizient?",
+    "options": [
+      "Ungleichverteilung",
+      "Luftdruck",
+      "Geburtenrate",
+      "Wechselkurs"
+    ],
+    "answer": 0,
+    "explanation": "Der Gini-Koeffizient beschreibt Konzentration beziehungsweise Ungleichheit.",
+    "title": "Was misst der Gini-Koeffizient?"
+  },
+  {
+    "id": 43,
+    "category": "Kultur & Literatur",
+    "topic": "Literatur",
+    "lesson": "Johann Wolfgang von Goethe schrieb Faust. Friedrich Schiller schrieb Wilhelm Tell.",
+    "question": "Wer schrieb Faust?",
+    "options": [
+      "Goethe",
+      "Schiller",
+      "Kafka",
+      "Brecht"
+    ],
+    "answer": 0,
+    "explanation": "Faust ist ein Werk Goethes.",
+    "title": "Wer schrieb Faust?"
+  },
+  {
+    "id": 44,
+    "category": "Kultur & Literatur",
+    "topic": "Malerei",
+    "lesson": "Vincent van Gogh malte 1889 Die Sternennacht. Das Bild zeigt einen bewegten Nachthimmel.",
+    "question": "Wer malte Die Sternennacht?",
+    "options": [
+      "Vincent van Gogh",
+      "Claude Monet",
+      "Pablo Picasso",
+      "Edvard Munch"
+    ],
+    "answer": 0,
+    "explanation": "Van Gogh schuf das Bild 1889.",
+    "title": "Wer malte Die Sternennacht?"
+  },
+  {
+    "id": 45,
+    "category": "Kultur & Literatur",
+    "topic": "Musik",
+    "lesson": "Wolfgang Amadeus Mozart komponierte Die Zauberflöte. Die Oper wurde 1791 in Wien uraufgeführt.",
+    "question": "Wer komponierte Die Zauberflöte?",
+    "options": [
+      "Mozart",
+      "Haydn",
+      "Beethoven",
+      "Wagner"
+    ],
+    "answer": 0,
+    "explanation": "Die Zauberflöte ist eine Oper Mozarts.",
+    "title": "Wer komponierte Die Zauberflöte?"
+  },
+  {
+    "id": 46,
+    "category": "Kultur & Literatur",
+    "topic": "Architektur",
+    "lesson": "Die Gotik ist für Spitzbögen und große Fenster in vielen Kathedralen bekannt.",
+    "question": "Welches Merkmal ist typisch für gotische Kirchen?",
+    "options": [
+      "Spitzbögen",
+      "Betonfertigteile",
+      "Glasfassaden ohne Tragwerk",
+      "Flachdächer aus Stahl"
+    ],
+    "answer": 0,
+    "explanation": "Spitzbögen sind ein prägendes gotisches Bauelement.",
+    "title": "Welches Merkmal ist typisch für gotische Kirchen?"
+  },
+  {
+    "id": 47,
+    "category": "Kultur & Literatur",
+    "topic": "Literatur",
+    "lesson": "Franz Kafka schrieb Die Verwandlung, die 1915 veröffentlicht wurde.",
+    "question": "Wer schrieb Die Verwandlung?",
+    "options": [
+      "Franz Kafka",
+      "Thomas Mann",
+      "Hermann Hesse",
+      "Stefan Zweig"
+    ],
+    "answer": 0,
+    "explanation": "Die Verwandlung ist eine Erzählung Kafkas.",
+    "title": "Wer schrieb Die Verwandlung?"
+  },
+  {
+    "id": 48,
+    "category": "Kultur & Literatur",
+    "topic": "Musikgeschichte",
+    "lesson": "Ludwig van Beethoven komponierte neun Sinfonien. Die neunte enthält die Vertonung der Ode an die Freude.",
+    "question": "Welche Sinfonie Beethovens enthält die Ode an die Freude?",
+    "options": [
+      "Neunte",
+      "Dritte",
+      "Fünfte",
+      "Sechste"
+    ],
+    "answer": 0,
+    "explanation": "Die neunte Sinfonie hat einen berühmten Chorfinalsatz.",
+    "title": "Welche Sinfonie Beethovens enthält die Ode an die Freude?"
+  },
+  {
+    "id": 49,
+    "category": "Geschichte",
+    "topic": "Renaissance",
+    "title": "Wer waren die Borgia?",
+    "lesson": "Die Borgia waren eine einflussreiche Familie mit Wurzeln in Valencia. Im Italien der Renaissance stieg Rodrigo Borgia 1492 als Alexander VI. zum Papst auf. Seine Kinder Cesare und Lucrezia wurden zu bekannten Figuren der italienischen Politik. Viele Erzählungen über die Familie vermischen belegte Ereignisse mit späteren Gerüchten.",
+    "question": "Welcher Papst entstammte der Familie Borgia?",
+    "options": [
+      "Alexander VI.",
+      "Leo X.",
+      "Julius II.",
+      "Urban VIII."
+    ],
+    "answer": 0,
+    "explanation": "Rodrigo Borgia war von 1492 bis 1503 Papst Alexander VI."
+  },
+  {
+    "id": 50,
+    "category": "Geschichte",
+    "topic": "Alte Hochkulturen",
+    "title": "Wer waren die Babylonier?",
+    "lesson": "Die Babylonier lebten in Mesopotamien, im Gebiet des heutigen Irak. Babylon entwickelte sich zu einem bedeutenden politischen und kulturellen Zentrum. König Hammurapi ist besonders durch seine Gesetzessammlung bekannt. Babylonische Gelehrte beobachteten die Gestirne und entwickelten anspruchsvolle mathematische Verfahren.",
+    "question": "In welcher heutigen Region lag Babylon?",
+    "options": [
+      "Im Irak",
+      "In Spanien",
+      "In Indien",
+      "In Peru"
+    ],
+    "answer": 0,
+    "explanation": "Babylon lag in Mesopotamien, südlich des heutigen Bagdad."
+  },
+  {
+    "id": 51,
+    "category": "Geschichte",
+    "topic": "Altes Ägypten",
+    "title": "Was waren Hieroglyphen?",
+    "lesson": "Hieroglyphen sind Zeichen der altägyptischen Schrift. Sie konnten Laute, Wortbestandteile oder ganze Begriffe darstellen. Neben monumentalen Inschriften gab es vereinfachte Schreibformen für den Alltag. Der Stein von Rosetta half im 19. Jahrhundert maßgeblich bei der Entzifferung.",
+    "question": "Welcher Fund half bei der Entzifferung ägyptischer Hieroglyphen?",
+    "options": [
+      "Stein von Rosetta",
+      "Himmelsscheibe von Nebra",
+      "Codex Hammurapi",
+      "Terrakotta-Armee"
+    ],
+    "answer": 0,
+    "explanation": "Der Stein von Rosetta enthält einen Text in mehreren Schriften."
+  },
+  {
+    "id": 52,
+    "category": "Geschichte",
+    "topic": "Mittelalter",
+    "title": "Was war die Hanse?",
+    "lesson": "Die Hanse war ein Netzwerk von Kaufleuten und Städten vor allem im Nord- und Ostseeraum. Sie erleichterte Handel, schützte wirtschaftliche Interessen und organisierte gemeinsame Privilegien. Zu wichtigen Hansestädten gehörten Lübeck und Hamburg.",
+    "question": "Welche Stadt war ein wichtiges Zentrum der Hanse?",
+    "options": [
+      "Lübeck",
+      "Rom",
+      "Madrid",
+      "Athen"
+    ],
+    "answer": 0,
+    "explanation": "Lübeck spielte im hansischen Handel eine führende Rolle."
+  },
+  {
+    "id": 53,
+    "category": "Geschichte",
+    "topic": "Antike",
+    "title": "Wer war Kleopatra?",
+    "lesson": "Kleopatra VII. war die letzte aktive Herrscherin des ptolemäischen Ägyptens. Sie regierte im ersten Jahrhundert vor Christus und war politisch mit Julius Caesar und später Marcus Antonius verbunden. Nach ihrer Niederlage gegen Octavian wurde Ägypten römische Provinz.",
+    "question": "Über welches Land herrschte Kleopatra VII.?",
+    "options": [
+      "Ägypten",
+      "Griechenland",
+      "Persien",
+      "Gallien"
+    ],
+    "answer": 0,
+    "explanation": "Kleopatra VII. war Königin des ptolemäischen Ägyptens."
+  },
+  {
+    "id": 54,
+    "category": "Geografie",
+    "topic": "Erdkunde",
+    "title": "Was sind tektonische Platten?",
+    "lesson": "Die äußere feste Hülle der Erde ist in große und kleine Platten gegliedert. Diese bewegen sich sehr langsam gegeneinander. An ihren Grenzen entstehen häufig Erdbeben, Gebirge und Vulkane. Die Bewegung wird durch Vorgänge im Erdinneren angetrieben.",
+    "question": "Wo treten besonders viele Erdbeben auf?",
+    "options": [
+      "An Plattengrenzen",
+      "In Wüstenmitten",
+      "Nur an Flüssen",
+      "Nur an Polen"
+    ],
+    "answer": 0,
+    "explanation": "Die Bewegung tektonischer Platten erzeugt Spannungen an ihren Grenzen."
+  },
+  {
+    "id": 55,
+    "category": "Geografie",
+    "topic": "Klima",
+    "title": "Was ist der Unterschied zwischen Wetter und Klima?",
+    "lesson": "Wetter beschreibt den aktuellen Zustand der Atmosphäre an einem Ort, etwa Temperatur und Niederschlag. Klima bezeichnet die statistischen Eigenschaften des Wetters über längere Zeiträume, häufig über 30 Jahre. Ein kalter Tag allein widerlegt daher keinen langfristigen Erwärmungstrend.",
+    "question": "Was beschreibt das Klima?",
+    "options": [
+      "Langfristige Wettermuster",
+      "Nur die heutige Temperatur",
+      "Nur die Windrichtung",
+      "Eine einzelne Gewitterfront"
+    ],
+    "answer": 0,
+    "explanation": "Klima wird aus langfristigen Wetterbeobachtungen abgeleitet."
+  },
+  {
+    "id": 56,
+    "category": "Naturwissenschaft",
+    "topic": "Biologie",
+    "title": "Was ist DNA?",
+    "lesson": "Die DNA trägt bei Lebewesen einen großen Teil der erblichen Information. Sie besteht aus langen Ketten von Bausteinen mit den Basen A, T, G und C. Die Reihenfolge dieser Basen speichert genetische Information. In menschlichen Zellen liegt die meiste DNA im Zellkern.",
+    "question": "Wofür ist DNA besonders wichtig?",
+    "options": [
+      "Speicherung von Erbinformation",
+      "Transport von Sauerstoff im Blut",
+      "Verdauung von Fetten",
+      "Erzeugung von Muskelkraft"
+    ],
+    "answer": 0,
+    "explanation": "Die Reihenfolge der DNA-Basen codiert genetische Information."
+  },
+  {
+    "id": 57,
+    "category": "Naturwissenschaft",
+    "topic": "Physik",
+    "title": "Warum ist der Himmel blau?",
+    "lesson": "Sonnenlicht enthält viele Farben. Moleküle in der Erdatmosphäre streuen kurzwelliges blaues Licht stärker als langwelliges rotes Licht. Deshalb erscheint der klare Tageshimmel meist blau. Bei Sonnenuntergang kann das Licht durch einen längeren Weg in der Atmosphäre rötlich wirken.",
+    "question": "Welcher Effekt erklärt die blaue Himmelsfarbe?",
+    "options": [
+      "Streuung des Sonnenlichts",
+      "Reflexion der Ozeane",
+      "Eigenleuchten des Sauerstoffs",
+      "Schatten des Mondes"
+    ],
+    "answer": 0,
+    "explanation": "Rayleigh-Streuung beeinflusst kurzwelliges Licht besonders stark."
+  },
+  {
+    "id": 58,
+    "category": "Naturwissenschaft",
+    "topic": "Astronomie",
+    "title": "Was ist ein Lichtjahr?",
+    "lesson": "Ein Lichtjahr ist keine Zeitangabe, sondern eine Entfernung. Es bezeichnet die Strecke, die Licht im Vakuum innerhalb eines Jahres zurücklegt: ungefähr 9,46 Billionen Kilometer. Astronomen verwenden Lichtjahre, um die großen Abstände zwischen Sternen und Galaxien zu beschreiben.",
+    "question": "Welche Größe bezeichnet ein Lichtjahr?",
+    "options": [
+      "Eine Entfernung",
+      "Eine Temperatur",
+      "Eine Masse",
+      "Eine Geschwindigkeit"
+    ],
+    "answer": 0,
+    "explanation": "Ein Lichtjahr entspricht etwa 9,46 Billionen Kilometern."
+  },
+  {
+    "id": 59,
+    "category": "Körper & Medizin",
+    "topic": "Herz-Kreislauf",
+    "title": "Was ist ein Herzinfarkt?",
+    "lesson": "Ein Herzinfarkt entsteht meist, wenn ein Herzkranzgefäß durch ein Blutgerinnsel verschlossen wird. Teile des Herzmuskels erhalten dann zu wenig Sauerstoff und können geschädigt werden. Typische Beschwerden können Brustdruck, Atemnot und Ausstrahlung in Arm oder Kiefer sein; sie sind nicht bei allen Menschen gleich. Bei Verdacht sofort den Notruf wählen.",
+    "question": "Was ist eine häufige Ursache eines Herzinfarkts?",
+    "options": [
+      "Verschluss eines Herzkranzgefäßes",
+      "Bruch eines Rippenknochens",
+      "Entzündung des Innenohrs",
+      "Mangel an Magensäure"
+    ],
+    "answer": 0,
+    "explanation": "Meist unterbricht ein Gefäßverschluss die Sauerstoffversorgung des Herzmuskels."
+  },
+  {
+    "id": 60,
+    "category": "Körper & Medizin",
+    "topic": "Immunsystem",
+    "title": "Was macht das Immunsystem?",
+    "lesson": "Das Immunsystem schützt den Körper vor vielen Krankheitserregern. Zur angeborenen Abwehr gehören unter anderem Haut, Schleimhäute und bestimmte Abwehrzellen. Die erworbene Abwehr kann sehr gezielt reagieren und ein immunologisches Gedächtnis bilden. Darauf beruht ein wichtiger Teil der Wirkung von Impfungen.",
+    "question": "Welche Eigenschaft gehört zur erworbenen Immunabwehr?",
+    "options": [
+      "Immunologisches Gedächtnis",
+      "Bildung von Knochen",
+      "Transport von Nährstoffen im Darm",
+      "Regulation des Luftdrucks"
+    ],
+    "answer": 0,
+    "explanation": "Gedächtniszellen ermöglichen eine schnellere Reaktion bei erneutem Kontakt."
+  },
+  {
+    "id": 61,
+    "category": "Körper & Medizin",
+    "topic": "Nervensystem",
+    "title": "Was sind Neuronen?",
+    "lesson": "Neuronen sind spezialisierte Nervenzellen. Sie empfangen und verarbeiten Signale und leiten Informationen elektrisch und chemisch weiter. An Kontaktstellen, den Synapsen, werden Signale häufig durch Botenstoffe übertragen. Das Nervensystem ermöglicht Wahrnehmung, Bewegung und Denken.",
+    "question": "Wie heißen die Kontaktstellen zwischen Nervenzellen?",
+    "options": [
+      "Synapsen",
+      "Alveolen",
+      "Nephrone",
+      "Sehnen"
+    ],
+    "answer": 0,
+    "explanation": "An Synapsen wird Information zwischen Nervenzellen übertragen."
+  },
+  {
+    "id": 62,
+    "category": "Technik",
+    "topic": "Internet",
+    "title": "Wie funktioniert das Internet?",
+    "lesson": "Das Internet verbindet viele eigenständige Computernetzwerke. Daten werden in Pakete aufgeteilt und über Router weitergeleitet. Das Internetprotokoll IP hilft bei der Adressierung; andere Protokolle wie TCP sorgen für zuverlässige Übertragung. Das World Wide Web ist nur einer von mehreren Diensten im Internet.",
+    "question": "Welche Aufgabe übernehmen Router?",
+    "options": [
+      "Datenpakete zwischen Netzen weiterleiten",
+      "Monitore mit Strom versorgen",
+      "Texte automatisch übersetzen",
+      "Dateien ausschließlich drucken"
+    ],
+    "answer": 0,
+    "explanation": "Router wählen Wege für Datenpakete zwischen Netzwerken."
+  },
+  {
+    "id": 63,
+    "category": "Technik",
+    "topic": "Energie",
+    "title": "Was ist eine Wärmepumpe?",
+    "lesson": "Eine Wärmepumpe entzieht ihrer Umgebung Wärme, beispielsweise aus Luft, Erde oder Wasser. Mithilfe eines Kältemittelkreislaufs und elektrischer Energie hebt sie die Temperatur auf ein nutzbares Niveau. So kann sie Gebäude heizen. Ihre Effizienz hängt unter anderem von den benötigten Temperaturunterschieden ab.",
+    "question": "Woher kann eine Wärmepumpe Wärme beziehen?",
+    "options": [
+      "Aus der Außenluft",
+      "Nur aus Benzin",
+      "Nur aus Sonnenlicht direkt",
+      "Nur aus Kohle"
+    ],
+    "answer": 0,
+    "explanation": "Außenluft, Erdreich und Grundwasser sind mögliche Wärmequellen."
+  },
+  {
+    "id": 64,
+    "category": "Politik & Wirtschaft",
+    "topic": "Staatskunde",
+    "title": "Was bedeutet Gewaltenteilung?",
+    "lesson": "In demokratischen Rechtsstaaten wird staatliche Macht auf verschiedene Organe verteilt. Häufig unterscheidet man Gesetzgebung, vollziehende Gewalt und Rechtsprechung. Die gegenseitige Kontrolle soll Machtmissbrauch verhindern. Die konkrete Ausgestaltung unterscheidet sich von Staat zu Staat.",
+    "question": "Welche Gewalt spricht Recht?",
+    "options": [
+      "Judikative",
+      "Legislative",
+      "Exekutive",
+      "Verwaltung allein"
+    ],
+    "answer": 0,
+    "explanation": "Die Judikative umfasst die Gerichte und die Rechtsprechung."
+  },
+  {
+    "id": 65,
+    "category": "Politik & Wirtschaft",
+    "topic": "Wirtschaft",
+    "title": "Was ist das Bruttoinlandsprodukt?",
+    "lesson": "Das Bruttoinlandsprodukt, kurz BIP, misst den Wert der im Inland innerhalb eines Zeitraums produzierten Endprodukte und Dienstleistungen. Es ist ein wichtiges Maß wirtschaftlicher Aktivität, sagt aber allein wenig über Verteilung, Lebensqualität oder Umweltschäden aus.",
+    "question": "Was misst das BIP hauptsächlich?",
+    "options": [
+      "Wirtschaftliche Produktion im Inland",
+      "Nur die Staatsverschuldung",
+      "Nur das Vermögen der Haushalte",
+      "Die Zahl der Einwohner"
+    ],
+    "answer": 0,
+    "explanation": "Das BIP erfasst die inländische Wertschöpfung eines Zeitraums."
+  },
+  {
+    "id": 66,
+    "category": "Österreich",
+    "topic": "Geschichte",
+    "title": "Was war die Habsburgermonarchie?",
+    "lesson": "Die Habsburger prägten über Jahrhunderte die Geschichte Mitteleuropas. Ihre Herrschaft umfasste zeitweise zahlreiche Länder und Völker. 1867 entstand die Doppelmonarchie Österreich-Ungarn. Nach dem Ersten Weltkrieg zerfiel sie 1918.",
+    "question": "Wann endete Österreich-Ungarn?",
+    "options": [
+      "1918",
+      "1848",
+      "1938",
+      "1945"
+    ],
+    "answer": 0,
+    "explanation": "Die Doppelmonarchie zerfiel 1918 am Ende des Ersten Weltkriegs."
+  },
+  {
+    "id": 67,
+    "category": "Österreich",
+    "topic": "Geografie",
+    "title": "Was ist die Donau?",
+    "lesson": "Die Donau ist einer der längsten Flüsse Europas. Sie entspringt im Schwarzwald und fließt durch beziehungsweise entlang mehrerer Staaten, darunter Österreich. In Wien und Linz prägt sie das Stadtbild. Sie mündet über ein großes Delta ins Schwarze Meer.",
+    "question": "In welches Meer mündet die Donau?",
+    "options": [
+      "Schwarzes Meer",
+      "Nordsee",
+      "Ostsee",
+      "Adriatisches Meer"
+    ],
+    "answer": 0,
+    "explanation": "Die Donau erreicht das Schwarze Meer durch das Donaudelta."
+  },
+  {
+    "id": 68,
+    "category": "Kultur & Literatur",
+    "topic": "Kunstgeschichte",
+    "title": "Was war die Renaissance?",
+    "lesson": "Die Renaissance war eine kulturelle Bewegung, die sich ab dem 14. Jahrhundert besonders in Italien entwickelte. Künstler und Gelehrte griffen Ideen der griechischen und römischen Antike auf. Perspektive, Anatomie und die genaue Beobachtung der Natur gewannen in der Kunst an Bedeutung.",
+    "question": "Wo entwickelte sich die Renaissance besonders früh?",
+    "options": [
+      "Italien",
+      "Kanada",
+      "Japan",
+      "Norwegen"
+    ],
+    "answer": 0,
+    "explanation": "Städte wie Florenz waren wichtige Zentren der frühen Renaissance."
+  },
+  {
+    "id": 69,
+    "category": "Kultur & Literatur",
+    "topic": "Literatur",
+    "title": "Wer war William Shakespeare?",
+    "lesson": "William Shakespeare war ein englischer Dramatiker und Dichter des späten 16. und frühen 17. Jahrhunderts. Zu seinen berühmtesten Werken gehören Hamlet, Macbeth und Romeo und Julia. Seine Stücke werden weltweit gespielt und haben viele Sprachen und Erzählformen beeinflusst.",
+    "question": "Welches Werk schrieb Shakespeare?",
+    "options": [
+      "Hamlet",
+      "Faust",
+      "Die Verwandlung",
+      "Der Prozess"
+    ],
+    "answer": 0,
+    "explanation": "Hamlet ist eine Tragödie von William Shakespeare."
+  },
+  {
+    "id": 70,
+    "category": "Geografie",
+    "topic": "Weltmeere",
+    "title": "Was sind Meeresströmungen?",
+    "lesson": "Meeresströmungen bewegen große Wassermassen durch die Ozeane. Wind, Dichteunterschiede durch Temperatur und Salzgehalt sowie die Erdrotation beeinflussen sie. Strömungen transportieren Wärme und Nährstoffe und prägen so das Klima vieler Küstenregionen.",
+    "question": "Was beeinflusst Meeresströmungen?",
+    "options": [
+      "Wind und Dichteunterschiede",
+      "Nur die Mondphasen",
+      "Nur die Küstenlänge",
+      "Nur die Wassertiefe"
+    ],
+    "answer": 0,
+    "explanation": "Wind und Unterschiede in Temperatur und Salzgehalt treiben wichtige Strömungssysteme an."
+  },
+  {
+    "id": 71,
+    "category": "Naturwissenschaft",
+    "topic": "Chemie",
+    "title": "Was ist der pH-Wert?",
+    "lesson": "Der pH-Wert beschreibt, wie sauer oder basisch eine wässrige Lösung ist. Bei 25 °C gilt für viele einfache Fälle: pH 7 ist neutral, kleinere Werte sind sauer und größere basisch. Die Skala ist logarithmisch, eine Änderung um eine Einheit entspricht einem zehnfachen Unterschied in der Wasserstoffionenaktivität.",
+    "question": "Welcher pH-Wert gilt bei 25 °C als neutral?",
+    "options": [
+      "7",
+      "1",
+      "4",
+      "12"
+    ],
+    "answer": 0,
+    "explanation": "Bei 25 °C liegt der Neutralpunkt von reinem Wasser bei pH 7."
+  },
+  {
+    "id": 72,
+    "category": "Körper & Medizin",
+    "topic": "Verdauung",
+    "title": "Welche Aufgabe hat die Leber?",
+    "lesson": "Die Leber ist ein wichtiges Stoffwechselorgan. Sie verarbeitet Nährstoffe, bildet Gallenflüssigkeit, speichert bestimmte Stoffe und baut viele körperfremde Substanzen ab. Sie erfüllt zahlreiche lebenswichtige Funktionen und kann geschädigtes Gewebe in gewissem Umfang regenerieren.",
+    "question": "Welche Flüssigkeit bildet die Leber?",
+    "options": [
+      "Galle",
+      "Speichel",
+      "Urin",
+      "Tränenflüssigkeit"
+    ],
+    "answer": 0,
+    "explanation": "Die Leber produziert Galle, die bei der Fettverdauung hilft."
+  }
+]
