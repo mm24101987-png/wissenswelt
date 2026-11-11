@@ -3,23 +3,131 @@
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Welche japanische Musikgruppe wurde gegründet, um Themenmusik für die Anime & quot; schuldige Krone zu produzieren.",
-    "correct_answer": "Egoist",
+    "question": "In der \"The Hobbit\", wer tötet Smaug?",
+    "correct_answer": "Barde",
     "incorrect_answers": [
-      "Gänsehaus",
-      "Babymetal",
-      "Garnidelia"
+      "Bilbo Baggins",
+      "Gandalf der Grau",
+      "Frodo"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Was deklarierst du in Rīchi Mahjong, wenn du deine Gewinnerfliese gezogen hast?",
+    "correct_answer": "Tsumo",
+    "incorrect_answers": [
+      "Ron",
+      "Rīchi",
+      "Kan"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "\"Tomb Raider & quot;Icon Lara Croft wurde ursprünglich ...",
+    "correct_answer": "Laura Cruz",
+    "incorrect_answers": [
+      "Laura Handwerk",
+      "Laura Croft",
+      "Lara Handwerk"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Welches Zeichen des Tierkreises wird durch die Krabbe dargestellt?",
+    "correct_answer": "Krebs",
+    "incorrect_answers": [
+      "Waage",
+      "Jungfrau",
+      "Schütze"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geographie",
+    "question": "Llanfair & shy;",
+    "correct_answer": "Anglesey",
+    "incorrect_answers": [
+      "Barry",
+      "Bardsey",
+      "Caldey"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
-    "category": "Geographie",
-    "question": "Wie viele unabhängige Länder gibt es auf dem Kontinent Südamerikas?",
+    "category": "Geschichte",
+    "question": "Welche dieser Einrichtungen war auf der Titanic nicht vorhanden?",
+    "correct_answer": "Ohnmachtraum",
+    "incorrect_answers": [
+      "Türkisches Bad",
+      "Zwinger",
+      "Kürbisgericht"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wann hat Tame Impala ihr zweites Album veröffentlicht?",
+    "correct_answer": "2012",
+    "incorrect_answers": [
+      "2015",
+      "2010",
+      "1967"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In dem Film von 1976 &#039; Taxifahrer &#039; Wie viele Waffen hat Travis vom Verkäufer gekauft?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "2",
+      "6",
+      "1"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Im Spiel \"Persona 4\", wie heißt der kanonische Name des Protagonisten?",
+    "correct_answer": "Yu Narukami",
+    "incorrect_answers": [
+      "Chino Mashido",
+      "Tunki Sunada",
+      "Masaki Narinaka"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welche der folgenden Figuren ist keine der Hauptfiguren im Story -Modus von Grand Theft Auto V & rsquo?",
+    "correct_answer": "Tommy Vercetti",
+    "incorrect_answers": [
+      "Michael de Santa",
+      "Franklin Clinton",
+      "Trevor Phillips"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Was ist die atomare Kohlenstoffmasse?",
     "correct_answer": "12",
     "incorrect_answers": [
-      "8",
-      "9",
+      "14",
+      "16",
       "10"
     ]
   },
@@ -27,95 +135,59 @@
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Welches Auto ist nicht in \"Bedarf an Geschwindigkeit\" vorgestellt: Hot Puruit 2 & quot;?",
-    "correct_answer": "Toyota MR2",
+    "question": "Zu Beginn des Spiels \"Sonic Adventure\", welches Color Chaos Emerald hat Tails besitzt?",
+    "correct_answer": "Lila",
     "incorrect_answers": [
-      "Ford Crown Victoria",
-      "BMW Z8",
-      "McLaren F1"
+      "Rot",
+      "Grün",
+      "Blau"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wer ist der Anführer von Team Valor in Pok & Eacute; Mon Go?",
-    "correct_answer": "Candela",
-    "incorrect_answers": [
-      "Weide",
-      "Blanche",
-      "Funke"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
     "category": "Allgemeinwissen",
-    "question": "Virtual Reality Company Oculus VR verlor die Mitbegründer von IT 039 bei einem Freak-Autounfall im Jahr 2013?",
-    "correct_answer": "Andrew Scott Reis",
+    "question": "Welches Land, nicht in Japan, hat die meisten Menschen japanischer Abstammung?",
+    "correct_answer": "Brasilien",
     "incorrect_answers": [
-      "Nate Mitchell",
-      "Jack McCauley",
-      "Palmer Luckey"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wann war & quot; luigis Herrenhaus 3 & quot;freigegeben?",
-    "correct_answer": "31. Oktober 2019",
-    "incorrect_answers": [
-      "13. Januar 2019",
-      "6. September 2018",
-      "1. Oktober 2019"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Sport",
-    "question": "Welches Tool verleiht es zu einem Vorsprung des Last-Stone-Vorteils am Ende des Curlings?",
-    "correct_answer": "Hammer",
-    "incorrect_answers": [
-      "Schlüssel",
-      "Bohren",
-      "Schraubendreher"
+      "China",
+      "Südkorea",
+      "Vereinigte Staaten von Amerika"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Welches davon ist kein echter Charakter in der Cartoon -Serie My Little Pony: Freundschaft ist Magie?",
-    "correct_answer": "Rose Maree",
+    "question": "Was ist der Vorteil, der in der \"Call of Duty\" eingeführt wurde: Zombies & quot;Karte, \"Mob der Toten\"?",
+    "correct_answer": "Elektrische Kirsche",
     "incorrect_answers": [
-      "Pinkie Pie",
-      "Maud Pie",
-      "Regenbogen -Armaturenbrett"
+      "Schnelle Wiederbelebung",
+      "Geierhilfe",
+      "Grabstein"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geographie",
+    "question": "Was ist die kleinste Provinz Kanadas?",
+    "correct_answer": "Prinz Edward Island",
+    "incorrect_answers": [
+      "New Brunswick",
+      "Neuschottland",
+      "Yukon"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Unterhaltung",
-    "question": "Wie viele zeitgesteuerte Sprenggebühren braucht es, um eine Leiterschlüsselung zu zerstören?",
-    "correct_answer": "1",
+    "question": "Grant Gustin spielt welchen Superhelden in der gleichnamigen CW -Show?",
+    "correct_answer": "Der Blitz",
     "incorrect_answers": [
-      "3",
-      "2",
-      "5"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher Marvel -Superhelden hat Chris Evans vor seiner Rolle als Captain America gespielt?",
-    "correct_answer": "Menschliche Taschenlampe",
-    "incorrect_answers": [
-      "Zyklop",
-      "Iceman",
+      "Der Pfeil",
+      "Schwarzer Kanarienvogel",
       "Draufgänger"
     ]
   },
@@ -123,12 +195,84 @@
     "type": "multiple",
     "level": 5,
     "category": "Allgemeinwissen",
-    "question": "Wie lange müssen Sie laut Fair Works Australia arbeiten, um einen langen Service zu erhalten?",
-    "correct_answer": "7 Jahre",
+    "question": "Welche dieser Banken sind nicht berechtigt, Währungsnotizen in Hongkong auszustellen?",
+    "correct_answer": "OCBC",
     "incorrect_answers": [
-      "2 Jahre",
-      "8 Jahre",
-      "6 Monate"
+      "HSBC",
+      "Standard gechartert",
+      "Bank of China"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In welchem ​​Manga das \"404 Mädchen\" tat;Von 4chan stammen aus?",
+    "correct_answer": "Yotsuba & amp;!",
+    "incorrect_answers": [
+      "Azumanga Daioh",
+      "Glücklicher Star",
+      "Klee"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft",
+    "question": "Welche der folgenden Sprachen wird als Skriptsprache in der Unity 3D Game Engine verwendet?",
+    "correct_answer": "C#",
+    "incorrect_answers": [
+      "Java",
+      "C ++",
+      "Ziel-C"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geschichte",
+    "question": "Die \"Spur der Tränen\" \"War ein Ergebnis der indischen Entfernungspolitik der US -Präsidenten der Vereinigten Staaten?",
+    "correct_answer": "Andrew Jackson",
+    "incorrect_answers": [
+      "Harry S. Truman",
+      "Martin van Buren",
+      "John Quincy Adams"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Welche dieser amerikanischen Städte hat weniger als 1.000.000 Menschen?",
+    "correct_answer": "San Francisco, Kalifornien",
+    "incorrect_answers": [
+      "Phoenix, Arizona",
+      "San Antonio, Texas",
+      "Philadelphia, Pennsylvania"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Prominente",
+    "question": "Wann wurde Elvis Presley geboren?",
+    "correct_answer": "8. Januar 1935",
+    "incorrect_answers": [
+      "13. Dezember 1931",
+      "18. Juli 1940",
+      "17. April 1938"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Fahrzeuge",
+    "question": "Wann wurde Tesla gegründet?",
+    "correct_answer": "2003",
+    "incorrect_answers": [
+      "2008",
+      "2005",
+      "2007"
     ]
   },
   {
@@ -145,458 +289,314 @@
   },
   {
     "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Diese Waffe in Counter-Strike: Global Offensive existiert im wirklichen Leben nicht.",
-    "correct_answer": "M4A4",
-    "incorrect_answers": [
-      "AWP",
-      "M4A1",
-      "MP9"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Im Videospiel von 2002 \"Kingdom Hearts\", wie viele Schlüsselblades sind verwendbar?",
-    "correct_answer": "18",
-    "incorrect_answers": [
-      "13",
-      "16",
-      "15"
-    ]
-  },
-  {
-    "type": "multiple",
     "level": 5,
-    "category": "Unterhaltung",
-    "question": "In welchem ​​Homestuck -Update wurde das Spiel veröffentlicht?",
-    "correct_answer": "25. Oktober 2014",
-    "incorrect_answers": [
-      "13. April 2009",
-      "8. April 2012",
-      "28. August 2003"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welches davon ist kein spielbarer Charakter im Videospiel 2016 Overwatch?",
-    "correct_answer": "Invoker",
-    "incorrect_answers": [
-      "Barmherzigkeit",
-      "Winston",
-      "Zenyatta"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "In welchem ​​Kingdom Hearts -Spiel endet die Besetzung von \"Die Welt\", endet mit Ihnen \"?",
-    "correct_answer": "Traumentwurfentfernung",
-    "incorrect_answers": [
-      "Geburt durch Schlaf",
-      "365/2 Tage",
-      "Re: Kette von Erinnerungen"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Wissenschaft & amp;Natur",
-    "question": "Wofür steht Laser?",
-    "correct_answer": "Lichtverstärkung durch stimulierte Strahlungsemission",
-    "incorrect_answers": [
-      "Lite analysiert von Stereo Ecorazer",
-      "Lichtverstärker durch Standby -Energie des Radios",
-      "Leben Antimaterie durch Stehen der Reichweite"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In welcher Halbwertsweiterung finden Sie Gordon's Bild in einem \"Mitarbeiter des Monats\"?Bilderrahmen?",
-    "correct_answer": "Halbwertszeit: Gegenkraft",
-    "incorrect_answers": [
-      "Halbwertszeit: Blaue Verschiebung",
-      "Halbwertszeit: Verfall",
-      "Sie hungern"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In welchem ​​Jahr war das Album \"Californication & quot;freigegeben?",
-    "correct_answer": "1999",
-    "incorrect_answers": [
-      "1997",
-      "2000",
-      "1992"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Der Spitfire L.F. Mk IX hatte welchen Motor?",
-    "correct_answer": "Merlin 66",
-    "incorrect_answers": [
-      "Griffon 65",
-      "Merlin 50",
-      "Merlin x"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
     "category": "Allgemeinwissen",
-    "question": "Was ist das schwedische Wort für \"Fenster\"?",
-    "correct_answer": "F & oUml; nster",
+    "question": "Sciophobie ist die Angst vor was?",
+    "correct_answer": "Schatten",
     "incorrect_answers": [
-      "H & aring; l",
-      "Sk & auml; rm",
-      "Ruta"
+      "Essen",
+      "Helle Lichter",
+      "Transport"
     ]
   },
   {
     "type": "multiple",
-    "level": 3,
+    "level": 1,
     "category": "Unterhaltung",
-    "question": "Welchen besonderen Gegenstand hat die Schöpfer von Karten gegen die Menschheit für ihr Black Friday Pack gemacht?",
-    "correct_answer": "Stierkot",
+    "question": "Wer in Pulp Fiction sagt, nein, sie haben das metrische System dort bekommen, sie würden nicht wissen, was zum Teufel ein Viertelstapper ist.",
+    "correct_answer": "Vincent Vega",
     "incorrect_answers": [
-      "Eine Kartenerweiterung",
-      "Ein rassistisches Spielzeug",
-      "Katzenurin"
+      "Jules Winnfield",
+      "Jimmie Dimmick",
+      "Butch Coolidge"
     ]
   },
   {
     "type": "multiple",
-    "level": 3,
+    "level": 1,
     "category": "Allgemeinwissen",
-    "question": "Wie lautete der ursprüngliche Name der Suchmaschine \"Google\"?",
-    "correct_answer": "BackRub",
+    "question": "Was geht ein Funambulist?",
+    "correct_answer": "Ein enges Seil",
     "incorrect_answers": [
-      "Catmassage",
-      "SearchPro",
-      "Netscape Navigator"
+      "Glasscherben",
+      "Bälle",
+      "Der Mond"
     ]
   },
   {
     "type": "multiple",
-    "level": 5,
-    "category": "Prominente",
-    "question": "Der exzentrische Naturphilosoph Tycho Brahe hielt was als Haustier?",
-    "correct_answer": "Elch",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Was ist die Hauptstadt Australiens?",
+    "correct_answer": "Canberra",
     "incorrect_answers": [
-      "Hund",
-      "Tragen",
-      "Ziege"
+      "Sydney",
+      "Melbourne",
+      "Brisbane"
     ]
   },
   {
     "type": "multiple",
-    "level": 5,
+    "level": 3,
     "category": "Wissenschaft & amp;Natur",
-    "question": "Das Wort & quot; Science & quot;stammt aus dem Wort & quot; Scire & quot;Das heißt was?",
-    "correct_answer": "Zu wissen",
+    "question": "Wann wurde das erste Säugetier erfolgreich geklont?",
+    "correct_answer": "1996",
     "incorrect_answers": [
-      "Zu messen",
-      "Leben",
-      "Zählen"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Wissenschaft",
-    "question": "Was ist der richtige Begriff für das Metallobjekt zwischen der CPU und dem CPU -Lüfter innerhalb eines Computersystems?",
-    "correct_answer": "Kühlkörper",
-    "incorrect_answers": [
-      "CPU -Ablagerung",
-      "Temperaturdecipator",
-      "Wärmeentlüftung"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welche Fähigkeit hat Prinzessin Sofia die erste von ihrem Amulett, das es ihr ermöglicht, unter Wasser zu atmen?",
-    "correct_answer": "Meerjungfrau -Transformation",
-    "incorrect_answers": [
-      "Künstliche Kiemen",
-      "Blasenkopf",
-      "Bubble Shield"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher Schauspieler spielte die Hauptfigur im Film \"Edward Scissorhands\" von 1990 \"?",
-    "correct_answer": "Johnny Depp",
-    "incorrect_answers": [
-      "Clint Eastwood",
-      "Leonardo DiCaprio",
-      "Ben Stiller"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Beenden Sie diese Texte aus dem Song & Quot; Panda & quot;von Desiigner: \"Ich habe Broads in _______\".",
-    "correct_answer": "Atlanta",
-    "incorrect_answers": [
-      "Savanne",
-      "Augusta",
-      "Marietta"
+      "2009",
+      "1999",
+      "1985"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
-    "category": "Unterhaltung",
-    "question": "Wie viele Leute können Sie im Spiel Suikoden in einem einzigen Durchgang einstellen?",
-    "correct_answer": "107",
+    "category": "Sport",
+    "question": "Was ist der Sport der Könige & rdquo;?",
+    "correct_answer": "Pferderennen",
     "incorrect_answers": [
-      "108",
-      "93",
-      "96"
+      "Schach",
+      "Turnier",
+      "Fechten"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Welcher Comedy -Kult -Kult von 90 ist Cameos -Auftritte von Fleischlaib, Alice Cooper und Chris Farley?",
-    "correct_answer": "Waynes Welt",
+    "question": "Welcher Charakter spielt der Spieler wie im Videospiel \"Bastion\"?",
+    "correct_answer": "Das Kind",
     "incorrect_answers": [
-      "Bill & amp;Teds ausgezeichnetes Abenteuer",
-      "Dumm und dümmer",
-      "Austin Powers: Internationaler Mann des Geheimnisses"
+      "Rucks",
+      "Zulf",
+      "Zia"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "In welchem ​​Jahr war das Album \"Californication & quot;freigegeben?",
-    "correct_answer": "1999",
-    "incorrect_answers": [
-      "1997",
-      "2000",
-      "1992"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Geschichte",
-    "question": "Wie viele bemannte Mondlandungen gab es?",
+    "question": "In der \"Call of Duty: Zombies\" & quot;Map & quot; Origins & quot; wie viele nummerierte Power -Generatoren gibt es?",
     "correct_answer": "6",
     "incorrect_answers": [
-      "1",
-      "3",
-      "7"
+      "8",
+      "5",
+      "3"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Zu Beginn des Spiels \"Sonic Adventure\", welches Color Chaos Emerald hat Tails besitzt?",
+    "correct_answer": "Lila",
+    "incorrect_answers": [
+      "Rot",
+      "Grün",
+      "Blau"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "Wie heißt die Hauptinsel in den Schlachtfeldern von Playerunnown?",
-    "correct_answer": "Erangel",
+    "question": "In & quot; Donkey Kong Country & Quot; Warum will Donkey Kong das Geheimnis der Kristallkokosnuss kennen?",
+    "correct_answer": "Er ist der Big Kahuna.",
     "incorrect_answers": [
-      "Marmela",
-      "Separny",
-      "Lastovo"
+      "Um herauszufinden, wo alle Bananen sind.",
+      "Weil Diddy Kong ihn gezwungen hat.",
+      "Er will Brutes bestrafen."
     ]
   },
   {
     "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "In welchem ​​Jahr war \"Antichamber & quot;freigegeben?",
-    "correct_answer": "2013",
+    "level": 3,
+    "category": "Allgemeinwissen",
+    "question": "Welcher Brief ist im Morse -Code durch 3 Punkte angezeigt?",
+    "correct_answer": "S",
     "incorrect_answers": [
-      "2012",
-      "2014",
-      "2011"
+      "O",
+      "A",
+      "C"
     ]
   },
   {
     "type": "multiple",
-    "level": 1,
-    "category": "Geschichte",
-    "question": "Wann wurde Google gegründet?",
-    "correct_answer": "4. September 1998",
-    "incorrect_answers": [
-      "9. Oktober 1997",
-      "12. Dezember 1989",
-      "7. Februar 2000"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
+    "level": 3,
     "category": "Wissenschaft & amp;Natur",
-    "question": "Welche dieser Früchte ist botanisch gesehen keine Beere?",
-    "correct_answer": "Erdbeere",
+    "question": "Deuterium ist ein Isotop von welchem ​​Element?",
+    "correct_answer": "Wasserstoff",
     "incorrect_answers": [
-      "Blaubeere",
-      "Banane",
-      "Concord Traube"
+      "Stickstoff",
+      "Helium",
+      "Neon"
     ]
   },
   {
     "type": "multiple",
-    "level": 3,
-    "category": "Geographie",
-    "question": "Was ist der richtige Weg, um die Hauptstadt Ungarns zu buchstabieren?",
-    "correct_answer": "Budapest",
-    "incorrect_answers": [
-      "Budapest",
-      "Budapest",
-      "Budapest"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geographie",
-    "question": "In welchem ​​Kontinent befindet sich das Land Lesotho?",
-    "correct_answer": "Afrika",
-    "incorrect_answers": [
-      "Asien",
-      "Südamerika",
-      "Europa"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
+    "level": 5,
     "category": "Unterhaltung",
-    "question": "Wer war der Gitarrist in der Band \"Die Türen\"?",
-    "correct_answer": "Robby Krieger",
+    "question": "Welchen Charakter in der alternativen Zeitleiste in Mortal Kombat war derjenige, der den Shirai Ryu -Clan schlachtete?",
+    "correct_answer": "Quan Chi",
     "incorrect_answers": [
-      "Eric Clapton",
-      "John Densmore",
-      "Jimi Hendrix"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Sport",
-    "question": "Was ist das älteste Team in der NFL?",
-    "correct_answer": "Arizona Cardinals",
-    "incorrect_answers": [
-      "Chicago Bears",
-      "Green Bay Packers",
-      "New York Giants"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In der \"S.T.A.L.K.E.R.\" & quot;Serie, welche dieser Elemente können nicht verwendet werden, um die akkumulierte Strahlung des Spielers zu senken?",
-    "correct_answer": "Radioprotektionsmittel",
-    "incorrect_answers": [
-      "Anti-Rad",
-      "Medkit",
-      "Wodka"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Welches Las Vegas Casino wurde ursprünglich von Mobster Bugsy Siegel gebaut und betrieben?",
-    "correct_answer": "Der Flamingo",
-    "incorrect_answers": [
-      "Der MGM Grand",
-      "Der Sand",
-      "Die Sahara"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Auf dem Cover von &#039; Abbey Road und#039;Welcher der Beatles trägt keine Schuhe?",
-    "correct_answer": "Paul McCartney",
-    "incorrect_answers": [
-      "Ringo Starr",
-      "John Lennon",
-      "George Harrison"
+      "Sub-Zero",
+      "Sektor",
+      "Shang Tsung"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
-    "category": "Geographie",
-    "question": "Wie viele Zeitzonen hat China?",
-    "correct_answer": "1",
+    "category": "Allgemeinwissen",
+    "question": "Wer ist auf der US -amerikanischen US -Dollar -Rechnung abgebildet?",
+    "correct_answer": "Benjamin Franklin",
     "incorrect_answers": [
-      "3",
-      "4",
-      "2"
+      "George Washington",
+      "Abraham Lincoln",
+      "Thomas Jefferson"
     ]
   },
   {
     "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher der folgenden Manga hat die meisten Tankoban -Bände?",
-    "correct_answer": "Golgo 13",
+    "level": 5,
+    "category": "Allgemeinwissen",
+    "question": "In welchem ​​Jahr wurde der Robosapien -Spielzeugroboter veröffentlicht?",
+    "correct_answer": "2004",
     "incorrect_answers": [
-      "JoJo's Bizarre Abenteuer",
-      "Detective Conan",
-      "Ein Stück"
+      "2000",
+      "2001",
+      "2006"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Welches dieser Spiele wurde von Markus Persson nicht entwickelt?",
+    "correct_answer": "Zwergfestung",
+    "incorrect_answers": [
+      "Minecraft",
+      "Wurm online",
+      "0x10c"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In Animal Crossing: New Leaf, welche dieser Gemälde aus der Kunstgalerie von Redd ist immer echt?",
+    "correct_answer": "Warmes Gemälde",
+    "incorrect_answers": [
+      "Jolly Malerei",
+      "Neutrales Gemälde",
+      "Wehmütiges Gemälde"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Mythologie",
-    "question": "Was war die Strafe für die Kleebigkeit von Sysiphus?",
-    "correct_answer": "Verflucht, um einen Felsbrocken auf einen Hügel für die Ewigkeit zu rollen.",
+    "question": "Welcher nordische Gott hat ein Pferd namens Slepnir?",
+    "correct_answer": "Odin",
     "incorrect_answers": [
-      "An einen Felsbrocken für die Ewigkeit gebunden und von Vögeln gepickt.",
-      "In einem mit Wasser gefüllten See konnte er nicht trinken.",
-      "Ein Baum fiel, der sich nach jeder Axtschwung regenerierte."
+      "Thor",
+      "Frigg",
+      "Balder"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Welche dieser Gründerväter der Vereinigten Staaten von Amerika wurde später Präsident?",
+    "correct_answer": "James Monroe",
+    "incorrect_answers": [
+      "Alexander Hamilton",
+      "Samuel Adams",
+      "Roger Sherman"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Allgemeinwissen",
+    "question": "Was war das Ziel des fehlenden Fluges MH370?",
+    "correct_answer": "Peking",
+    "incorrect_answers": [
+      "Kuala Lumpur",
+      "Singapur",
+      "Tokio"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Wissenschaft",
-    "question": "Was war das erste Unternehmen, das den Begriff \"Golden Master\" verwendet hat.",
-    "correct_answer": "Apfel",
+    "question": "Welche davon ist keine Ebene im OSI -Modell für die Datenkommunikation?",
+    "correct_answer": "Verbindungsschicht",
     "incorrect_answers": [
-      "IBM",
-      "Microsoft",
-      "Google"
+      "Anwendungsschicht",
+      "Transportschicht",
+      "Physische Schicht"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wer spricht Max Payne im Spiel 2001 \"Max Payne\"?",
+    "correct_answer": "James McCaffrey",
+    "incorrect_answers": [
+      "Sam Lake",
+      "Troy Baker",
+      "Hideo Kojima"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Welcher Tank Ace des Zweiten Weltkriegs wird zugeschrieben, dass er die meisten Panzer zerstört hat?",
+    "correct_answer": "Kurt Knispel",
+    "incorrect_answers": [
+      "Michael Wittmann",
+      "Walter Kniep",
+      "Otto Carius"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Unterhaltung",
-    "question": "In der Halbwertsreihe ist Gordon Freemans Signaturwaffe a:",
-    "correct_answer": "Brecheisen",
+    "question": "Wie heißt in Ducktales der Name der Stadt, in der alle Hauptfiguren leben?",
+    "correct_answer": "Duckburg",
     "incorrect_answers": [
-      "Vorschlaghammer",
-      "Faserdraht",
-      "Katana"
+      "Entenwing",
+      "Tailspin",
+      "Wingford"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Wer hatte einen 1981er Hit mit dem Song & quot; japanischer Junge \"?",
+    "correct_answer": "Aneka",
+    "incorrect_answers": [
+      "Toyah",
+      "Sandra",
+      "Madonna"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Welches Land im Vereinigten Königreich erscheint nicht auf seiner Flagge, der Union Jack?",
+    "correct_answer": "Wales",
+    "incorrect_answers": [
+      "Schottland",
+      "Irland",
+      "Isle of Wight"
     ]
   }
 ]
