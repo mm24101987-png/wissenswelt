@@ -3,144 +3,60 @@
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "In der \"The Hobbit\", wer tötet Smaug?",
-    "correct_answer": "Barde",
+    "question": "In & quot; Call of Duty: Zombies & quot;, welche Karte enthält die \"Fly -Trap\" & quot;Osterei?",
+    "correct_answer": "Der Riese",
     "incorrect_answers": [
-      "Bilbo Baggins",
-      "Gandalf der Grau",
-      "Frodo"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Was deklarierst du in Rīchi Mahjong, wenn du deine Gewinnerfliese gezogen hast?",
-    "correct_answer": "Tsumo",
-    "incorrect_answers": [
-      "Ron",
-      "Rīchi",
-      "Kan"
+      "Tranzit",
+      "Ruf der Toten",
+      "Shi no numa"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Unterhaltung",
-    "question": "\"Tomb Raider & quot;Icon Lara Croft wurde ursprünglich ...",
-    "correct_answer": "Laura Cruz",
+    "question": "Wie heißt in Game of Thrones, der richtige Name?",
+    "correct_answer": "Petyr Baelish",
     "incorrect_answers": [
-      "Laura Handwerk",
-      "Laura Croft",
-      "Lara Handwerk"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Welches Zeichen des Tierkreises wird durch die Krabbe dargestellt?",
-    "correct_answer": "Krebs",
-    "incorrect_answers": [
-      "Waage",
-      "Jungfrau",
-      "Schütze"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Geographie",
-    "question": "Llanfair & shy;",
-    "correct_answer": "Anglesey",
-    "incorrect_answers": [
-      "Barry",
-      "Bardsey",
-      "Caldey"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Welche dieser Einrichtungen war auf der Titanic nicht vorhanden?",
-    "correct_answer": "Ohnmachtraum",
-    "incorrect_answers": [
-      "Türkisches Bad",
-      "Zwinger",
-      "Kürbisgericht"
+      "Podrick Payne",
+      "Lancel Lannister",
+      "Torrhen Karstark"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Wann hat Tame Impala ihr zweites Album veröffentlicht?",
-    "correct_answer": "2012",
+    "question": "Welches davon ist kein DLC -Fahrzeug in \"Mario Kart 8\"?",
+    "correct_answer": "Wildes Wiggler",
     "incorrect_answers": [
-      "2015",
-      "2010",
-      "1967"
+      "Knochenrattler",
+      "B Dasher",
+      "300 SL Roadster"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
-    "category": "Unterhaltung",
-    "question": "In dem Film von 1976 &#039; Taxifahrer &#039; Wie viele Waffen hat Travis vom Verkäufer gekauft?",
-    "correct_answer": "4",
-    "incorrect_answers": [
-      "2",
-      "6",
-      "1"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Im Spiel \"Persona 4\", wie heißt der kanonische Name des Protagonisten?",
-    "correct_answer": "Yu Narukami",
-    "incorrect_answers": [
-      "Chino Mashido",
-      "Tunki Sunada",
-      "Masaki Narinaka"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welche der folgenden Figuren ist keine der Hauptfiguren im Story -Modus von Grand Theft Auto V & rsquo?",
-    "correct_answer": "Tommy Vercetti",
-    "incorrect_answers": [
-      "Michael de Santa",
-      "Franklin Clinton",
-      "Trevor Phillips"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
     "category": "Wissenschaft & amp;Natur",
-    "question": "Was ist die atomare Kohlenstoffmasse?",
-    "correct_answer": "12",
+    "question": "Welcher der folgenden Kunststoff wird üblicherweise für Fensterrahmen, Dachrinnen und Abflussrohre verwendet?",
+    "correct_answer": "Polyvinylchlorid (PVC)",
     "incorrect_answers": [
-      "14",
-      "16",
-      "10"
+      "Polyethylen (PE)",
+      "Polypropylen (PP)",
+      "Polystyrol (PS)"
     ]
   },
   {
     "type": "multiple",
-    "level": 3,
+    "level": 1,
     "category": "Unterhaltung",
-    "question": "Zu Beginn des Spiels \"Sonic Adventure\", welches Color Chaos Emerald hat Tails besitzt?",
-    "correct_answer": "Lila",
+    "question": "Welches Nintendo 64 -Spiel hatte nicht Luigi?",
+    "correct_answer": "Super Mario 64",
     "incorrect_answers": [
-      "Rot",
-      "Grün",
-      "Blau"
+      "Mario Party 2",
+      "Papier Mario",
+      "Super Smash Bros."
     ]
   },
   {
@@ -159,6 +75,18 @@
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
+    "question": "Welchen Anime hat Seiji Kishi nicht direkt geführt?",
+    "correct_answer": "Ein anderer",
+    "incorrect_answers": [
+      "Die Menschheit hat abgenommen",
+      "Attentat Klassenzimmer",
+      "Danganronpa: Die Animation"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
     "question": "Was ist der Vorteil, der in der \"Call of Duty\" eingeführt wurde: Zombies & quot;Karte, \"Mob der Toten\"?",
     "correct_answer": "Elektrische Kirsche",
     "incorrect_answers": [
@@ -169,338 +97,158 @@
   },
   {
     "type": "multiple",
-    "level": 1,
-    "category": "Geographie",
-    "question": "Was ist die kleinste Provinz Kanadas?",
-    "correct_answer": "Prinz Edward Island",
+    "level": 5,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Wie heißt der wissenschaftliche Name des Roten Fuchs?",
+    "correct_answer": "Vulpes Vulpes",
     "incorrect_answers": [
-      "New Brunswick",
-      "Neuschottland",
-      "Yukon"
+      "Vulpes Redus",
+      "Roter Fuchs",
+      "Vulpes Vulpie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In der ursprünglichen \"Super Mario Bros.\", was ist die Beschleunigung von Mario, wenn er im freien Fall war?",
+    "correct_answer": "91,28 m/s^2",
+    "incorrect_answers": [
+      "110 m/s^2",
+      "9,42 m/s^2",
+      "4,4 m/s^2"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Technik",
+    "question": "Welche Supercar -Firma stammt aus Schweden?",
+    "correct_answer": "Koenigsegg",
+    "incorrect_answers": [
+      "Bugatti",
+      "Lamborghini",
+      "McLaren"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In \"Rick und Morty\", aus welcher Dimension stammen Rick und Morty?",
+    "correct_answer": "C-137",
+    "incorrect_answers": [
+      "J1977",
+      "C-136",
+      "C500-A"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
-    "category": "Unterhaltung",
-    "question": "Grant Gustin spielt welchen Superhelden in der gleichnamigen CW -Show?",
-    "correct_answer": "Der Blitz",
+    "category": "Prominente",
+    "question": "Was war der letzte Filmrolle von James Coburn vor seinem Tod?",
+    "correct_answer": "Amerikanische Waffe",
     "incorrect_answers": [
-      "Der Pfeil",
-      "Schwarzer Kanarienvogel",
-      "Draufgänger"
+      "Monsters Inc",
+      "Texas Rangers",
+      "Schneehunde"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Allgemeinwissen",
-    "question": "Welche dieser Banken sind nicht berechtigt, Währungsnotizen in Hongkong auszustellen?",
-    "correct_answer": "OCBC",
+    "question": "Wo hat Apple Inc. seinen Hauptsitz?",
+    "correct_answer": "Cupertino, Kalifornien",
     "incorrect_answers": [
-      "HSBC",
-      "Standard gechartert",
-      "Bank of China"
+      "Redwood City, Kalifornien",
+      "Redmond, Washington",
+      "Santa Monica, ca."
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welchen Anime hat Seiji Kishi nicht direkt geführt?",
+    "correct_answer": "Ein anderer",
+    "incorrect_answers": [
+      "Die Menschheit hat abgenommen",
+      "Attentat Klassenzimmer",
+      "Danganronpa: Die Animation"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Alle folgenden Länder haben offizielle Ansprüche auf Territorium in Antartica, außer:",
+    "correct_answer": "Vereinigte Staaten",
+    "incorrect_answers": [
+      "Australien",
+      "Chile",
+      "Norwegen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Allgemeinwissen",
+    "question": "Was war das Ziel des fehlenden Fluges MH370?",
+    "correct_answer": "Peking",
+    "incorrect_answers": [
+      "Kuala Lumpur",
+      "Singapur",
+      "Tokio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Sport",
+    "question": "In welchem ​​Jahr wurde die Hockeylegende Wayne Gretzky geboren?",
+    "correct_answer": "1961",
+    "incorrect_answers": [
+      "1965",
+      "1959",
+      "1963"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "In welchem ​​Manga das \"404 Mädchen\" tat;Von 4chan stammen aus?",
-    "correct_answer": "Yotsuba & amp;!",
+    "question": "In welchem ​​Homestuck -Update wurde das Spiel veröffentlicht?",
+    "correct_answer": "25. Oktober 2014",
     "incorrect_answers": [
-      "Azumanga Daioh",
-      "Glücklicher Star",
-      "Klee"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Wissenschaft",
-    "question": "Welche der folgenden Sprachen wird als Skriptsprache in der Unity 3D Game Engine verwendet?",
-    "correct_answer": "C#",
-    "incorrect_answers": [
-      "Java",
-      "C ++",
-      "Ziel-C"
+      "13. April 2009",
+      "8. April 2012",
+      "28. August 2003"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Geschichte",
-    "question": "Die \"Spur der Tränen\" \"War ein Ergebnis der indischen Entfernungspolitik der US -Präsidenten der Vereinigten Staaten?",
-    "correct_answer": "Andrew Jackson",
-    "incorrect_answers": [
-      "Harry S. Truman",
-      "Martin van Buren",
-      "John Quincy Adams"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geographie",
-    "question": "Welche dieser amerikanischen Städte hat weniger als 1.000.000 Menschen?",
-    "correct_answer": "San Francisco, Kalifornien",
-    "incorrect_answers": [
-      "Phoenix, Arizona",
-      "San Antonio, Texas",
-      "Philadelphia, Pennsylvania"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Prominente",
-    "question": "Wann wurde Elvis Presley geboren?",
-    "correct_answer": "8. Januar 1935",
-    "incorrect_answers": [
-      "13. Dezember 1931",
-      "18. Juli 1940",
-      "17. April 1938"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Fahrzeuge",
-    "question": "Wann wurde Tesla gegründet?",
-    "correct_answer": "2003",
-    "incorrect_answers": [
-      "2008",
-      "2005",
-      "2007"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Wissenschaft",
-    "question": "Wie heißt Layer 4 des ISO -Modells (Open Systems Interconnection)?",
-    "correct_answer": "Transport",
-    "incorrect_answers": [
-      "Sitzung",
-      "Datenverbindung",
-      "Netzwerk"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Allgemeinwissen",
-    "question": "Sciophobie ist die Angst vor was?",
-    "correct_answer": "Schatten",
-    "incorrect_answers": [
-      "Essen",
-      "Helle Lichter",
-      "Transport"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wer in Pulp Fiction sagt, nein, sie haben das metrische System dort bekommen, sie würden nicht wissen, was zum Teufel ein Viertelstapper ist.",
-    "correct_answer": "Vincent Vega",
-    "incorrect_answers": [
-      "Jules Winnfield",
-      "Jimmie Dimmick",
-      "Butch Coolidge"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Was geht ein Funambulist?",
-    "correct_answer": "Ein enges Seil",
-    "incorrect_answers": [
-      "Glasscherben",
-      "Bälle",
-      "Der Mond"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geographie",
-    "question": "Was ist die Hauptstadt Australiens?",
-    "correct_answer": "Canberra",
-    "incorrect_answers": [
-      "Sydney",
-      "Melbourne",
-      "Brisbane"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Wissenschaft & amp;Natur",
-    "question": "Wann wurde das erste Säugetier erfolgreich geklont?",
-    "correct_answer": "1996",
-    "incorrect_answers": [
-      "2009",
-      "1999",
-      "1985"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Sport",
-    "question": "Was ist der Sport der Könige & rdquo;?",
-    "correct_answer": "Pferderennen",
-    "incorrect_answers": [
-      "Schach",
-      "Turnier",
-      "Fechten"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher Charakter spielt der Spieler wie im Videospiel \"Bastion\"?",
-    "correct_answer": "Das Kind",
-    "incorrect_answers": [
-      "Rucks",
-      "Zulf",
-      "Zia"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In der \"Call of Duty: Zombies\" & quot;Map & quot; Origins & quot; wie viele nummerierte Power -Generatoren gibt es?",
+    "question": "Wie viele bemannte Mondlandungen gab es?",
     "correct_answer": "6",
     "incorrect_answers": [
-      "8",
-      "5",
-      "3"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Zu Beginn des Spiels \"Sonic Adventure\", welches Color Chaos Emerald hat Tails besitzt?",
-    "correct_answer": "Lila",
-    "incorrect_answers": [
-      "Rot",
-      "Grün",
-      "Blau"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "In & quot; Donkey Kong Country & Quot; Warum will Donkey Kong das Geheimnis der Kristallkokosnuss kennen?",
-    "correct_answer": "Er ist der Big Kahuna.",
-    "incorrect_answers": [
-      "Um herauszufinden, wo alle Bananen sind.",
-      "Weil Diddy Kong ihn gezwungen hat.",
-      "Er will Brutes bestrafen."
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Allgemeinwissen",
-    "question": "Welcher Brief ist im Morse -Code durch 3 Punkte angezeigt?",
-    "correct_answer": "S",
-    "incorrect_answers": [
-      "O",
-      "A",
-      "C"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Wissenschaft & amp;Natur",
-    "question": "Deuterium ist ein Isotop von welchem ​​Element?",
-    "correct_answer": "Wasserstoff",
-    "incorrect_answers": [
-      "Stickstoff",
-      "Helium",
-      "Neon"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Welchen Charakter in der alternativen Zeitleiste in Mortal Kombat war derjenige, der den Shirai Ryu -Clan schlachtete?",
-    "correct_answer": "Quan Chi",
-    "incorrect_answers": [
-      "Sub-Zero",
-      "Sektor",
-      "Shang Tsung"
+      "1",
+      "3",
+      "7"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Wer ist auf der US -amerikanischen US -Dollar -Rechnung abgebildet?",
-    "correct_answer": "Benjamin Franklin",
-    "incorrect_answers": [
-      "George Washington",
-      "Abraham Lincoln",
-      "Thomas Jefferson"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Allgemeinwissen",
-    "question": "In welchem ​​Jahr wurde der Robosapien -Spielzeugroboter veröffentlicht?",
-    "correct_answer": "2004",
-    "incorrect_answers": [
-      "2000",
-      "2001",
-      "2006"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
     "category": "Unterhaltung",
-    "question": "Welches dieser Spiele wurde von Markus Persson nicht entwickelt?",
-    "correct_answer": "Zwergfestung",
+    "question": "Welches Nirvana -Album hatte ein nacktes Baby auf dem Cover?",
+    "correct_answer": "Egal",
     "incorrect_answers": [
-      "Minecraft",
-      "Wurm online",
-      "0x10c"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "In Animal Crossing: New Leaf, welche dieser Gemälde aus der Kunstgalerie von Redd ist immer echt?",
-    "correct_answer": "Warmes Gemälde",
-    "incorrect_answers": [
-      "Jolly Malerei",
-      "Neutrales Gemälde",
-      "Wehmütiges Gemälde"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Mythologie",
-    "question": "Welcher nordische Gott hat ein Pferd namens Slepnir?",
-    "correct_answer": "Odin",
-    "incorrect_answers": [
-      "Thor",
-      "Frigg",
-      "Balder"
+      "Bleichen",
+      "In der Gebärmutter",
+      "Incesticid"
     ]
   },
   {
@@ -518,85 +266,337 @@
   {
     "type": "multiple",
     "level": 3,
-    "category": "Allgemeinwissen",
-    "question": "Was war das Ziel des fehlenden Fluges MH370?",
-    "correct_answer": "Peking",
+    "category": "Unterhaltung",
+    "question": "Welches davon ist kein DLC -Fahrzeug in \"Mario Kart 8\"?",
+    "correct_answer": "Wildes Wiggler",
     "incorrect_answers": [
-      "Kuala Lumpur",
-      "Singapur",
-      "Tokio"
+      "Knochenrattler",
+      "B Dasher",
+      "300 SL Roadster"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
-    "category": "Wissenschaft",
-    "question": "Welche davon ist keine Ebene im OSI -Modell für die Datenkommunikation?",
-    "correct_answer": "Verbindungsschicht",
+    "category": "Unterhaltung",
+    "question": "Wie war der Namen des Entwicklungskodex für das \"Wetterlicht\" & quot;Erweiterung für \"Magie: The Gathering\", veröffentlicht 1997?",
+    "correct_answer": "Mokka Latte",
     "incorrect_answers": [
-      "Anwendungsschicht",
-      "Transportschicht",
-      "Physische Schicht"
+      "Decaf",
+      "Frappuccino",
+      "Macchiato"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In & quot; Donkey Kong Country & Quot; Warum will Donkey Kong das Geheimnis der Kristallkokosnuss kennen?",
+    "correct_answer": "Er ist der Big Kahuna.",
+    "incorrect_answers": [
+      "Um herauszufinden, wo alle Bananen sind.",
+      "Weil Diddy Kong ihn gezwungen hat.",
+      "Er will Brutes bestrafen."
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Wer spricht Max Payne im Spiel 2001 \"Max Payne\"?",
-    "correct_answer": "James McCaffrey",
+    "question": "Wer war zusammen mit Gabe Newell, der Mitbegründer von Ventil?",
+    "correct_answer": "Mike Harrington",
     "incorrect_answers": [
-      "Sam Lake",
-      "Troy Baker",
-      "Hideo Kojima"
+      "Robin Walker",
+      "Marc Laidlaw",
+      "Stephen Bahl"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Allgemeinwissen",
+    "question": "Welcher der folgenden ist eine vorhandene Familie in \"The Sims\"?",
+    "correct_answer": "Die Goth -Familie",
+    "incorrect_answers": [
+      "Die Familie",
+      "Die Familie Simoleon",
+      "Die stolze Familie"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
-    "category": "Geschichte",
-    "question": "Welcher Tank Ace des Zweiten Weltkriegs wird zugeschrieben, dass er die meisten Panzer zerstört hat?",
-    "correct_answer": "Kurt Knispel",
+    "category": "Tiere",
+    "question": "Wie heißt die Familie, dass die Hauskatze Mitglied ist?",
+    "correct_answer": "Felidae",
     "incorrect_answers": [
-      "Michael Wittmann",
-      "Walter Kniep",
-      "Otto Carius"
+      "Felinae",
+      "Felis",
+      "Katze"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Unterhaltung",
-    "question": "Wie heißt in Ducktales der Name der Stadt, in der alle Hauptfiguren leben?",
-    "correct_answer": "Duckburg",
+    "question": "Welche dieser Charaktere in \"Stranger Things\"?Hat die Kraft der Telekinese?",
+    "correct_answer": "Elf",
     "incorrect_answers": [
-      "Entenwing",
-      "Tailspin",
-      "Wingford"
+      "Mikrofon",
+      "Lucas",
+      "Karen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welches Lied in Drake &#039; S & quot; Ansichten & quot;Funktioniert zu Zukunft?",
+    "correct_answer": "Grammys",
+    "incorrect_answers": [
+      "Zu gut",
+      "Treu",
+      "Popstil"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welches Queen -Lied wurde von Brittany Murphy im Film & Quot; Happy Feet & Quot;?",
+    "correct_answer": "Jemanden zu lieben",
+    "incorrect_answers": [
+      "Unter Druck",
+      "Blitz",
+      "Böhmische Rhapsodie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie lautet der Geburtsname von Michael Caine?",
+    "correct_answer": "Maurice Micklewhite",
+    "incorrect_answers": [
+      "Morris Coleman",
+      "Carl Myers",
+      "Martin Michaels"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Allgemeinwissen",
+    "question": "Die Fields -Medaille, eine der gefragtesten Auszeichnungen in der Mathematik, wird alle Jahre verliehen?",
+    "correct_answer": "4",
+    "incorrect_answers": [
+      "3",
+      "5",
+      "6"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Als Donkey Kong im Landesland starb.Episode \"Es ist ein wundervolles Leben\" Wer war sein Schutzengel?",
+    "correct_answer": "Eddie der gemeine alte Yeti",
+    "incorrect_answers": [
+      "Kiddy Kong",
+      "Diddy Kong",
+      "König K. Rool"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welcher der folgenden Manga hat die meisten Tankoban -Bände?",
+    "correct_answer": "Golgo 13",
+    "incorrect_answers": [
+      "JoJo's Bizarre Abenteuer",
+      "Detective Conan",
+      "Ein Stück"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "In \"Avatar: The Last Airbender\", welches Element beginnt Aang zu lernen, nachdem er aufgetaut wurde?",
+    "correct_answer": "Wasser",
+    "incorrect_answers": [
+      "Luft",
+      "Erde",
+      "Feuer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geographie",
+    "question": "Wie heißt die Rocky -Region, die den größten Teil Ostkanadas erstreckt?",
+    "correct_answer": "Kanadischer Schild",
+    "incorrect_answers": [
+      "Rocky Mountains",
+      "Appalachische Berge",
+      "Himalaya"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geographie",
+    "question": "Was ist die Hauptstadt des amerikanischen Bundesstaates Arizona?",
+    "correct_answer": "Phönix",
+    "incorrect_answers": [
+      "Montgomery",
+      "Tallahassee",
+      "Raleigh"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "2015 veröffentlichte David Hasselhof eine Single namens ...",
+    "correct_answer": "Wahrer Überlebender",
+    "incorrect_answers": [
+      "Wahrer Kämpfer",
+      "Echter Kung-Fury",
+      "Echter Krieger"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Sport",
+    "question": "Wie viele Fußballspieler sollten gleichzeitig auf dem Feld sein?",
+    "correct_answer": "22",
+    "incorrect_answers": [
+      "20",
+      "24",
+      "26"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie hieß die geheime Organisation in der Hotline Miami -Serie?",
+    "correct_answer": "50 Segen",
+    "incorrect_answers": [
+      "Amerikanischer Segen",
+      "50 Heilige",
+      "UdSSRs Segen"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "Wer hatte einen 1981er Hit mit dem Song & quot; japanischer Junge \"?",
-    "correct_answer": "Aneka",
+    "question": "Was ist im Geometrie -Dash Stufe 13?",
+    "correct_answer": "Elektromanische Abenteuer",
     "incorrect_answers": [
-      "Toyah",
-      "Sandra",
-      "Madonna"
+      "Theorie von allem",
+      "Clubstep",
+      "Unordnung"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
-    "category": "Geographie",
-    "question": "Welches Land im Vereinigten Königreich erscheint nicht auf seiner Flagge, der Union Jack?",
-    "correct_answer": "Wales",
+    "category": "Unterhaltung",
+    "question": "In der \"toaru majutsu no index & quot;Anime, Touma Kamijou ist ein Esper Level 0, der die Fähigkeit hat, was zu tun?",
+    "correct_answer": "Bezeilen Sie alle Esper- oder magischen Kräfte",
     "incorrect_answers": [
-      "Schottland",
-      "Irland",
-      "Isle of Wight"
+      "Teleport",
+      "Telepathische Kommunikation machen",
+      "Elektrizität aus seinem eigenen Körper schaffen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Sport",
+    "question": "Wer ist Manchester Uniteds führender Erscheinungsmacher?",
+    "correct_answer": "Ryan Giggs",
+    "incorrect_answers": [
+      "David Beckham",
+      "Wayne Rooney",
+      "Eric Cantona"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geschichte",
+    "question": "Abolitionist John Brown überfiel das Arsenal in welcher Stadt Virginia?",
+    "correct_answer": "Harper &#039; s Fähre",
+    "incorrect_answers": [
+      "Richmond",
+      "Harrisonburg",
+      "Martinsburg"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Welcher der folgenden Aussagen ist der Begriff für \"chirurgische Komplikationen\", die sich aus chirurgischen Schwämmen ergeben, die sich im Körper des Patienten befinden?",
+    "correct_answer": "Gossypiboma",
+    "incorrect_answers": [
+      "Gongoozler",
+      "Jentakulär",
+      "Meupareunia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welches Unternehmen entwickelt die Rock -Band -Serie von Rhythmusspielen?",
+    "correct_answer": "Harmonix",
+    "incorrect_answers": [
+      "Aktivision",
+      "Konami",
+      "Elektronische Künste"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Wer hat 1847 die erste Schokoladenbar erfunden?",
+    "correct_answer": "Joseph Fry",
+    "incorrect_answers": [
+      "Andrew Johnson",
+      "John Cadbury",
+      "John Tyler"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wer ist im 9. Pokemon -Film der Prinz des Meeres?",
+    "correct_answer": "Manaphie",
+    "incorrect_answers": [
+      "Asche",
+      "Mai",
+      "Phantom"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Für den Film & quot;",
+    "correct_answer": "Ruhr",
+    "incorrect_answers": [
+      "Anämie",
+      "Verstopfung",
+      "Saurer Reflux"
     ]
   }
 ]
