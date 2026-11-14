@@ -1,362 +1,98 @@
 [
   {
     "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In den Skylanders Giants war Zaps?Wow pow genannt \"für Riley & quot;?",
-    "correct_answer": "Als Hommage an einen Fan, der verstorben ist",
+    "level": 5,
+    "category": "Wissenschaft",
+    "question": "Wie heißt Layer 4 des ISO -Modells (Open Systems Interconnection)?",
+    "correct_answer": "Transport",
     "incorrect_answers": [
-      "Als Verweis auf einen Film",
-      "Nach einem der Autoren des Spiels",
-      "Nach einem Sprachschauspieler"
+      "Sitzung",
+      "Datenverbindung",
+      "Netzwerk"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Wie hieß das WWF Professional Wrestling Tag -Team, das aus den Wrestlern Axt und Smash bestand?",
+    "correct_answer": "Abriss",
+    "incorrect_answers": [
+      "Das Dreamteam",
+      "Die Bushwhacker",
+      "Die britischen Bulldoggen"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "Was war der letzte Film von Marx Brothers mit Zeppo?",
-    "correct_answer": "Entensuppe",
+    "question": "Nach \"Star Wars\" & quot;Überlieferung, aus welchem ​​Planet kommt Obi-Wan Kenobi?",
+    "correct_answer": "Stewjon",
     "incorrect_answers": [
-      "Eine Nacht in der Oper",
-      "Ein Tag bei den Rennen",
-      "Affengeschäft"
+      "Alderaan",
+      "Tatooine",
+      "Naboo"
     ]
   },
   {
     "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welche dieser Charaktere in \"Stranger Things\"?Hat die Kraft der Telekinese?",
-    "correct_answer": "Elf",
+    "level": 3,
+    "category": "Fahrzeuge",
+    "question": "In welchem ​​der folgenden Fahrzeuge verfügte am Basismodell ein volles Glasdach?",
+    "correct_answer": "Renault Avantime",
     "incorrect_answers": [
-      "Mikrofon",
-      "Lucas",
-      "Karen"
+      "Chevy Volt",
+      "Mercedes-Benz A-Klasse",
+      "Honda Odyssey"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Wie heißt der Alligator, den die Simpsons \"getötet\" getötet haben.In der Folge \"töte\" den Alligator und run \"?",
-    "correct_answer": "Kapitän Jack",
+    "question": "Welches Lied in Drake &#039; S & quot; Ansichten & quot;Funktioniert zu Zukunft?",
+    "correct_answer": "Grammys",
     "incorrect_answers": [
-      "Kapitän Jake",
-      "Kapitän Hector",
-      "Kapitän Flynn"
+      "Zu gut",
+      "Treu",
+      "Popstil"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Unterhaltung",
-    "question": "Wendy O. Koopa erschien in den Super Mario DiC -Cartoons, aber was war sie bekannt?",
-    "correct_answer": "Kootie Pie",
+    "question": "Im Spiel \"Fire Emblem: Shadow Dragon\", Wie heißt der Name des zentralen Protagonisten?",
+    "correct_answer": "Marth",
     "incorrect_answers": [
-      "Süße Kuchen",
-      "Wendy Pie",
-      "Honigkuchen"
+      "Roy",
+      "Eliwood",
+      "Robin"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Geographie",
-    "question": "Wo befindet sich die älteste noch operative Raumstarteinrichtung der Welt?",
-    "correct_answer": "Kasachstan",
+    "question": "Alle folgenden Länder haben offizielle Ansprüche auf Territorium in Antartica, außer:",
+    "correct_answer": "Vereinigte Staaten",
     "incorrect_answers": [
-      "Russland",
-      "Iran",
-      "Vereinigte Staaten"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wer schrieb den jungen erwachsenen Roman \"The Fault in Our Stars\"?",
-    "correct_answer": "John Green",
-    "incorrect_answers": [
-      "Stephenie Meyer",
-      "Suzanne Collins",
-      "Stephen Chbosky"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Tiere",
-    "question": "Was ist das kollektive Substantiv für eine Gruppe von Krähen?",
-    "correct_answer": "Mord",
-    "incorrect_answers": [
-      "Pack",
-      "Schar",
-      "Herde"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wenn Sie das Super Mario RPG und ein Nickerchen in einem gemieteten Hotelzimmer spielen, werden Sie neben welchem ​​vertrauten Charakter aufwachen?",
-    "correct_answer": "Link",
-    "incorrect_answers": [
-      "Wario",
-      "Q*Bert",
-      "Solide Schlange"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "In welchem ​​Jahr wurde Garrys Mod als eigenständiger Titel auf dem Dampfverteilungsdienst von Ventil veröffentlicht?",
-    "correct_answer": "2006",
-    "incorrect_answers": [
-      "2007",
-      "2004",
-      "2003"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Wissenschaft",
-    "question": "Wie viele Bits bilden den wichtigen Teil einer einzelnen Präzisions -Schwimmpunktzahl?",
-    "correct_answer": "23",
-    "incorrect_answers": [
-      "8",
-      "53",
-      "15"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In & quot; Resident Evil 2 & quot; welches Virus wurde William Birkin mutiert?",
-    "correct_answer": "G-Virus",
-    "incorrect_answers": [
-      "T-Virus",
-      "C-Virus",
-      "E-Virus"
+      "Australien",
+      "Chile",
+      "Norwegen"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "In & quot; Donkey Kong Country & Quot; Warum will Donkey Kong das Geheimnis der Kristallkokosnuss kennen?",
-    "correct_answer": "Er ist der Big Kahuna.",
+    "question": "In welchem ​​Jahr war Clint Eastwood als Inspektor Harry Callahan im Film \"Dirty Harry\"?",
+    "correct_answer": "1971",
     "incorrect_answers": [
-      "Um herauszufinden, wo alle Bananen sind.",
-      "Weil Diddy Kong ihn gezwungen hat.",
-      "Er will Brutes bestrafen."
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Prominente",
-    "question": "Wie alt war Muhammad Ali, als er starb?",
-    "correct_answer": "74",
-    "incorrect_answers": [
-      "61",
-      "Er lebt noch",
-      "56"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Wie heißt das Jenseits von Klingon?",
-    "correct_answer": "Sto-vo-kor",
-    "incorrect_answers": [
-      "Valhalla",
-      "Karon &#039; Gahk",
-      "New Jersey"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Allgemeinwissen",
-    "question": "Wie lange müssen Sie laut Fair Works Australia arbeiten, um einen langen Service zu erhalten?",
-    "correct_answer": "7 Jahre",
-    "incorrect_answers": [
-      "2 Jahre",
-      "8 Jahre",
-      "6 Monate"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Saul Hudson (Slash) der Band Guns N &#039;Roses ist dafür bekannt, welche Art von Gitarre zu spielen?",
-    "correct_answer": "Les Paul Standard",
-    "incorrect_answers": [
-      "Fender Stratocaster",
-      "LSL -Mischling",
-      "Gretsch Falcon"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Im \"Jurassic Park\" & quot;Universum, was war der erste Dinosaurier, der 1986 von Ingen klonte?",
-    "correct_answer": "Velociraptor",
-    "incorrect_answers": [
-      "Triceratops",
-      "Troodon",
-      "Brachiosaurus"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wer spricht den Charakter \"Reigen\"?Im englischen Dub of & quot; Mob Psycho 100 & quot;?",
-    "correct_answer": "Chris Niosi",
-    "incorrect_answers": [
-      "Max Mittelman",
-      "Kyle McCarley",
-      "Casey Mongillo"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher Block in Minecraft hat den höchsten Explosionswiderstand?",
-    "correct_answer": "Barriere",
-    "incorrect_answers": [
-      "Obsidian",
-      "Grundgestein",
-      "Diamantblock"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welche der folgenden Figuren ist keine der Hauptfiguren im Story -Modus von Grand Theft Auto V & rsquo?",
-    "correct_answer": "Tommy Vercetti",
-    "incorrect_answers": [
-      "Michael de Santa",
-      "Franklin Clinton",
-      "Trevor Phillips"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Wie viele Farben gibt es in einem Regenbogen?",
-    "correct_answer": "7",
-    "incorrect_answers": [
-      "8",
-      "9",
-      "10"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Geschichte",
-    "question": "Welcher berühmte Militärkommandant marschierte eine Armee, zu der Kriegselefanten gehörten, über die Alpen während des zweiten punischen Krieges?",
-    "correct_answer": "Hannibal",
-    "incorrect_answers": [
-      "Garmanicus",
-      "Alexander der Große",
-      "Tiberius"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Tiere",
-    "question": "Welches Tier war 1959 Teil eines russischen Domestizierungsexperiments?",
-    "correct_answer": "Füchse",
-    "incorrect_answers": [
-      "Tauben",
-      "Bären",
-      "Alligatoren"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wie heißt der Planet, den der Doktor aus der Fernsehserie \"Doctor Who & quot;kommt von?",
-    "correct_answer": "Gallifrey",
-    "incorrect_answers": [
-      "Sontar",
-      "Skaro",
-      "Mondas"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Die Band Muse hat in welchem ​​Jahr ihr erstes Album, Showbiz, veröffentlicht?",
-    "correct_answer": "1999",
-    "incorrect_answers": [
-      "1998",
-      "2000",
-      "2001"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Was haben Shakespearicles im Team der Team Fortress 2 nicht ermittelt?",
-    "correct_answer": "Treppe",
-    "incorrect_answers": [
-      "Zweistöckiges Gebäude",
-      "Raketenwerfer",
-      "Theaterstück"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Wissenschaft",
-    "question": "Welche der folgenden Sprachen wird als Skriptsprache in der Unity 3D Game Engine verwendet?",
-    "correct_answer": "C#",
-    "incorrect_answers": [
-      "Java",
-      "C ++",
-      "Ziel-C"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wer spielte den Cenobite namens \"Pinhead\" & quot;In den ursprünglichen Hellraiser -Filmen?",
-    "correct_answer": "Doug Bradley",
-    "incorrect_answers": [
-      "Doug Jones",
-      "Doug Savant",
-      "Doug Benson"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wie heißt in Ducktales der Name der Stadt, in der alle Hauptfiguren leben?",
-    "correct_answer": "Duckburg",
-    "incorrect_answers": [
-      "Entenwing",
-      "Tailspin",
-      "Wingford"
+      "1975",
+      "1983",
+      "1969"
     ]
   },
   {
@@ -373,146 +109,98 @@
   },
   {
     "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Welches Land, nicht in Japan, hat die meisten Menschen japanischer Abstammung?",
-    "correct_answer": "Brasilien",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie heißt der letzte Bösewicht in der Manga -Serie \"Bleichmittel\"?",
+    "correct_answer": "Yhwach",
     "incorrect_answers": [
-      "China",
-      "Südkorea",
-      "Vereinigte Staaten von Amerika"
+      "Juha Bach",
+      "Yuhaba",
+      "Juhabach"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
-    "category": "Sport",
-    "question": "Welches Logo des deutschen Sportswear -Unternehmens ist das Formenstreifen &#039;?",
-    "correct_answer": "Puma",
+    "category": "Fahrzeuge",
+    "question": "Welches der folgenden Länder hat den zivilen Einsatz von Dash -Cams in Autos offiziell verboten?",
+    "correct_answer": "Österreich",
     "incorrect_answers": [
-      "Nike",
-      "Adidas",
-      "Reebok"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In & quot; Paper Mario: Die tausendjährige Tür \", Was ist die Schwäche des Hoottschwanzes?",
-    "correct_answer": "Das Geräusch von Grillen",
-    "incorrect_answers": [
-      "Angriffe von Koopas",
-      "Der \"Eissturm\".Artikel",
-      "Der Hammer"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wer wird zugeschrieben, dass er die erste Videospiel -Osterei der Welt erstellt hat?",
-    "correct_answer": "Warren Robinett",
-    "incorrect_answers": [
-      "Julius Smith",
-      "Will Crowther",
-      "Don Woods"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geographie",
-    "question": "Wie viele Provinzen sind in den Niederlanden?",
-    "correct_answer": "12",
-    "incorrect_answers": [
-      "14",
-      "10",
-      "13"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Welches dieser Nickelodeon -Spiele zeigt zuerst ausgestrahlt?",
-    "correct_answer": "Doppelt wagen",
-    "incorrect_answers": [
-      "Nick Arcade",
-      "Finder Bewahrer",
-      "Nickelodeon -Eingeweide"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wie viele Studioalben haben die Heavy Metal -Band, &#039; Metallica &#039;veröffentlicht in der Zeit zwischen 1983 und 2016?",
-    "correct_answer": "10",
-    "incorrect_answers": [
-      "7",
-      "9",
-      "12"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Welche der folgenden Aussagen ist im Original Doom (1993) kein Cheat -Code?",
-    "correct_answer": "Idclip",
-    "incorrect_answers": [
-      "IDFA",
-      "Iddqd",
-      "Idspispopd"
+      "Vereinigte Staaten",
+      "Tschechien",
+      "Südkorea"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welche der folgenden Klangkräfte stammte im Spiel nicht aus einem früheren Spiel?",
+    "correct_answer": "Unendlich",
+    "incorrect_answers": [
+      "Metal Sonic",
+      "Zavoc",
+      "Chaos"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Technik",
+    "question": "Welche Supercar -Firma stammt aus Schweden?",
+    "correct_answer": "Koenigsegg",
+    "incorrect_answers": [
+      "Bugatti",
+      "Lamborghini",
+      "McLaren"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
     "category": "Wissenschaft",
-    "question": "Welche Programmiersprache teilt ihren Namen mit einer Insel in Indonesien?",
-    "correct_answer": "Java",
+    "question": "Welche dieser mechanischen Tastaturschalter von Cherry MX ist sowohl taktil als auch klickend?",
+    "correct_answer": "Cherry Mx Blue",
     "incorrect_answers": [
-      "Python",
-      "C",
-      "Jakarta"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Allgemeinwissen",
-    "question": "Apple-Mitbegründer Steve Jobs starb an Komplikationen für die Krebsform?",
-    "correct_answer": "Pankreas",
-    "incorrect_answers": [
-      "Knochen",
-      "Leber",
-      "Magen"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Was ist das spanische Wort für \"Esel\"?",
-    "correct_answer": "Burro",
-    "incorrect_answers": [
-      "Caballo",
-      "Toro",
-      "Perro"
+      "Cherry Mx schwarz",
+      "Cherry Mx rot",
+      "Cherry Mx Brown"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "In welchem ​​Jahr hat der James Cameron Film & quot; titanic & quot;in den Kinos herauskommen?",
-    "correct_answer": "1997",
+    "question": "In Cook, serviert, lecker!, Welches Essen ist nicht im Spiel enthalten?",
+    "correct_answer": "Torte",
     "incorrect_answers": [
-      "1996",
-      "1998",
-      "1999"
+      "Shish Kabob",
+      "Hamburger",
+      "Lasagne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Wofür steht Laser?",
+    "correct_answer": "Lichtverstärkung durch stimulierte Strahlungsemission",
+    "incorrect_answers": [
+      "Lite analysiert von Stereo Ecorazer",
+      "Lichtverstärker durch Standby -Energie des Radios",
+      "Leben Antimaterie durch Stehen der Reichweite"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geschichte",
+    "question": "In welchem ​​Jahr wurde die Unabhängigkeitserklärung der Vereinigten Staaten unterzeichnet?",
+    "correct_answer": "1776",
+    "incorrect_answers": [
+      "1775",
+      "1774",
+      "1777"
     ]
   },
   {
@@ -529,74 +217,386 @@
   },
   {
     "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welchen Anime hat Seiji Kishi nicht direkt geführt?",
-    "correct_answer": "Ein anderer",
+    "level": 5,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Wie heißt der wissenschaftliche Name des Roten Fuchs?",
+    "correct_answer": "Vulpes Vulpes",
     "incorrect_answers": [
-      "Die Menschheit hat abgenommen",
-      "Attentat Klassenzimmer",
-      "Danganronpa: Die Animation"
+      "Vulpes Redus",
+      "Roter Fuchs",
+      "Vulpes Vulpie"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Sport",
-    "question": "Welches Team hat die englische Premier League 2015-16 gewonnen?",
-    "correct_answer": "Leicester City",
+    "question": "Welches Team gewann England im Weltcup -Finale von 1966?",
+    "correct_answer": "Westdeutschland",
     "incorrect_answers": [
-      "Liverpool",
-      "Chelsea",
-      "Manchester United"
+      "die Sowjetunion",
+      "Portugal",
+      "Brasilien"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Wie heißt Sids Hund in \"Toy Story\"?",
-    "correct_answer": "Scud",
+    "question": "Wer war der Hauptgegner von Max Payne 3 (2012)?",
+    "correct_answer": "Victor Branco",
     "incorrect_answers": [
-      "Buster",
-      "Schnurrhaare",
-      "Mr. Jones"
+      "& Aacute; Lvaro Neves",
+      "Armando Becker",
+      "Milo Rego"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welche 80er -Jahre -Band wird vom Sänger/Gitarristen Robert Smith vorgestellt?",
+    "correct_answer": "Die Heilung",
+    "incorrect_answers": [
+      "Die Smiths",
+      "Echo & amp;die Häschen",
+      "Neue Ordnung"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Fahrzeuge",
+    "question": "Welcher Motor ist im Lexus SC400?",
+    "correct_answer": "1UZ-FE",
+    "incorrect_answers": [
+      "2jz-gte",
+      "7m-gte",
+      "5m-GE"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Welches Zeichen des Tierkreises wird durch die Krabbe dargestellt?",
+    "correct_answer": "Krebs",
+    "incorrect_answers": [
+      "Waage",
+      "Jungfrau",
+      "Schütze"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
+    "category": "Allgemeinwissen",
+    "question": "Was war das Ziel des fehlenden Fluges MH370?",
+    "correct_answer": "Peking",
+    "incorrect_answers": [
+      "Kuala Lumpur",
+      "Singapur",
+      "Tokio"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Tiere",
+    "question": "Wie hieß der äthiopische Wolf, bevor sie wussten, dass er mit Wölfen zusammenhängt?",
+    "correct_answer": "Simien Jackel",
+    "incorrect_answers": [
+      "Äthiopischer Kojote",
+      "Amharischer Fuchs",
+      "Canis simiensis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie heißt der Roboter im Science -Fiction -Film Classic von 1951 &#039; Der Tag, an dem die Erde still stand &#039;?",
+    "correct_answer": "Gort",
+    "incorrect_answers": [
+      "Robby",
+      "Koloss",
+      "Kasten"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In & quot; Final Fantasy vi & quot;, wie heißt (beschworen) Gilgamesch, der schwächste Angriff?",
+    "correct_answer": "Excalipoor",
+    "incorrect_answers": [
+      "Excalibore",
+      "Excalisnore",
+      "Excalisore"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "\"Rollercoaster Tycoon\" & quot;wurde größtenteils vollständig in ... programmiert ...",
+    "correct_answer": "x86 Montage",
+    "incorrect_answers": [
+      "C ++",
+      "C",
+      "Algol"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wer in Pulp Fiction sagt, nein, sie haben das metrische System dort bekommen, sie würden nicht wissen, was zum Teufel ein Viertelstapper ist.",
+    "correct_answer": "Vincent Vega",
+    "incorrect_answers": [
+      "Jules Winnfield",
+      "Jimmie Dimmick",
+      "Butch Coolidge"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Der 1985 Toyota Corolla & quot; ae86 & quot;War das Heldenauto für welchen Anime?",
+    "correct_answer": "Initial d",
+    "incorrect_answers": [
+      "Wangan Mitternacht",
+      "Ghost MF",
+      "Ex -Fahrer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welche dieser Schauspieler/Schauspielerinnen ist nicht Teil der Besetzung für den Movie & Quot; Suicide Squad & Quot;?",
+    "correct_answer": "Scarlett Johansson",
+    "incorrect_answers": [
+      "Jared Leto",
+      "Will Smith",
+      "Margot Robbie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "\"Exile\" \"\"und \"Offenbarungen\" & quot;Waren die dritten und vierten Raten von welcher PC -Spielserie?",
+    "correct_answer": "Myst",
+    "incorrect_answers": [
+      "Schauer",
+      "Untergang",
+      "Tropico"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Was ist der richtige Weg, um die Hauptstadt Ungarns zu buchstabieren?",
+    "correct_answer": "Budapest",
+    "incorrect_answers": [
+      "Budapest",
+      "Budapest",
+      "Budapest"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Welcher Charakter hat im Spiel \"Morenatsu\", in insgesamt vier verschiedenen Enden, die bestmöglichen Endungen ihrer Route?",
+    "correct_answer": "Shin Kuroi",
+    "incorrect_answers": [
+      "Kouya Aotsuki",
+      "Soutarou Touno",
+      "Torahiko Ooshima"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Gibraltar, südlich der iberischen Halbinsel, ist ein Gebiet von welchem ​​Westen Europas?",
+    "correct_answer": "Vereinigtes Königreich",
+    "incorrect_answers": [
+      "Spanien",
+      "Portugal",
+      "Frankreich"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welcher der folgenden Schauspieler spielt keine Rolle im Film \"Die üblichen Verdächtigen?\"",
+    "correct_answer": "Steve Buscemi",
+    "incorrect_answers": [
+      "Kevin Spacey",
+      "Benicio del Toro",
+      "Gabriel Byrne"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wer ist der Sänger und Frontmann der Rockband & Quot; Guns N &#039;Rosen \"?",
+    "correct_answer": "Axl Rose",
+    "incorrect_answers": [
+      "Kurt Cobain",
+      "Schrägstrich",
+      "Bono"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In welchem ​​Homestuck -Update wurde das Spiel veröffentlicht?",
+    "correct_answer": "25. Oktober 2014",
+    "incorrect_answers": [
+      "13. April 2009",
+      "8. April 2012",
+      "28. August 2003"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
     "category": "Sport",
-    "question": "Welche der folgenden Grand Slam -Tennis -Turniere finden zuletzt statt?",
-    "correct_answer": "US Open",
+    "question": "Wie wird im Bowling der Begriff verwendet, um drei aufeinanderfolgende Streiks zu erhalten?",
+    "correct_answer": "Truthahn",
     "incorrect_answers": [
-      "Französisch offen",
-      "Wimbledon",
-      "Australian Open"
+      "Flamingo",
+      "Birdie",
+      "Adler"
     ]
   },
   {
     "type": "multiple",
-    "level": 5,
-    "category": "Geschichte",
-    "question": "Was hat die Abkürzung?Im Jahr 1912 für die RMS -Titanic stehen?",
-    "correct_answer": "Royal Mail Ship",
-    "incorrect_answers": [
-      "Royal Majesty Service",
-      "Regelmäßiger maritimer Zeitplan",
-      "Regulierter Strudelsensor"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
+    "level": 3,
     "category": "Unterhaltung",
-    "question": "In der Magie: Das Versammlungsuniversum, die Antiquitäten, die Eiszeit und die Expansionen der Allianzen finden auf welchem ​​Kontinent statt?",
-    "correct_answer": "Terisiare",
+    "question": "Welche japanische Musikgruppe wurde gegründet, um Themenmusik für die Anime & quot; schuldige Krone zu produzieren.",
+    "correct_answer": "Egoist",
     "incorrect_answers": [
-      "Luftfahrt",
-      "Shiv",
-      "Jamuraa"
+      "Gänsehaus",
+      "Babymetal",
+      "Garnidelia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Gegen das Land kämpfte die niederländische Republik gegen die achtzig Jahre &#039;Krieg?",
+    "correct_answer": "Spanien",
+    "incorrect_answers": [
+      "Frankreich",
+      "England",
+      "Portugal"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wer hat das Videospiel 2011 \"Minecraft\" erstellt?",
+    "correct_answer": "Markus Persson",
+    "incorrect_answers": [
+      "Jens Bergensten",
+      "Daniel Rosenfeld",
+      "Carl Manneh"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welche der folgenden Aussagen ist kein Zitat aus dem Film Casablanca von 1942?",
+    "correct_answer": "\"Ehrlich gesagt, mein Lieber, ich spiele nicht einen verdammten.\"",
+    "incorrect_answers": [
+      "& quot;bei dir, kid. & quot;",
+      "& ldquo; von allen Gin -Gelenken in allen Städten in der ganzen Welt geht sie in meine & Hellip; & rdquo;",
+      "\"Runden Sie die üblichen Verdächtigen zusammen.\""
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geschichte",
+    "question": "Welches moderne Land ist die Region, die in der Antike als Phrygie bekannt war?",
+    "correct_answer": "Truthahn",
+    "incorrect_answers": [
+      "Syrien",
+      "Griechenland",
+      "Ägypten"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Fahrzeuge",
+    "question": "Welche Art von Zug war Stepney, ein Zug auf der Bluebell Railway, der für seinen Auftritt in \"The Railway Series\" bemerkt wurde?",
+    "correct_answer": "Lb & amp; scr a1x",
+    "incorrect_answers": [
+      "Lb & amp; scr e2",
+      "Lb & amp; scr j1",
+      "Lb & amp; scr d1"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft",
+    "question": "Wofür steht GHZ?",
+    "correct_answer": "Gigahertz",
+    "incorrect_answers": [
+      "Gigahotz",
+      "Gigahatz",
+      "Gigahertz"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie lautet der Geburtsname von Michael Caine?",
+    "correct_answer": "Maurice Micklewhite",
+    "incorrect_answers": [
+      "Morris Coleman",
+      "Carl Myers",
+      "Martin Michaels"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft",
+    "question": "Welche der folgenden Sprachen wird als Skriptsprache in der Unity 3D Game Engine verwendet?",
+    "correct_answer": "C#",
+    "incorrect_answers": [
+      "Java",
+      "C ++",
+      "Ziel-C"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geschichte",
+    "question": "Wer war der erste Amerikaner im Weltraum?",
+    "correct_answer": "Alan Shepard",
+    "incorrect_answers": [
+      "Neil Armstrong",
+      "John Glenn",
+      "Jim Lovell"
     ]
   }
 ]
