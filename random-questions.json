@@ -3,204 +3,204 @@
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Welchen Anime hat Seiji Kishi nicht direkt geführt?",
-    "correct_answer": "Ein anderer",
+    "question": "In welchem ​​Jahr war das Album \"Californication & quot;freigegeben?",
+    "correct_answer": "1999",
     "incorrect_answers": [
-      "Die Menschheit hat abgenommen",
-      "Attentat Klassenzimmer",
-      "Danganronpa: Die Animation"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Was ist die Heimatwelt der Eliten von Halo?",
-    "correct_answer": "Sanghelios",
-    "incorrect_answers": [
-      "Te",
-      "Doisac",
-      "Eayn"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Cesar Romero spielte den legendären Batman -Bösewicht aus der TV -Show von 1960?",
-    "correct_answer": "Der Joker",
-    "incorrect_answers": [
-      "Der Pinguin",
-      "Der Riddler",
-      "Mr. Freeze"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Geschichte",
-    "question": "Was war die letzte Kolonie, die in Großbritannien das Ende des British Empire markierte?",
-    "correct_answer": "Hongkong",
-    "incorrect_answers": [
-      "Indien",
-      "Australien",
-      "Irland"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Fahrzeuge",
-    "question": "In welchem ​​der folgenden Fahrzeuge verfügte am Basismodell ein volles Glasdach?",
-    "correct_answer": "Renault Avantime",
-    "incorrect_answers": [
-      "Chevy Volt",
-      "Mercedes-Benz A-Klasse",
-      "Honda Odyssey"
+      "1997",
+      "2000",
+      "1992"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wann war das Spiel &#039; Portal 2 &#039;freigegeben?",
-    "correct_answer": "2011",
-    "incorrect_answers": [
-      "2014",
-      "2009",
-      "2007"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Wer war der Anführer der Kommunistischen Partei Jugoslawiens?",
-    "correct_answer": "Josip Broz Tito",
-    "incorrect_answers": [
-      "Karadjordje Petrovic",
-      "Milos Obilic",
-      "Aleksandar Petrovic"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welche Art von Pok & eacute; Mon ist Charizard?",
-    "correct_answer": "Feuer/Fliegen",
-    "incorrect_answers": [
-      "Feuer",
-      "Drachen",
-      "Feuer/Drache"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Sport",
-    "question": "Welches Team gewann England im Weltcup -Finale von 1966?",
-    "correct_answer": "Westdeutschland",
-    "incorrect_answers": [
-      "die Sowjetunion",
-      "Portugal",
-      "Brasilien"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Was ist der Titel des ersten Sherlock Holmes -Buches von Arthur Conan Doyle?",
-    "correct_answer": "Eine Studie in Scharlach",
-    "incorrect_answers": [
-      "Das Zeichen der vier",
-      "Ein Fall von Identität",
-      "Die Taten der Gewinnspiele haw"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Was ist der wahre Name von Hellboys?",
-    "correct_answer": "Anung un Rama",
-    "incorrect_answers": [
-      "Rechte Hand des Untergangs",
-      "Ogdru Jahad",
-      "Azzael"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Geographie",
-    "question": "Welches Land war nicht Teil der Sowjetunion?",
-    "correct_answer": "Rumänien",
-    "incorrect_answers": [
-      "Turkmenistan",
-      "Weißrussland",
-      "Tadschikistan"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "An welchem ​​Tag begann der Versuch des Versuchs, 1991 in der Sowjetunion begonnen zu haben?",
-    "correct_answer": "19. August",
-    "incorrect_answers": [
-      "21. August",
-      "26. Dezember",
-      "24. Dezember"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wie heißt die mysteriöse Insel in Jules Verne &#039; S & quot; The Mysterious Island & Quot;?",
-    "correct_answer": "Lincoln Island",
-    "incorrect_answers": [
-      "Vulcania Island",
-      "Prometheus Island",
-      "Neptune Island"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
     "category": "Allgemeinwissen",
-    "question": "Was war das Ziel des fehlenden Fluges MH370?",
-    "correct_answer": "Peking",
+    "question": "Der erste Auftritt von Waluigi war in welchem ​​Spiel?",
+    "correct_answer": "Mario Tennis 64 (N64)",
     "incorrect_answers": [
-      "Kuala Lumpur",
-      "Singapur",
-      "Tokio"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wer schrieb die Batman -Comic -Serie \"The Killing Witz\"?",
-    "correct_answer": "Alan Moore",
-    "incorrect_answers": [
-      "Bill Finger",
-      "Frank Miller",
-      "Jerry Siegel"
+      "Wario Land: Super Mario Land 3",
+      "Mario Party (N64)",
+      "Super Smash Bros. Ultimate"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "Wen heiratet Draco Malfoy im Harry Potter -Universum?",
-    "correct_answer": "Astoria Greengrass",
+    "question": "In & quot; Sonic the Hedgehog 2 & quot;Was geben Sie für die Sega Genesis im Sound -Testbildschirm auf die Auswahl der geheimen Ebene ein?",
+    "correct_answer": "Der Geburtstag des Lead -Programmierers.",
     "incorrect_answers": [
-      "Pansy Parkinson",
-      "Millicent Bulstrode",
-      "Hermine Granger"
+      "Das erste Veröffentlichungsdatum von \"Sonic the Hedgehog\" & quot;",
+      "Das Date Sonic Team wurde gegründet",
+      "Das erste Veröffentlichungsdatum von \"Sonic the Hedgehog 2 & quot;"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Aus welchem ​​Land das Lied \"Gangnam Style\" gemacht hat.Ursprung von?",
+    "correct_answer": "Südkorea",
+    "incorrect_answers": [
+      "Japan",
+      "Nordkorea",
+      "China"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "1978 hat sich Superman mit welcher Berühmtheit zusammengetan, um eine außerirdische Invasion zu besiegen?",
+    "correct_answer": "Muhammad Ali",
+    "incorrect_answers": [
+      "Mike Tyson",
+      "Sylvester Stallone",
+      "Arnold Schwarzenegger"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welche dieser Charaktere in \"Stranger Things\"?Hat die Kraft der Telekinese?",
+    "correct_answer": "Elf",
+    "incorrect_answers": [
+      "Mikrofon",
+      "Lucas",
+      "Karen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft",
+    "question": "Mobile Hardware- und Softwareunternehmen & quot; Blackberry Limited & quot;wurde in welchem ​​Land gegründet?",
+    "correct_answer": "Kanada",
+    "incorrect_answers": [
+      "Norwegen",
+      "Vereinigte Staaten von Amerika",
+      "Vereinigtes Königreich"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Was ist die Boss -Runde in der \"Call of Duty: Zombies\" & quot;Karte \"fünf\"?",
+    "correct_answer": "Der Pentagon -Dieb",
+    "incorrect_answers": [
+      "Höllenhunde",
+      "Sprung von Jacks",
+      "Napalm Zombie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wer war zusammen mit Gabe Newell, der Mitbegründer von Ventil?",
+    "correct_answer": "Mike Harrington",
+    "incorrect_answers": [
+      "Robin Walker",
+      "Marc Laidlaw",
+      "Stephen Bahl"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Wo befindet sich der Gluteus Maximus -Muskel?",
+    "correct_answer": "Hintern",
+    "incorrect_answers": [
+      "Arm",
+      "Kopf",
+      "Torso"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "In \"Toriko\", welcher der folgenden himmlischen Könige hat einen verstärkten Hörsinn?",
+    "correct_answer": "Zebra",
+    "incorrect_answers": [
+      "Coco",
+      "Sonnig",
+      "Toriko"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geschichte",
+    "question": "Die alte Stadt Chich & Eacute; n Itz & aacute;wurde durch welche Zivilisation gebaut?",
+    "correct_answer": "Mayans",
+    "incorrect_answers": [
+      "Azteken",
+      "Inkas",
+      "Toltecs"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welche japanische Musikgruppe wurde gegründet, um Themenmusik für die Anime & quot; schuldige Krone zu produzieren.",
+    "correct_answer": "Egoist",
+    "incorrect_answers": [
+      "Gänsehaus",
+      "Babymetal",
+      "Garnidelia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Prominente",
+    "question": "Gabe Newell wurde in welchem ​​Jahr geboren?",
+    "correct_answer": "1962",
+    "incorrect_answers": [
+      "1970",
+      "1960",
+      "1972"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Welches davon ist kein Lied in der Lockjaw -EP, die 2013 von Flume & amp veröffentlicht wurde;Chet Faker?",
+    "correct_answer": "Allein gelassen",
+    "incorrect_answers": [
+      "Was ist mit uns?",
+      "In diesem Song geht es nicht um ein Mädchen",
+      "Lass das Spiel fallen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Wie hieß das WWF Professional Wrestling Tag -Team, das aus den Wrestlern Axt und Smash bestand?",
+    "correct_answer": "Abriss",
+    "incorrect_answers": [
+      "Das Dreamteam",
+      "Die Bushwhacker",
+      "Die britischen Bulldoggen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Tiere",
+    "question": "Hippocampus ist der lateinische Name für welche marine Kreatur?",
+    "correct_answer": "Seepferdchen",
+    "incorrect_answers": [
+      "Delphin",
+      "Wal",
+      "Oktopus"
     ]
   },
   {
@@ -217,74 +217,218 @@
   },
   {
     "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Wer ist auf der US -amerikanischen US -Dollar -Rechnung abgebildet?",
-    "correct_answer": "Benjamin Franklin",
+    "level": 5,
+    "category": "Geschichte",
+    "question": "Der böhmische Revolte (1618-1620) begann, nachdem die Protestanten in Prag, was für ihre katholischen Regentien der Lords getan hat?",
+    "correct_answer": "Warf sie aus einem Fenster",
     "incorrect_answers": [
-      "George Washington",
-      "Abraham Lincoln",
-      "Thomas Jefferson"
+      "Beleidigte ihre Mütter",
+      "Sperrte sie in Aktienaden",
+      "Hängte sie."
     ]
   },
   {
     "type": "multiple",
-    "level": 5,
-    "category": "Kunst",
-    "question": "Welche davon ist keine zusätzliche Variation des Farbpurpus?",
-    "correct_answer": "Kobicha",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welcher russische Autor hat den epischen Roman Krieg und Frieden geschrieben?",
+    "correct_answer": "Leo Tolstoy",
     "incorrect_answers": [
-      "Byzanz",
-      "Pomp und Kraft",
-      "Pfalz"
+      "Fyodor Dostoyevsky",
+      "Alexander Pushkin",
+      "Vladimir Nabokov"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welcher dieser Künstler war kein Mitglied der Dancehall Group Major Lazer?",
+    "correct_answer": "Skrillex",
+    "incorrect_answers": [
+      "Diplo",
+      "Jillionaire",
+      "Walshy Fire"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Was war der Spitzname, der den Hughes H-4 Hercules, einem schweren Transportboot, das 1947 Flug erreichte, gegeben wurde?",
+    "correct_answer": "Fichte Gans",
+    "incorrect_answers": [
+      "Noahs Arche",
+      "Dicker Mann",
+      "Trojanisches Pferd"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Unterhaltung",
-    "question": "In der Halbwertsreihe ist Gordon Freemans Signaturwaffe a:",
-    "correct_answer": "Brecheisen",
+    "question": "Wie heißt die sprechende Katze in Persona 5?",
+    "correct_answer": "Morgana",
     "incorrect_answers": [
-      "Vorschlaghammer",
-      "Faserdraht",
-      "Katana"
+      "Teddie",
+      "Marie",
+      "Ryuji"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Wissenschaft",
+    "question": "Wie viele Zeptometres befinden sich in einem Femtometer?",
+    "correct_answer": "1.000.000",
+    "incorrect_answers": [
+      "10",
+      "1.000.000.000",
+      "1000"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
-    "category": "Sport",
-    "question": "Aus welchem ​​Land stammte Kabaddi, ein Kontaktsport, aus dem sich angeht, aus?",
-    "correct_answer": "Indien",
+    "category": "Politik",
+    "question": "Wer war der 40. Präsident der USA?",
+    "correct_answer": "Ronald Reagan",
     "incorrect_answers": [
-      "Australien",
-      "Truthahn",
-      "Kambodscha"
+      "Jimmy Carter",
+      "Bill Clinton",
+      "Richard Nixon"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Fahrzeuge",
+    "question": "Welches der folgenden Länder hat den zivilen Einsatz von Dash -Cams in Autos offiziell verboten?",
+    "correct_answer": "Österreich",
+    "incorrect_answers": [
+      "Vereinigte Staaten",
+      "Tschechien",
+      "Südkorea"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Allgemeinwissen",
+    "question": "Welche der folgenden Sprachen verwendet das Geschlecht nicht als Teil seiner Grammatik?",
+    "correct_answer": "Türkisch",
+    "incorrect_answers": [
+      "Deutsch",
+      "dänisch",
+      "Polieren"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "In welchem ​​Jahr war Metal Gear Solid & quot;In Nordamerika veröffentlicht?",
+    "correct_answer": "1998",
+    "incorrect_answers": [
+      "1987",
+      "2001",
+      "2004"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie viel kostet der &#039; AWP &#039;Kosten in Counter-Strike: Global Offensive?",
+    "correct_answer": "$ 4750",
+    "incorrect_answers": [
+      "$ 4500",
+      "$ 4650",
+      "$ 5000"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Sport",
+    "question": "Welcher italienische Fußballer sagte zu Neuer, wo er während des Spiels Italy-Germany, UEFA Euro 2016, seinen Schuss und die Breite des Spiels breit hat?",
+    "correct_answer": "Pelle",
+    "incorrect_answers": [
+      "Insigne",
+      "Barzagli",
+      "Giaccherini"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie heißt die mysteriöse Insel in Jules Verne &#039; S & quot; The Mysterious Island & Quot;?",
+    "correct_answer": "Lincoln Island",
+    "incorrect_answers": [
+      "Vulcania Island",
+      "Prometheus Island",
+      "Neptune Island"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Welches Animationsstudio animiert \"Hidamari Sketch\"?",
+    "correct_answer": "Welle",
+    "incorrect_answers": [
+      "Auslösen",
+      "Kyoto -Animation",
+      "Produktion I.G"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Kunst",
+    "question": "Wer hat die Mona Lisa gemalt?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": [
+      "Pablo Picasso",
+      "Claude Monet",
+      "Vincent van Gogh"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welches Messinginstrument hat die niedrigste Tonhöhe in einem Orchester?",
+    "correct_answer": "Tuba",
+    "incorrect_answers": [
+      "Trompete",
+      "Saxophon",
+      "Posaune"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Geschichte",
-    "question": "Das ontologische Argument für den Beweis der Existenz Gottes wird zuerst wem zugeschrieben?",
-    "correct_answer": "Anselm von Canterbury",
+    "question": "Was haben die ersten Automaten in den frühen 1880er Jahren ausgegeben?",
+    "correct_answer": "Postkarten",
     "incorrect_answers": [
-      "Ren & eacute;Descartes",
-      "Immanuel Kant",
-      "Aristoteles"
+      "Alkohol",
+      "Zigaretten",
+      "Limonade"
     ]
   },
   {
     "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Welches Monster in \"Monster Hunter Tri & quot;Hat im Moga -Dorf Erdbeben verursacht?",
-    "correct_answer": "Cadeus",
+    "level": 3,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Wie alt ist das Universum?",
+    "correct_answer": "13,8 Milliarden Jahre",
     "incorrect_answers": [
-      "Alatreon",
-      "Rathalos",
-      "LagiaCrus"
+      "4,5 Milliarden Jahre",
+      "7,9 Milliarden Jahre",
+      "16,2 Milliarden Jahre"
     ]
   },
   {
@@ -302,301 +446,157 @@
   {
     "type": "multiple",
     "level": 3,
-    "category": "Wissenschaft & amp;Natur",
-    "question": "AU auf der Periodenzüchter bezieht sich auf welches Element?",
-    "correct_answer": "Gold",
-    "incorrect_answers": [
-      "Silber",
-      "Sauerstoff",
-      "Nickel"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "1978 hat sich Superman mit welcher Berühmtheit zusammengetan, um eine außerirdische Invasion zu besiegen?",
-    "correct_answer": "Muhammad Ali",
-    "incorrect_answers": [
-      "Mike Tyson",
-      "Sylvester Stallone",
-      "Arnold Schwarzenegger"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Welches der folgenden Spiele war nicht in der Orange Box von Valve enthalten?",
-    "correct_answer": "Gegenstrike",
-    "incorrect_answers": [
-      "Portal",
-      "Halbwertszeit 2: Folge zwei",
-      "Team Festung 2"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In welchem ​​Jahr war der Film \"Police Academy\" & quot;freigegeben?",
-    "correct_answer": "1984",
-    "incorrect_answers": [
-      "1986",
-      "1985",
-      "1983"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Was war Maggie Simpsons erstes kanonisches Wort, ohne die Tracey Ullman -Shorts einzubeziehen?",
-    "correct_answer": "Vati.",
-    "incorrect_answers": [
-      "Folge?",
-      "Ja!",
-      "Rostig!"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Wie hieß die aufblasbare Ente, die der Menge am Ende von Episode 34 der 18. Staffel von Big Brother geopfert wurde?",
-    "correct_answer": "Pablo",
-    "incorrect_answers": [
-      "Esteban",
-      "Carlos",
-      "Duckster"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In den 1980er Jahren ermöglichte ein Dienst namens Gameline Benutzer, Spiele auf welche Konsole herunterzuladen?",
-    "correct_answer": "Atari 2600",
-    "incorrect_answers": [
-      "Sega Genesis",
-      "Nintendo Entertainment System",
-      "Colecovision"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
     "category": "Geographie",
-    "question": "Alle folgenden Länder haben offizielle Ansprüche auf Territorium in Antartica, außer:",
-    "correct_answer": "Vereinigte Staaten",
+    "question": "Wie viele unabhängige Länder gibt es auf dem Kontinent Südamerikas?",
+    "correct_answer": "12",
     "incorrect_answers": [
-      "Australien",
-      "Chile",
-      "Norwegen"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welche dieser Songs von Skrillex enthält Fatman Scoop als Nebenkünstler?",
-    "correct_answer": "Aussparung",
-    "incorrect_answers": [
-      "Alles ist fair in Liebe und Brostep",
-      "Rock n Roll (wird Sie zum Berg bringen)",
-      "Beängstigende Monster und schöne Sprites"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Als Donkey Kong im Landesland starb.Episode \"Es ist ein wundervolles Leben\" Wer war sein Schutzengel?",
-    "correct_answer": "Eddie der gemeine alte Yeti",
-    "incorrect_answers": [
-      "Kiddy Kong",
-      "Diddy Kong",
-      "König K. Rool"
+      "8",
+      "9",
+      "10"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Was ist der Titel der Allman Brothers Band Instrumental, die als Thema der BBC Motoring Show verwendet wird, &#039; Top Gear &#039;?",
-    "correct_answer": "Jessica",
+    "question": "In & quot; Overwatch, & quot;Wie ist der vollständige Name des Helden McCree?",
+    "correct_answer": "Jesse McCree",
     "incorrect_answers": [
-      "Angela",
-      "Erica",
-      "Sandra"
+      "Jack & quot; McCree & quot;Morrison",
+      "Gabriel Reyes",
+      "Jamison & quot; Deadeye & quot;Fawkes"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "In & quot; Resident Evil 2 & quot; welches Virus wurde William Birkin mutiert?",
-    "correct_answer": "G-Virus",
+    "question": "Der Hauptprotagonist des vierten Teils von Jojos bizarrem Abenteuer ist welche der folgenden?",
+    "correct_answer": "Josuke Higashikata",
     "incorrect_answers": [
-      "T-Virus",
-      "C-Virus",
-      "E-Virus"
+      "Yoshikage Kira",
+      "Koichi Hirose",
+      "Joey Jojo"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
-    "category": "Geschichte",
-    "question": "Wer ist der Schöpfer des Erfrischungsgetränks, Dr. Pepper?",
-    "correct_answer": "Charles Alderton",
+    "category": "Unterhaltung",
+    "question": "Pamina und Papageno sind Charaktere in welcher Mozart -Oper?",
+    "correct_answer": "Die Zauberflöte",
     "incorrect_answers": [
-      "James Wellington",
-      "Johnson Hinsin",
-      "Boris Heviltik"
+      "Die Ehe von Figaro",
+      "Der Impresario",
+      "Die Gans von Kairo"
     ]
   },
   {
     "type": "multiple",
-    "level": 5,
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welcher Sanrio -Charakter wurde 1996 eingeführt?",
+    "correct_answer": "Pompompurin",
+    "incorrect_answers": [
+      "Meine Melodie",
+      "Badtz-maru",
+      "Keroppi"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welche der folgenden Gitarristen haben ein Album als Mitglied der Red Hot Chili Peppers aufgenommen?",
+    "correct_answer": "Dave Navarro",
+    "incorrect_answers": [
+      "Tom Morello",
+      "Billy Corgan",
+      "Ed O &#039; Brien"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
     "category": "Wissenschaft & amp;Natur",
-    "question": "Was ist das gleiche in Celsius und Fahrenheit?",
-    "correct_answer": "-40",
+    "question": "Auf welcher Mission hat sich der Space Shuttle Columbia beim Wiedereintritt getrennt?",
+    "correct_answer": "STS-107",
     "incorrect_answers": [
-      "32",
-      "-39",
-      "-42"
+      "STS-51-l",
+      "STS-61-C",
+      "STS-109"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Mit welchem ​​Genre ist das Touhou -Projekt verbunden?",
+    "correct_answer": "Shoot &#039; em up (Bullet-Hell) & amp;Kampf",
+    "incorrect_answers": [
+      "Rundenbasierte Strategie",
+      "Mmorpg",
+      "Gebäude"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
-    "category": "Geschichte",
-    "question": "Was war die letzte Kolonie, die in Großbritannien das Ende des British Empire markierte?",
-    "correct_answer": "Hongkong",
+    "category": "Kunst",
+    "question": "Welche davon ist keine zusätzliche Variation des Farbpurpus?",
+    "correct_answer": "Kobicha",
     "incorrect_answers": [
-      "Indien",
-      "Australien",
-      "Irland"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Was ist \"tupfen\"?",
-    "correct_answer": "Ein Tanz",
-    "incorrect_answers": [
-      "Ein medizinisches Verfahren",
-      "Ein Sport",
-      "Eine Sprache"
+      "Byzanz",
+      "Pomp und Kraft",
+      "Pfalz"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Saul Hudson (Slash) der Band Guns N &#039;Roses ist dafür bekannt, welche Art von Gitarre zu spielen?",
-    "correct_answer": "Les Paul Standard",
+    "question": "Wie heißt die Hauptfigur aus dem Musikvideo von \"Shelter\".Von Porter Robinson und A-1 Studios?",
+    "correct_answer": "Rin",
     "incorrect_answers": [
-      "Fender Stratocaster",
-      "LSL -Mischling",
-      "Gretsch Falcon"
+      "Rem",
+      "Ren",
+      "RAM"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Pok & Eacute; Mon Go ist ein standortbasiertes Augmented Reality-Spiel, das von welchem ​​Unternehmen entwickelt und veröffentlicht wurde?",
+    "correct_answer": "Niantic",
+    "incorrect_answers": [
+      "Rovio",
+      "Zynga",
+      "Superzell"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
-    "category": "Wissenschaft",
-    "question": "Welches der folgenden Mobilfunkunternehmen hat in Asien nicht ihren Hauptsitz?",
-    "correct_answer": "Nokia",
+    "category": "Geographie",
+    "question": "Wie heißt die Rocky -Region, die den größten Teil Ostkanadas erstreckt?",
+    "correct_answer": "Kanadischer Schild",
     "incorrect_answers": [
-      "LG -Elektronik",
-      "Samsung",
-      "HTC"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Sport",
-    "question": "In welchem ​​Jahr wurde die Hockeylegende Wayne Gretzky geboren?",
-    "correct_answer": "1961",
-    "incorrect_answers": [
-      "1965",
-      "1959",
-      "1963"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "In dem Video-Game-Franchise Kingdom Hearts trägt der Hauptdarsteller eine Waffe mit welcher Form?",
-    "correct_answer": "Schlüssel",
-    "incorrect_answers": [
-      "Schwert",
-      "Stift",
-      "Handy"
+      "Rocky Mountains",
+      "Appalachische Berge",
+      "Himalaya"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Welches Lied in Drake &#039; S & quot; Ansichten & quot;Funktioniert zu Zukunft?",
-    "correct_answer": "Grammys",
+    "question": "In welchem ​​Jahr wurde der erste Transformers -Film veröffentlicht?",
+    "correct_answer": "1986",
     "incorrect_answers": [
-      "Zu gut",
-      "Treu",
-      "Popstil"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Der dreißigjährige Krieg endete mit welchem ​​Vertrag?",
-    "correct_answer": "Frieden der Westfalia",
-    "incorrect_answers": [
-      "Vertrag von Versailles",
-      "Vertrag von Paris",
-      "Frieden von Prag"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wann war der Videospielverlag \"Ubisoft & quot;gegründet?",
-    "correct_answer": "März 1986",
-    "incorrect_answers": [
-      "April 1990",
-      "Juni 2001",
-      "August 1956"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wie heißt der Planet, den der Doktor aus der Fernsehserie \"Doctor Who & quot;kommt von?",
-    "correct_answer": "Gallifrey",
-    "incorrect_answers": [
-      "Sontar",
-      "Skaro",
-      "Mondas"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Wann hat der Bau des Suez -Kanals fertiggestellt?",
-    "correct_answer": "1869",
-    "incorrect_answers": [
-      "1859",
-      "1860",
-      "1850"
+      "2007",
+      "1984",
+      "2009"
     ]
   }
 ]
