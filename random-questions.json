@@ -3,552 +3,60 @@
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "In Vanille Minecraft können Sie Rüstung aus allen machen, aber welche der folgenden?",
-    "correct_answer": "Emeralds",
+    "question": "Welches dieser Rammstein -Songs hat zwei offizielle Musikvideos?",
+    "correct_answer": "Du riechst so Darm",
     "incorrect_answers": [
-      "Diamanten",
-      "Eisen",
-      "Leder"
+      "Du hast",
+      "Benzin",
+      "Mein Teil"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Unterhaltung",
-    "question": "Im Videospiel von 2002 \"Kingdom Hearts\", wie viele Schlüsselblades sind verwendbar?",
-    "correct_answer": "18",
+    "question": "Wer ist der Hauptcharakter des Spiels Half-Life: Gegenkraft?",
+    "correct_answer": "Adrian Shephard",
     "incorrect_answers": [
-      "13",
-      "16",
-      "15"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Was ist \"tupfen\"?",
-    "correct_answer": "Ein Tanz",
-    "incorrect_answers": [
-      "Ein medizinisches Verfahren",
-      "Ein Sport",
-      "Eine Sprache"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Geographie",
-    "question": "Welches Land war nicht Teil der Sowjetunion?",
-    "correct_answer": "Rumänien",
-    "incorrect_answers": [
-      "Turkmenistan",
-      "Weißrussland",
-      "Tadschikistan"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Terry Gilliam war ein Animator, der mit welcher britischen Comedy -Gruppe arbeitete?",
-    "correct_answer": "Monty Python",
-    "incorrect_answers": [
-      "Die Goodies & LRM;",
-      "Die Liga der Herren & LRM;",
-      "Die Penny Dreadfuls"
+      "Gordon Freeman",
+      "Alyx Vance",
+      "Barney Calhoun"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
-    "category": "Allgemeinwissen",
-    "question": "Welches der folgenden Ivy League -Universitäten hat sein offizielles Motto sowohl in Hebräisch als auch in Latein?",
-    "correct_answer": "Yale University",
+    "category": "Unterhaltung",
+    "question": "Wer ist der Hauptschurke von Kirby's Rückkehr nach Dreamland?",
+    "correct_answer": "Magolor",
     "incorrect_answers": [
-      "Princeton University",
-      "Harvard University",
-      "Columbia University"
+      "Landia",
+      "König Dedede",
+      "Königinsektonie"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "Welcher Pok & eacute; Mons Basis -STAT -Gesamtzahl ändert sich nicht, wenn es sich weiterentwickelt?",
-    "correct_answer": "Scyther",
+    "question": "Wo finden sich Terrorfidens häufiger im Nintendo -Spiel Miitopia?",
+    "correct_answer": "Neue Lumos",
     "incorrect_answers": [
-      "Pikachu",
-      "Schnäppchen",
-      "Larven"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Wissenschaft",
-    "question": "Welche Firma wurde am 1. April 1976 von Steve Jobs, Steve Wozniak und Ronald Wayne gegründet?",
-    "correct_answer": "Apfel",
-    "incorrect_answers": [
-      "Microsoft",
-      "Atari",
-      "Kommodore"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Welche dieser Stimmen war keine Wahl für das Haus in \"Das Simpsons Treehouse of Horror\" \"Kurz gesagt, Haus der Whacks?",
-    "correct_answer": "George Clooney",
-    "incorrect_answers": [
-      "Matthew Perry",
-      "Dennis Miller",
-      "Pierce Brosnan"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Wer hat Alexander der Große unterrichtet?",
-    "correct_answer": "Aristoteles",
-    "incorrect_answers": [
-      "Sokrates",
-      "Plato",
-      "König Philip"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wer war der Sprachschauspieler für Schlangen in Metal Gear Solid V: Der Phantomschmerz?",
-    "correct_answer": "Kiefer Sutherland",
-    "incorrect_answers": [
-      "David Hayter",
-      "Norman Reedus",
-      "Hideo Kojima"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher Stand-up-Komiker sprach den sprechenden Papagei \"iago\"?In Disneys Anpassung von Aladdin 1992 von 1992?",
-    "correct_answer": "Gilbert Gottfried",
-    "incorrect_answers": [
-      "Robin Williams",
-      "Pauly Shore",
-      "Jonathan Freeman"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In \"Kingdom Hearts\", wer entführt Jasmine in der Lampenkammer?",
-    "correct_answer": "Riku",
-    "incorrect_answers": [
-      "Riku Replik",
-      "Xaldin",
-      "Captain Hook"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Welche Louis wurde als &#039; The Sun King of France &#039;?",
-    "correct_answer": "Louis XIV",
-    "incorrect_answers": [
-      "Louis XIII",
-      "Louis XV",
-      "Louis XVI"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welches ist kein spielbarer Charakter im Video Game Killer7 von 2005?",
-    "correct_answer": "Frank Smith",
-    "incorrect_answers": [
-      "Mask de Smith",
-      "Dan Smith",
-      "Coyote Smith"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Fahrzeuge",
-    "question": "Wann wurde Tesla gegründet?",
-    "correct_answer": "2003",
-    "incorrect_answers": [
-      "2008",
-      "2005",
-      "2007"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In der Kingdom Heart -Serie, die die englische Stimme für den Master -Ärak anbietet?",
-    "correct_answer": "Mark Hamill",
-    "incorrect_answers": [
-      "Jason Dohring",
-      "Jesse McCartney",
-      "Haley Joel Osment"
+      "Pekulia",
+      "Der Wolkenkratzer",
+      "Anderswelt"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Wissenschaft & amp;Natur",
-    "question": "Was ist die molekulare Formel der aktiven Komponente von Chilischoten (Capsaicin)?",
-    "correct_answer": "C18H27NO3",
+    "question": "Welches Element hat die Atomzahl von 7?",
+    "correct_answer": "Stickstoff",
     "incorrect_answers": [
-      "C21H23NO3",
-      "C6H4CL2",
-      "C13H25NO4"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Allgemeinwissen",
-    "question": "Welcher Brief ist im Morse -Code durch 3 Punkte angezeigt?",
-    "correct_answer": "S",
-    "incorrect_answers": [
-      "O",
-      "A",
-      "C"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Tiere",
-    "question": "Ein fleischfressendes Tier frisst Fleisch, was frisst ein nukangelöses Tier?",
-    "correct_answer": "Nüsse",
-    "incorrect_answers": [
-      "Nichts",
-      "Obst",
-      "Algen"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wie lautet der Geburtsname von Michael Caine?",
-    "correct_answer": "Maurice Micklewhite",
-    "incorrect_answers": [
-      "Morris Coleman",
-      "Carl Myers",
-      "Martin Michaels"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Wissenschaft",
-    "question": "Wofür steht GHZ?",
-    "correct_answer": "Gigahertz",
-    "incorrect_answers": [
-      "Gigahotz",
-      "Gigahatz",
-      "Gigahertz"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geographie",
-    "question": "Welches afrikanische Land hat Portugiesisch als offizielle Sprache?",
-    "correct_answer": "Mosambik",
-    "incorrect_answers": [
-      "Botswana",
-      "Gabon",
-      "Togo"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In der \"Call of Duty: Zombies\" & quot;Map & quot; Origins & quot; wie viele nummerierte Power -Generatoren gibt es?",
-    "correct_answer": "6",
-    "incorrect_answers": [
-      "8",
-      "5",
-      "3"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welches davon ist kein spielbarer Charakter im Videospiel 2016 Overwatch?",
-    "correct_answer": "Invoker",
-    "incorrect_answers": [
-      "Barmherzigkeit",
-      "Winston",
-      "Zenyatta"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Mythologie",
-    "question": "Talos, der mythische Riesenbronze -Mann, war der Beschützer von welcher Insel?",
-    "correct_answer": "Kreta",
-    "incorrect_answers": [
-      "Sardinien",
-      "Sizilien",
-      "Zypern"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wer ist der Schöpfer von Geometry Dash?",
-    "correct_answer": "Robert Topala",
-    "incorrect_answers": [
-      "Scott Cawthon",
-      "Adam Engels",
-      "Andrew Spinks"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Geographie",
-    "question": "Was ist der größte Süßwassersee nach Volumen?",
-    "correct_answer": "Lake Baikal",
-    "incorrect_answers": [
-      "Lake Superior",
-      "Huronsee",
-      "Lake Michigan"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "In & quot; starbund & quot;Ist das gleiche wie welche anderen Vermögenswerte?",
-    "correct_answer": "Spookit",
-    "incorrect_answers": [
-      "Petricub",
-      "TRICTUS",
-      "Pyromantel"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Geschichte",
-    "question": "Der Sohn, von dem Papst angeblich einen lechous f & ecirc;",
-    "correct_answer": "Alexander VI",
-    "incorrect_answers": [
-      "Unschuldig v",
-      "Urban II",
-      "Pius III"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Geographie",
-    "question": "Was ist Laos?",
-    "correct_answer": "Land",
-    "incorrect_answers": [
-      "Region",
-      "Fluss",
-      "Stadt"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Wissenschaft",
-    "question": "Welcher dieser Namen war ein tatsächlicher Codename für ein storniertes Microsoft -Projekt?",
-    "correct_answer": "Neptun",
-    "incorrect_answers": [
-      "Enceladus",
-      "Pollux",
-      "Saturn"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Wann wurde der Garfield-Comic zum ersten Mal veröffentlicht?",
-    "correct_answer": "1978",
-    "incorrect_answers": [
-      "1982",
-      "1973",
-      "1988"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Welches dieser Nickelodeon -Spiele zeigt zuerst ausgestrahlt?",
-    "correct_answer": "Doppelt wagen",
-    "incorrect_answers": [
-      "Nick Arcade",
-      "Finder Bewahrer",
-      "Nickelodeon -Eingeweide"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Im \"Jurassic Park\" & quot;Universum, was war der erste Dinosaurier, der 1986 von Ingen klonte?",
-    "correct_answer": "Velociraptor",
-    "incorrect_answers": [
-      "Triceratops",
-      "Troodon",
-      "Brachiosaurus"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Wissenschaft & amp;Natur",
-    "question": "Wie viele Isomere hat Butanol (C4H9OH) in der Chemie?",
-    "correct_answer": "4",
-    "incorrect_answers": [
-      "3",
-      "5",
-      "6"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "In der Gamecube -Version von & quot; Resident Evil & quot;Welches Textdokument ist im Monitor des Computers im visuellen Datenraum geöffnet?",
-    "correct_answer": "Ein GDC -Dokument",
-    "incorrect_answers": [
-      "Textdokument auf Kräutern",
-      "Nichts",
-      "Dokument zu B.O.WS"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wie viele Jahreszeiten hat die Science-Fiction-Fernsehsendung \"Stargate Universe\" & quot;haben?",
-    "correct_answer": "2",
-    "incorrect_answers": [
-      "10",
-      "5",
-      "3"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Geschichte",
-    "question": "Wer ist der Schöpfer des Erfrischungsgetränks, Dr. Pepper?",
-    "correct_answer": "Charles Alderton",
-    "incorrect_answers": [
-      "James Wellington",
-      "Johnson Hinsin",
-      "Boris Heviltik"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Wie hieß das WWF Professional Wrestling Tag -Team, das aus den Wrestlern Axt und Smash bestand?",
-    "correct_answer": "Abriss",
-    "incorrect_answers": [
-      "Das Dreamteam",
-      "Die Bushwhacker",
-      "Die britischen Bulldoggen"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wer war der erste amerikanische Vampir (Scott Snyders amerikanischer Vampir)?",
-    "correct_answer": "Skinner süß",
-    "incorrect_answers": [
-      "Hattie Hargrove",
-      "Pearl Jones",
-      "James & quot; jim & quot;Buch"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Sport",
-    "question": "Welches Team gewann England im Weltcup -Finale von 1966?",
-    "correct_answer": "Westdeutschland",
-    "incorrect_answers": [
-      "die Sowjetunion",
-      "Portugal",
-      "Brasilien"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Wissenschaft & amp;Natur",
-    "question": "Wie lange dauert ungefähr ein Jahr auf Uranus?",
-    "correct_answer": "84 Erdjahre",
-    "incorrect_answers": [
-      "47 Erdjahre",
-      "62 Erdjahre",
-      "109 Erdjahre"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welches Unternehmen entwickelt die Rock -Band -Serie von Rhythmusspielen?",
-    "correct_answer": "Harmonix",
-    "incorrect_answers": [
-      "Aktivision",
-      "Konami",
-      "Elektronische Künste"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wie heißt das erste Studioalbum von Pink Floyd?",
-    "correct_answer": "Der Pfeifer an den Toren des Morgengrauens",
-    "incorrect_answers": [
-      "Ummagumma",
-      "Mehr",
-      "Atom Heart Mutter"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Geschichte",
-    "question": "Im Zweiten Weltkrieg ließen die Vereinigten Staaten 1945 Atombomben auf die beiden japanischen Städte Hiroshima und in welcher anderen Stadt fallen?",
-    "correct_answer": "Nagasaki",
-    "incorrect_answers": [
-      "Kawasaki",
-      "Tokio",
-      "Kagoshima"
+      "Sauerstoff",
+      "Wasserstoff",
+      "Neon"
     ]
   },
   {
@@ -566,37 +74,529 @@
   {
     "type": "multiple",
     "level": 3,
-    "category": "Geographie",
-    "question": "Wo befindet sich die älteste noch operative Raumstarteinrichtung der Welt?",
-    "correct_answer": "Kasachstan",
+    "category": "Unterhaltung",
+    "question": "Welche dieser Waffen steht dem Terroristenteam im Spiel nicht zur Verfügung, \"Counter-Strike: Global Offensive\"?",
+    "correct_answer": "Scar-20",
     "incorrect_answers": [
-      "Russland",
-      "Iran",
-      "Vereinigte Staaten"
+      "SG 550",
+      "CZ-75",
+      "Xm1014"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geschichte",
+    "question": "Der böhmische Revolte (1618-1620) begann, nachdem die Protestanten in Prag, was für ihre katholischen Regentien der Lords getan hat?",
+    "correct_answer": "Warf sie aus einem Fenster",
+    "incorrect_answers": [
+      "Beleidigte ihre Mütter",
+      "Sperrte sie in Aktienaden",
+      "Hängte sie."
     ]
   },
   {
     "type": "multiple",
     "level": 3,
-    "category": "Sport",
-    "question": "Wie viele Punktzonen gibt es auf einem konventionellen Dart -Board?",
-    "correct_answer": "82",
+    "category": "Mythologie",
+    "question": "Wer hat in der griechischen Mythologie Achilles getötet?",
+    "correct_answer": "Paris",
     "incorrect_answers": [
-      "62",
-      "42",
-      "102"
+      "Tyrannisieren",
+      "Helen",
+      "Perikles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Was repräsentiert der gelbe Diamant auf dem NFPA 704 Fire Diamond?",
+    "correct_answer": "Reaktivität",
+    "incorrect_answers": [
+      "Gesundheit",
+      "Entflammbarkeit",
+      "Radioaktivität"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geschichte",
+    "question": "Welcher berühmte Militärkommandant marschierte eine Armee, zu der Kriegselefanten gehörten, über die Alpen während des zweiten punischen Krieges?",
+    "correct_answer": "Hannibal",
+    "incorrect_answers": [
+      "Garmanicus",
+      "Alexander der Große",
+      "Tiberius"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welcher Film hat James Cameron als Avatar-Film als der Film mit dem höchsten Einfluss aller Zeiten enttäuscht?",
+    "correct_answer": "Titanic",
+    "incorrect_answers": [
+      "Star Wars",
+      "Mit dem Wind weggegangen",
+      "Kiefer"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Der Völkermord Herero wurde in Afrika durch welche der folgenden Kolonialnationen verübt?",
+    "correct_answer": "Deutschland",
+    "incorrect_answers": [
+      "Großbritannien",
+      "Belgien",
+      "Frankreich"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "Welches dieser Spiele wurde von Markus Persson nicht entwickelt?",
-    "correct_answer": "Zwergfestung",
+    "question": "Welcher Touhou -Projektcharakter war der erste Auftritt als Midboss im achten Spiel, unvergängliche Nacht?",
+    "correct_answer": "Tewi Inaba",
     "incorrect_answers": [
-      "Minecraft",
-      "Wurm online",
-      "0x10c"
+      "Mystia Lorelei",
+      "Kaguya Houraisan",
+      "Rumia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Welches Mineral hat die niedrigste Zahl auf der MOHS -Skala?",
+    "correct_answer": "Talk",
+    "incorrect_answers": [
+      "Quarz",
+      "Diamant",
+      "Gips"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geschichte",
+    "question": "Wer hat den \"Flying Shuttle\" erfunden?1738;Eine der wichtigsten Entwicklungen bei der Industrialisierung des Webens?",
+    "correct_answer": "John Kay",
+    "incorrect_answers": [
+      "James Hargreaves",
+      "Richard Arkwright",
+      "John Deere"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In der ursprünglichen \"Super Mario Bros.\", was ist die Beschleunigung von Mario, wenn er im freien Fall war?",
+    "correct_answer": "91,28 m/s^2",
+    "incorrect_answers": [
+      "110 m/s^2",
+      "9,42 m/s^2",
+      "4,4 m/s^2"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Was war Britney Spears &#039;Debüt Single?",
+    "correct_answer": "... Baby noch einmal",
+    "incorrect_answers": [
+      "Hoppla! ... Ich habe es wieder getan",
+      "(Du machst mich) verrückt",
+      "Giftig"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Fahrzeuge",
+    "question": "Welches Tiermerkmal auf dem Logo für Abarth, die Motorsport -Division von Fiat?",
+    "correct_answer": "Skorpion",
+    "incorrect_answers": [
+      "Schlange",
+      "Stier",
+      "Pferd"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Was ist der wahre Name von Hellboys?",
+    "correct_answer": "Anung un Rama",
+    "incorrect_answers": [
+      "Rechte Hand des Untergangs",
+      "Ogdru Jahad",
+      "Azzael"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welches Nirvana -Album hatte ein nacktes Baby auf dem Cover?",
+    "correct_answer": "Egal",
+    "incorrect_answers": [
+      "Bleichen",
+      "In der Gebärmutter",
+      "Incesticid"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Geschichte",
+    "question": "Der Sohn, von dem Papst angeblich einen lechous f & ecirc;",
+    "correct_answer": "Alexander VI",
+    "incorrect_answers": [
+      "Unschuldig v",
+      "Urban II",
+      "Pius III"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "2015 veröffentlichte David Hasselhof eine Single namens ...",
+    "correct_answer": "Wahrer Überlebender",
+    "incorrect_answers": [
+      "Wahrer Kämpfer",
+      "Echter Kung-Fury",
+      "Echter Krieger"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Was war Maggie Simpsons erstes kanonisches Wort, ohne die Tracey Ullman -Shorts einzubeziehen?",
+    "correct_answer": "Vati.",
+    "incorrect_answers": [
+      "Folge?",
+      "Ja!",
+      "Rostig!"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "In dem der US -Bundesstaat far Cry 5#039; s fiktive Einstellung und#039; Hope Country#039;gefunden?",
+    "correct_answer": "Montana",
+    "incorrect_answers": [
+      "Idaho",
+      "Wyoming",
+      "North Carolina"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Tiere",
+    "question": "Wie heißt das kupferreiche Protein, das das blaue Blut im antarktischen Oktopus erzeugt?",
+    "correct_answer": "Hämocyanin",
+    "incorrect_answers": [
+      "Cytochrom",
+      "Eisen",
+      "Methionin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Welche Louis wurde als &#039; The Sun King of France &#039;?",
+    "correct_answer": "Louis XIV",
+    "incorrect_answers": [
+      "Louis XIII",
+      "Louis XV",
+      "Louis XVI"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Schlaksig, funky und klobig sind alle Charaktere in welcher Serie von Nintendo?",
+    "correct_answer": "Donkey Kong",
+    "incorrect_answers": [
+      "Mario",
+      "Kirby",
+      "Zelda"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Was steht im Zentrum unserer Galaxie?",
+    "correct_answer": "Ein schwarzes Loch",
+    "incorrect_answers": [
+      "Ein Wurmloch",
+      "Eine Supernova",
+      "Ein Quasar"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Im Spiel \"Fire Emblem: Shadow Dragon\", Wie heißt der Name des zentralen Protagonisten?",
+    "correct_answer": "Marth",
+    "incorrect_answers": [
+      "Roy",
+      "Eliwood",
+      "Robin"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "In den meisten FPS-Videospielen wie Counter-Strike schießt das Schießen, welcher Körperteil am höchsten Schaden anrichtet?",
+    "correct_answer": "Kopf",
+    "incorrect_answers": [
+      "Arm",
+      "Bein",
+      "Brust"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welche dieser Schauspieler/Schauspielerinnen ist nicht Teil der Besetzung für den Movie & Quot; Suicide Squad & Quot;?",
+    "correct_answer": "Scarlett Johansson",
+    "incorrect_answers": [
+      "Jared Leto",
+      "Will Smith",
+      "Margot Robbie"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "In der \"Pikmin\" & quot;Spiele, welche der folgenden Pikmin -Farben fehlt es, wenn es sich um eine eigene \"Onion\" -Erion handelt.Nest?",
+    "correct_answer": "Lila",
+    "incorrect_answers": [
+      "Geflügelt",
+      "Blau",
+      "Felsen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "In & quot; Resident Evil 2 & quot; welches Virus wurde William Birkin mutiert?",
+    "correct_answer": "G-Virus",
+    "incorrect_answers": [
+      "T-Virus",
+      "C-Virus",
+      "E-Virus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welches von 2 Ventilspielen befindet sich im selben Universum?",
+    "correct_answer": "Halbwertszeit und Portal",
+    "incorrect_answers": [
+      "Portal und 4 tot zurückgelassen",
+      "Halbwertszeit und 4 tot zurückgelassen",
+      "Halbwertszeit und Gegenschlag"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Der medizinische Begriff für den Bauchnabel lautet welche der folgenden?",
+    "correct_answer": "Nabel",
+    "incorrect_answers": [
+      "Nevus",
+      "Nares",
+      "Paxillus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Cryoshell, bekannt für \", kriecht in meiner Seele\" \"Hat die Werbemusik für welches Lego -Thema?",
+    "correct_answer": "Bionikel",
+    "incorrect_answers": [
+      "Heldenfabrik",
+      "Ben 10 Außerirdische Kraft",
+      "Star Wars"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welches Lied in Drake &#039; S & quot; Ansichten & quot;Funktioniert zu Zukunft?",
+    "correct_answer": "Grammys",
+    "incorrect_answers": [
+      "Zu gut",
+      "Treu",
+      "Popstil"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie heißt der letzte Bösewicht in der Manga -Serie \"Bleichmittel\"?",
+    "correct_answer": "Yhwach",
+    "incorrect_answers": [
+      "Juha Bach",
+      "Yuhaba",
+      "Juhabach"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Was ist \"tupfen\"?",
+    "correct_answer": "Ein Tanz",
+    "incorrect_answers": [
+      "Ein medizinisches Verfahren",
+      "Ein Sport",
+      "Eine Sprache"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wendy O. Koopa erschien in den Super Mario DiC -Cartoons, aber was war sie bekannt?",
+    "correct_answer": "Kootie Pie",
+    "incorrect_answers": [
+      "Süße Kuchen",
+      "Wendy Pie",
+      "Honigkuchen"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Wie heißt Genos richtiger Name?",
+    "correct_answer": "♡♪ !?",
+    "incorrect_answers": [
+      "Geno",
+      "Exor",
+      "Schmiede"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Sport",
+    "question": "Welche dieser russischen Städte enthielt kein Stadion, das bei der FIFA -Weltmeisterschaft 2018 verwendet wurde?",
+    "correct_answer": "Vladiwostok",
+    "incorrect_answers": [
+      "Rostov-on-don",
+      "Yekaterinburg",
+      "Kaliningrad"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welcher Schauspieler spielte die Hauptfigur im Film \"Edward Scissorhands\" von 1990 \"?",
+    "correct_answer": "Johnny Depp",
+    "incorrect_answers": [
+      "Clint Eastwood",
+      "Leonardo DiCaprio",
+      "Ben Stiller"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welche Krypta des Necrodancer (2015) -Scharakters hat einen Soundtrack von Jake & quot; virt & quot;Kaufman?",
+    "correct_answer": "Onkel Eli",
+    "incorrect_answers": [
+      "Kadenz",
+      "Nocturna",
+      "Octavian (Barde)"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Was ist der Vorteil, der in der \"Call of Duty\" eingeführt wurde: Zombies & quot;Karte, \"Mob der Toten\"?",
+    "correct_answer": "Elektrische Kirsche",
+    "incorrect_answers": [
+      "Schnelle Wiederbelebung",
+      "Geierhilfe",
+      "Grabstein"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Kunst",
+    "question": "Welche davon ist keine zusätzliche Variation des Farbpurpus?",
+    "correct_answer": "Kobicha",
+    "incorrect_answers": [
+      "Byzanz",
+      "Pomp und Kraft",
+      "Pfalz"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wie viele zeitgesteuerte Sprenggebühren braucht es, um eine Leiterschlüsselung zu zerstören?",
+    "correct_answer": "1",
+    "incorrect_answers": [
+      "3",
+      "2",
+      "5"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Wissenschaft",
+    "question": "Welches der folgenden Mobilfunkunternehmen hat in Asien nicht ihren Hauptsitz?",
+    "correct_answer": "Nokia",
+    "incorrect_answers": [
+      "LG -Elektronik",
+      "Samsung",
+      "HTC"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "An welchem ​​Tag begann der Versuch des Versuchs, 1991 in der Sowjetunion begonnen zu haben?",
+    "correct_answer": "19. August",
+    "incorrect_answers": [
+      "21. August",
+      "26. Dezember",
+      "24. Dezember"
     ]
   }
 ]
