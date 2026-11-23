@@ -2,325 +2,133 @@
   {
     "type": "multiple",
     "level": 3,
-    "category": "Sport",
-    "question": "Welches Fußballteam gewann die Copa Am & Eacute; Rica Centenario 2016?",
-    "correct_answer": "Chile",
+    "category": "Unterhaltung",
+    "question": "In & quot; Resident Evil 2 & quot; welches Virus wurde William Birkin mutiert?",
+    "correct_answer": "G-Virus",
     "incorrect_answers": [
-      "Argentinien",
-      "Brasilien",
-      "Kolumbien"
+      "T-Virus",
+      "C-Virus",
+      "E-Virus"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Wann wurde die PlayStation 3 veröffentlicht?",
+    "correct_answer": "11. November 2006",
+    "incorrect_answers": [
+      "8. Januar 2007",
+      "25. Dezember 2007",
+      "16. Juli 2006"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Welcher der folgenden Schauspieler spielt keine Rolle im Film \"Die üblichen Verdächtigen?\"",
-    "correct_answer": "Steve Buscemi",
+    "question": "Welcher der folgenden Gegenstände in Terraria fällt der Marsaucer Mini-Boss nicht fallen?",
+    "correct_answer": "Bohreinheit Bohrer",
     "incorrect_answers": [
-      "Kevin Spacey",
-      "Benicio del Toro",
-      "Gabriel Byrne"
+      "Anti-Gravitation-Haken",
+      "Zustrom schwanken",
+      "Kosmischer Autoschlüssel"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Allgemeinwissen",
+    "question": "Wer hat 1847 die erste Schokoladenbar erfunden?",
+    "correct_answer": "Joseph Fry",
+    "incorrect_answers": [
+      "Andrew Johnson",
+      "John Cadbury",
+      "John Tyler"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Kunst",
+    "question": "Welche davon ist keine zusätzliche Variation des Farbpurpus?",
+    "correct_answer": "Kobicha",
+    "incorrect_answers": [
+      "Byzanz",
+      "Pomp und Kraft",
+      "Pfalz"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft",
+    "question": "Welches davon ist der Name für das von der National Security Agency 1993 eingeführte fehlgeschlagene Treuhandel?",
+    "correct_answer": "Clipper -Chip",
+    "incorrect_answers": [
+      "Enigma -Maschine",
+      "Skipjack",
+      "Nautilus"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
     "category": "Geographie",
-    "question": "Was ist das größte Land der Welt?",
-    "correct_answer": "Russische Föderation",
+    "question": "Was ist der einzige Staat in den Vereinigten Staaten, der keine Flagge in einer Form mit 4 Kanten hat?",
+    "correct_answer": "Ohio",
     "incorrect_answers": [
-      "China",
-      "Kanada",
-      "Brasilien"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Sport",
-    "question": "Wie wird im Bowling der Begriff verwendet, um drei aufeinanderfolgende Streiks zu erhalten?",
-    "correct_answer": "Truthahn",
-    "incorrect_answers": [
-      "Flamingo",
-      "Birdie",
-      "Adler"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Beenden Sie diese Texte aus dem Song & Quot; Panda & quot;von Desiigner: \"Ich habe Broads in _______\".",
-    "correct_answer": "Atlanta",
-    "incorrect_answers": [
-      "Savanne",
-      "Augusta",
-      "Marietta"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Geschichte",
-    "question": "Der böhmische Revolte (1618-1620) begann, nachdem die Protestanten in Prag, was für ihre katholischen Regentien der Lords getan hat?",
-    "correct_answer": "Warf sie aus einem Fenster",
-    "incorrect_answers": [
-      "Beleidigte ihre Mütter",
-      "Sperrte sie in Aktienaden",
-      "Hängte sie."
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Wie heißt die Schule im Anime und Manga \"Gosick\"?",
-    "correct_answer": "St. Marguerite",
-    "incorrect_answers": [
-      "St. Augustinus",
-      "St. Mary",
-      "St. Bernadette"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Wissenschaft",
-    "question": "Wie viel Speicherplatz hat beim ersten Start Google Mail Ihre E -Mail bereitgestellt?",
-    "correct_answer": "1 GB",
-    "incorrect_answers": [
-      "512MB",
-      "5 GB",
-      "Unbegrenzt"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Wissenschaft",
-    "question": "Was ist das Symbol für die Verschiebung?",
-    "correct_answer": "& Delta; r",
-    "incorrect_answers": [
-      "Dr.",
-      "Dp",
-      "R"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Wie viele Jahreszeiten hat die TV -Show \"Donkey Kong Country\" angegeben?zuletzt?",
-    "correct_answer": "2",
-    "incorrect_answers": [
-      "1",
-      "4",
-      "5"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welche der folgenden Aussagen ist eine Klasse im Spiel \"Hearthstone\"?",
-    "correct_answer": "Priester",
-    "incorrect_answers": [
-      "Salbei",
-      "Kleriker",
-      "Mönch"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Allgemeinwissen",
-    "question": "Das Wort \"aprosexia\" & quot;bedeutet welches der folgenden?",
-    "correct_answer": "Die Unfähigkeit, sich auf irgendetwas zu konzentrieren",
-    "incorrect_answers": [
-      "Die Unfähigkeit, Entscheidungen zu treffen",
-      "Ein fieberhafter Wunsch, eine Kleidung auszureißen",
-      "Die Unfähigkeit, aufzustehen"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wie heißt der Spieleentwickler, der \"Call of Duty: Zombies\" erstellt hat \"?",
-    "correct_answer": "Treyarch",
-    "incorrect_answers": [
-      "Vorschlaghammer -Spiele",
-      "Infinity Ward",
-      "Frecher Hund"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher Marvel -Superhelden hat Chris Evans vor seiner Rolle als Captain America gespielt?",
-    "correct_answer": "Menschliche Taschenlampe",
-    "incorrect_answers": [
-      "Zyklop",
-      "Iceman",
-      "Draufgänger"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Allgemeinwissen",
-    "question": "Was war das Ziel des fehlenden Fluges MH370?",
-    "correct_answer": "Peking",
-    "incorrect_answers": [
-      "Kuala Lumpur",
-      "Singapur",
-      "Tokio"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher Schauspieler spielt den Charakter \"Tommy Jarvis\" & quot;In & quot; Freitag, den 13.: Das letzte Kapitel & quot;(1984)?",
-    "correct_answer": "Corey Feldman",
-    "incorrect_answers": [
-      "Macaulay Culkin",
-      "Mel Gibson",
-      "Mark Hamill"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Tiere",
-    "question": "Was ist das kollektive Substantiv für Bären?",
-    "correct_answer": "Faultier",
-    "incorrect_answers": [
-      "Fuhr",
-      "Stamm",
-      "Schale"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Das Brettspiel -Monopol nimmt seine Straßennamen aus welcher echten amerikanischen Stadt?",
-    "correct_answer": "Atlantic City, New Jersey",
-    "incorrect_answers": [
-      "Las Vegas, Nevada",
-      "Duluth, Minnesota",
-      "Charleston, South Carolina"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In welchem ​​Jahr war das Album \"Californication & quot;freigegeben?",
-    "correct_answer": "1999",
-    "incorrect_answers": [
-      "1997",
-      "2000",
-      "1992"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Gordon Freeman soll gebrannt und zerstört haben, welche Nahrung in der Pausenraummikrowelle?",
-    "correct_answer": "Kasserolle",
-    "incorrect_answers": [
-      "Sub -Sandwich",
-      "Hühnersuppe",
-      "Peperoni Pizza"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "In \"Toriko\", welcher der folgenden himmlischen Könige hat einen verstärkten Hörsinn?",
-    "correct_answer": "Zebra",
-    "incorrect_answers": [
-      "Coco",
-      "Sonnig",
-      "Toriko"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welcher der folgenden Anime des Mecha -Genres begann 1982 ausgestrahlt?",
-    "correct_answer": "Die Superdimension Festung Makross",
-    "incorrect_answers": [
-      "Mobiler Anzug Gundam",
-      "Gepanzerte Soldaten -Votome",
-      "Neon Genesis Evangelion"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Einer der frühen Prototypen des Sega Dreamcast -Controllers ähnelte der der folgenden?",
-    "correct_answer": "Fernseh -Fernbedienung",
-    "incorrect_answers": [
-      "Tablette",
-      "Fön",
-      "Flip -Telefon"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Welche 80er -Jahre -Band wird vom Sänger/Gitarristen Robert Smith vorgestellt?",
-    "correct_answer": "Die Heilung",
-    "incorrect_answers": [
-      "Die Smiths",
-      "Echo & amp;die Häschen",
-      "Neue Ordnung"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "Nach \"Star Wars\" & quot;Überlieferung, aus welchem ​​Planet kommt Obi-Wan Kenobi?",
-    "correct_answer": "Stewjon",
-    "incorrect_answers": [
-      "Alderaan",
-      "Tatooine",
-      "Naboo"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Welche dieser Einrichtungen war auf der Titanic nicht vorhanden?",
-    "correct_answer": "Ohnmachtraum",
-    "incorrect_answers": [
-      "Türkisches Bad",
-      "Zwinger",
-      "Kürbisgericht"
+      "Florida",
+      "Idaho",
+      "New Mexico"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Prominente",
-    "question": "Paul McCartney hat immer seinen zweiten Vornamen verwendet.Was ist sein wahrer Vorname?",
-    "correct_answer": "James",
+    "question": "Welche amerikanische Prominente starb 1977 in La Moraleja, Madrid, Golf?",
+    "correct_answer": "Bing Crosby",
     "incorrect_answers": [
-      "John",
-      "Jack",
-      "Justin"
+      "Elvis Presley",
+      "Charlie Chaplin",
+      "Groucho Marx"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Welche dieser Früchte ist botanisch gesehen keine Beere?",
+    "correct_answer": "Erdbeere",
+    "incorrect_answers": [
+      "Blaubeere",
+      "Banane",
+      "Concord Traube"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Was war der letzte Film von Marx Brothers mit Zeppo?",
+    "correct_answer": "Entensuppe",
+    "incorrect_answers": [
+      "Eine Nacht in der Oper",
+      "Ein Tag bei den Rennen",
+      "Affengeschäft"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geschichte",
+    "question": "Im Zweiten Weltkrieg ließen die Vereinigten Staaten 1945 Atombomben auf die beiden japanischen Städte Hiroshima und in welcher anderen Stadt fallen?",
+    "correct_answer": "Nagasaki",
+    "incorrect_answers": [
+      "Kawasaki",
+      "Tokio",
+      "Kagoshima"
     ]
   },
   {
@@ -337,266 +145,458 @@
   },
   {
     "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Kanye West bei 2009 VMA's unterbrochen welche Berühmtheit?",
-    "correct_answer": "Taylor Swift",
-    "incorrect_answers": [
-      "MF Doom",
-      "Beyonce",
-      "Beck"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Als Halo 3: ODST 2008 enthüllt wurde, hatte es einen anderen Titel.Wie heißt das Spiel offiziell?",
-    "correct_answer": "Halo 3: Recon",
-    "incorrect_answers": [
-      "Halo 3: Helljumpers",
-      "Halo 3: Phantom",
-      "Halo 3: Guerilla"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wie heißt in dem von George Orwell geschriebenen Roman 1984 das totalitäre Regime, das Ozeanien kontrolliert?",
-    "correct_answer": "Iningoc",
-    "incorrect_answers": [
-      "Neo-Bolschewismus",
-      "Auslöste des Selbst",
-      "Erdbündnis"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Wer war der erste Präsident, der in den unabhängigen Vereinigten Staaten geboren wurde?",
-    "correct_answer": "Martin van Buren",
-    "incorrect_answers": [
-      "John Adams",
-      "George Washington",
-      "James Monroe"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "In dem Video-Game-Franchise Kingdom Hearts trägt der Hauptdarsteller eine Waffe mit welcher Form?",
-    "correct_answer": "Schlüssel",
-    "incorrect_answers": [
-      "Schwert",
-      "Stift",
-      "Handy"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welche der folgenden Kopierfähigkeiten wurde nur in \"Kirby & amp;Der erstaunliche Spiegel \"?",
-    "correct_answer": "Mini",
-    "incorrect_answers": [
-      "Magie",
-      "Zerschlagen",
-      "Rakete"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Unterhaltung",
-    "question": "Welche Episode aus der Amazing World of Gumball gewann 2016 bei den British Animation Awards den Childrens Choice Award?",
-    "correct_answer": "Die Hülle",
-    "incorrect_answers": [
-      "Die Grenze",
-      "Die Kinder",
-      "Die Griffe"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 1,
-    "category": "Unterhaltung",
-    "question": "Wer leitete die Filme \"Pulp Fiction\", \"Reservoir Dogs\" & quot;und \"Django Unchained\"?",
-    "correct_answer": "Quentin Tarantino",
-    "incorrect_answers": [
-      "Martin Scorsese",
-      "Steven Spielberg",
-      "James Cameron"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
+    "level": 5,
     "category": "Wissenschaft",
-    "question": "Welcher griechische Mathematiker lief nackt durch die Straßen von Syrakus, während er \"Eureka\" rief;Nach dem Entdecken des Prinzips der Verschiebung?",
-    "correct_answer": "Archimedes",
+    "question": "Was war das erste Unternehmen, das den Begriff \"Golden Master\" verwendet hat.",
+    "correct_answer": "Apfel",
     "incorrect_answers": [
-      "Euklid",
-      "Homer",
-      "Eratosthenes"
+      "IBM",
+      "Microsoft",
+      "Google"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Welcher Sanrio -Charakter wurde 1996 eingeführt?",
-    "correct_answer": "Pompompurin",
+    "question": "In Cook, serviert, lecker!, Welches Essen ist nicht im Spiel enthalten?",
+    "correct_answer": "Torte",
     "incorrect_answers": [
-      "Meine Melodie",
-      "Badtz-maru",
-      "Keroppi"
+      "Shish Kabob",
+      "Hamburger",
+      "Lasagne"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
-    "category": "Allgemeinwissen",
-    "question": "Welche Fast -Food -Kette hat weltweit die meisten Orte?",
-    "correct_answer": "U -Bahn",
+    "category": "Unterhaltung",
+    "question": "Alan Reed ist dafür bekannt, die Stimme von welchem ​​Charakter bereitzustellen?",
+    "correct_answer": "Fred Flintstone",
     "incorrect_answers": [
-      "Starbucks",
-      "MC Donalds",
-      "KFC"
+      "Bugs Bunny",
+      "Fangface",
+      "G.I.Joe"
     ]
   },
   {
     "type": "multiple",
-    "level": 1,
-    "category": "Allgemeinwissen",
-    "question": "Was ist das spanische Wort für \"Esel\"?",
-    "correct_answer": "Burro",
+    "level": 5,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Was wird als die reinste Form der Farbblindheit angesehen?",
+    "correct_answer": "Blau",
     "incorrect_answers": [
-      "Caballo",
-      "Toro",
-      "Perro"
+      "Rot",
+      "Grün",
+      "Lila"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "In der \"S.T.A.L.K.E.R.\" & quot;Serie, welche dieser Elemente können nicht verwendet werden, um die akkumulierte Strahlung des Spielers zu senken?",
+    "correct_answer": "Radioprotektionsmittel",
+    "incorrect_answers": [
+      "Anti-Rad",
+      "Medkit",
+      "Wodka"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
     "category": "Unterhaltung",
-    "question": "Welches der folgenden Spiele war nicht in der Orange Box von Valve enthalten?",
-    "correct_answer": "Gegenstrike",
+    "question": "Pete Townshend arbeitete mit welchem ​​berühmten Gitarristen für eine Veranstaltung an der Brixton Academy 1985 zusammen?",
+    "correct_answer": "David Gilmour",
     "incorrect_answers": [
-      "Portal",
-      "Halbwertszeit 2: Folge zwei",
-      "Team Festung 2"
+      "Jimmy -Seite",
+      "Mark Knopfler",
+      "Eric Clapton"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Welche Firma hat das Spiel \"Overwatch\" erstellt und entwickelt.",
+    "correct_answer": "Blizzard Entertainment",
+    "incorrect_answers": [
+      "Ventil",
+      "Hi-Rez Studios",
+      "Getriebesoftware"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Wer hat die Entdeckung von Röntgenaufnahmen gemacht?",
+    "correct_answer": "Wilhelm Conrad r & oUml; ntgen",
+    "incorrect_answers": [
+      "Thomas Alva Edison",
+      "James Watt",
+      "Albert Einstein"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Bridgetown ist die Hauptstadt welcher Inselland in der Karibik?",
+    "correct_answer": "Barbados",
+    "incorrect_answers": [
+      "Kuba",
+      "Jamaika & LRM;",
+      "Dominica"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "Wie viele normale Enden gibt es im Kampagnenmodus von CRY Of Fear?",
-    "correct_answer": "4",
+    "question": "In Breaking Bad, die Initialen W.W.Verweisen Sie auf welche der folgenden?",
+    "correct_answer": "Walter White",
     "incorrect_answers": [
-      "5",
+      "William Wolf",
+      "Willy Wonka",
+      "Wally Walros"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Fahrzeuge",
+    "question": "Jaguar Cars war zuvor im Besitz von welchem ​​Autohersteller?",
+    "correct_answer": "Ford",
+    "incorrect_answers": [
+      "Chrysler",
+      "General Motors",
+      "Fiat"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geographie",
+    "question": "Welches Land hat die Abkürzung \"ch & quot;?",
+    "correct_answer": "Schweiz",
+    "incorrect_answers": [
+      "China",
+      "Kanada",
+      "Kein Land"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wer ist der Hauptcharakter des Spiels Half-Life: Gegenkraft?",
+    "correct_answer": "Adrian Shephard",
+    "incorrect_answers": [
+      "Gordon Freeman",
+      "Alyx Vance",
+      "Barney Calhoun"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Wie viele Leute können Sie im Spiel Suikoden in einem einzigen Durchgang einstellen?",
+    "correct_answer": "107",
+    "incorrect_answers": [
+      "108",
+      "93",
+      "96"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Wissenschaft & amp;Natur",
+    "question": "Der Asteroidengürtel befindet sich zwischen den beiden Planeten?",
+    "correct_answer": "Mars und Jupiter",
+    "incorrect_answers": [
+      "Jupiter und Saturn",
+      "Quecksilber und Venus",
+      "Erde und Mars"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Mythologie",
+    "question": "Wer hat in der griechischen Mythologie Achilles getötet?",
+    "correct_answer": "Paris",
+    "incorrect_answers": [
+      "Tyrannisieren",
+      "Helen",
+      "Perikles"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Welcher Touhou -Projektcharakter war der erste Auftritt als Midboss im achten Spiel, unvergängliche Nacht?",
+    "correct_answer": "Tewi Inaba",
+    "incorrect_answers": [
+      "Mystia Lorelei",
+      "Kaguya Houraisan",
+      "Rumia"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "Wie heißt der Hauptcharakter im \"Leben\", ist seltsam \"?",
+    "correct_answer": "Maxine Caulfield",
+    "incorrect_answers": [
+      "Victoria Chase",
+      "Stella Hill",
+      "Chloe -Preis"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Unterhaltung",
+    "question": "In der Show & quot; futurama & quot;Wie heißt der vollständige Name des Fry?",
+    "correct_answer": "Philip J. Fry",
+    "incorrect_answers": [
+      "Fry J. Philip",
+      "Fry Rodr & iacute; Guez",
+      "Philip braten"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Welches Animationsstudio animiert \"Hidamari Sketch\"?",
+    "correct_answer": "Welle",
+    "incorrect_answers": [
+      "Auslösen",
+      "Kyoto -Animation",
+      "Produktion I.G"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Normalerweise wie viele Schlüssel befinden sich auf einem Klavier?",
+    "correct_answer": "88",
+    "incorrect_answers": [
+      "24",
+      "12",
+      "96"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Geschichte",
+    "question": "Der Spitfire L.F. Mk IX hatte welchen Motor?",
+    "correct_answer": "Merlin 66",
+    "incorrect_answers": [
+      "Griffon 65",
+      "Merlin 50",
+      "Merlin x"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Tiere",
+    "question": "Wie heißt der wissenschaftliche Name des Wellenlochs?",
+    "correct_answer": "Melopsittacus undulatus",
+    "incorrect_answers": [
+      "Nymphicus hollandicus",
+      "Pyrrhura Molinae",
+      "Ara Macao"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welches Wahrzeichen von Toronto wurde auf der Cover Art of Canadian Rapper Drake's 2016 Album & Quot; Views & Quot;?",
+    "correct_answer": "CN -Turm",
+    "incorrect_answers": [
+      "Allan Gardens",
+      "Union Station",
+      "Prinz von Wales Theater"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Welches dieser Spiele wurde von Markus Persson nicht entwickelt?",
+    "correct_answer": "Zwergfestung",
+    "incorrect_answers": [
+      "Minecraft",
+      "Wurm online",
+      "0x10c"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 1,
+    "category": "Geschichte",
+    "question": "Wie viele bemannte Mondlandungen gab es?",
+    "correct_answer": "6",
+    "incorrect_answers": [
+      "1",
       "3",
-      "6"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 3,
-    "category": "Geschichte",
-    "question": "Welche dieser Gründerväter der Vereinigten Staaten von Amerika wurde später Präsident?",
-    "correct_answer": "James Monroe",
-    "incorrect_answers": [
-      "Alexander Hamilton",
-      "Samuel Adams",
-      "Roger Sherman"
-    ]
-  },
-  {
-    "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "In der Panik!Bei der Disco -Song \"Nothern Downpour\", welcher Lyrik folgt, kenne ich die Welt, die ein gebrochener Knochen ist.",
-    "correct_answer": "\"Also schmelzen Sie Ihre Kopfschmerzen, nennen Sie es zu Hause\" \"",
-    "incorrect_answers": [
-      "\"Singen Sie Ihr Lied, bis Sie zu Hause sind\".",
-      "& quot; lassen Sie sie wissen, dass sie auf eigene Faust sind.",
-      "\"Also starten Sie ein Feuer in ihrem kalten Stein\"."
+      "7"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "In dem britischen Film von 1979 \"Quadrophenia\" & quot;Wie heißt die Küstenstadt, die die Mods besuchen?",
-    "correct_answer": "Brighton",
+    "question": "In \"Kingdom Hearts\", wer entführt Jasmine in der Lampenkammer?",
+    "correct_answer": "Riku",
     "incorrect_answers": [
-      "Eastbourne",
-      "Mausloch",
-      "Bridlington"
+      "Riku Replik",
+      "Xaldin",
+      "Captain Hook"
     ]
   },
   {
     "type": "multiple",
     "level": 1,
-    "category": "Unterhaltung",
-    "question": "In der Halbwertsreihe ist Gordon Freemans Signaturwaffe a:",
-    "correct_answer": "Brecheisen",
+    "category": "Geographie",
+    "question": "Wie heißt das indigene Volk von Neuseeland?",
+    "correct_answer": "Maori",
     "incorrect_answers": [
-      "Vorschlaghammer",
-      "Faserdraht",
-      "Katana"
+      "Wikinger",
+      "Polynesier",
+      "Samoaner"
     ]
   },
   {
     "type": "multiple",
     "level": 5,
-    "category": "Geschichte",
-    "question": "An welchem ​​Tag begann der Weltkrieg?",
-    "correct_answer": "28. Juli",
+    "category": "Allgemeinwissen",
+    "question": "Welcher der folgenden ist eine vorhandene Familie in \"The Sims\"?",
+    "correct_answer": "Die Goth -Familie",
     "incorrect_answers": [
-      "28. Januar",
-      "28. Juni",
-      "28. April"
+      "Die Familie",
+      "Die Familie Simoleon",
+      "Die stolze Familie"
     ]
   },
   {
     "type": "multiple",
-    "level": 5,
-    "category": "Unterhaltung",
-    "question": "1978 hat sich Superman mit welcher Berühmtheit zusammengetan, um eine außerirdische Invasion zu besiegen?",
-    "correct_answer": "Muhammad Ali",
+    "level": 1,
+    "category": "Sport",
+    "question": "Welches Team gewann England im Weltcup -Finale von 1966?",
+    "correct_answer": "Westdeutschland",
     "incorrect_answers": [
-      "Mike Tyson",
-      "Sylvester Stallone",
-      "Arnold Schwarzenegger"
+      "die Sowjetunion",
+      "Portugal",
+      "Brasilien"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "In der Episode von SpongeBob Squarepants \"Survival of the Idioter\", SpongeBob namens Patrick, welchen Spitznamen?",
-    "correct_answer": "Stecknadelkopf",
+    "question": "Welche dieser Bands stammen nicht aus Australien?",
+    "correct_answer": "Das nackte und berühmte",
     "incorrect_answers": [
-      "Seestern",
-      "Larry",
-      "Schmutziger Dan"
+      "Kopie schneiden",
+      "Reich der Sonne",
+      "Zahmpala"
     ]
   },
   {
     "type": "multiple",
     "level": 3,
     "category": "Unterhaltung",
-    "question": "In Monster Hunter Generations, welche der folgenden Monster sind ein Teil des \"schätzen\" vier \"?\"",
-    "correct_answer": "Astalos",
+    "question": "Welcher russische Autor hat den epischen Roman Krieg und Frieden geschrieben?",
+    "correct_answer": "Leo Tolstoy",
     "incorrect_answers": [
-      "Gore Magala",
-      "Malfestio",
-      "Arzuros"
+      "Fyodor Dostoyevsky",
+      "Alexander Pushkin",
+      "Vladimir Nabokov"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welches davon ist kein DLC -Fahrzeug in \"Mario Kart 8\"?",
+    "correct_answer": "Wildes Wiggler",
+    "incorrect_answers": [
+      "Knochenrattler",
+      "B Dasher",
+      "300 SL Roadster"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Unterhaltung",
+    "question": "Was ist der britische Begriff für eine 64. Notiz?",
+    "correct_answer": "Hemidemisemiquaver",
+    "incorrect_answers": [
+      "Semihemidemisemiquaver",
+      "Semiquaver",
+      "Demisemiquaver"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Wie viele Jahreszeiten hat die TV -Show \"Donkey Kong Country\" angegeben?zuletzt?",
+    "correct_answer": "2",
+    "incorrect_answers": [
+      "1",
+      "4",
+      "5"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Was ist der Name von Batmans Eltern?",
+    "correct_answer": "Thomas & amp;Martha",
+    "incorrect_answers": [
+      "Joey & amp;Jackie",
+      "Jason & amp;Sarah",
+      "Todd & amp;Mira"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 5,
+    "category": "Wissenschaft",
+    "question": "Wo befindet sich der Gluteus Maximus Muskel?",
+    "correct_answer": "Hintern",
+    "incorrect_answers": [
+      "Arm",
+      "Kopf",
+      "Torso"
+    ]
+  },
+  {
+    "type": "multiple",
+    "level": 3,
+    "category": "Unterhaltung",
+    "question": "Welcher Marvel -Superhelden hat Chris Evans vor seiner Rolle als Captain America gespielt?",
+    "correct_answer": "Menschliche Taschenlampe",
+    "incorrect_answers": [
+      "Zyklop",
+      "Iceman",
+      "Draufgänger"
     ]
   }
 ]
